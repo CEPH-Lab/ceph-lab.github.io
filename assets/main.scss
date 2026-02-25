@@ -2,27 +2,28 @@
 ---
 @import "minima";
 
-/* 1. Change header background to a soft teal to compliment your logo */
+/* Header background */
 .site-header {
-  background-color: #f0f6f7; 
-  border-top: 5px solid #508c96; /* Adds a solid top border matching the logo */
+  background-color: #f0f6f7;
 }
 
-/* 2. Format the site title and inject the logo */
+/* Website title and inject the logo */
 .site-title {
   display: flex !important;
   align-items: center;
   font-weight: bold;
-  color: #2b2b2b !important; 
+  color: #2b2b2b !important;
+  font-size: 20px !important;
 }
 
+/* Adding the logo */ 
 .site-title::before {
   content: "";
   display: inline-block;
-  width: 50px; /* Adjust size of logo here */
+  width: 50px; 
   height: 50px;
-  background-image: url('/images/ceph-logo.png'); /* Points to your newly uploaded logo */
+  background-image: url('/images/ceph-logo.png');
   background-size: contain;
   background-repeat: no-repeat;
-  margin-right: 15px; /* Adds space between the logo and the text */
+  margin-right: 15px; 
 }
