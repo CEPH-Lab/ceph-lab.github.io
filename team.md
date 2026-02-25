@@ -51,12 +51,12 @@ permalink: /team/
 # Our Team
 
 <div class="pi-profile">
-  <img src="https://via.placeholder.com/200" alt="Dr. Marco Ajelli">
+  <img src="https://ui-avatars.com/api/?name=Marco+Ajelli&background=508c96&color=fff&size=200" alt="Marco Ajelli">
   <div>
     <h2 style="margin-top: 0; border-bottom: none;">Marco Ajelli</h2>
-    <p><strong>Principal Investigator</strong><br>
-    Department of Epidemiology<br>
-    Indiana University</p>
+    <p><strong>Professor</strong><br>
+    Department of Epidemiology and Biostatistics<br>
+    Indiana University School of Public Health Bloomington</p>
   </div>
 </div>
 
@@ -65,43 +65,43 @@ permalink: /team/
 <div class="team-grid">
 
   <div class="team-member">
-    <img src="https://via.placeholder.com/150" alt="Paulo Ventura">
+    <img src="https://ui-avatars.com/api/?name=Paulo+Ventura&background=508c96&color=fff&size=150" alt="Paulo Ventura">
     <h4>Paulo Ventura</h4>
     <p>Postdoctoral Researcher</p>
   </div>
   
   <div class="team-member">
-    <img src="https://via.placeholder.com/150" alt="Allisandra G. Kummer">
+    <img src="https://ui-avatars.com/api/?name=Allisandra+Kummer&background=508c96&color=fff&size=150" alt="Allisandra G. Kummer">
     <h4>Allisandra G. Kummer</h4>
     <p>Postdoctoral Researcher</p>
   </div>
   
   <div class="team-member">
-    <img src="https://via.placeholder.com/150" alt="Shreeya Mhade">
+    <img src="https://ui-avatars.com/api/?name=Shreeya+Mhade&background=508c96&color=fff&size=150" alt="Shreeya Mhade">
     <h4>Shreeya Mhade</h4>
     <p>PhD Student</p>
   </div>
 
   <div class="team-member">
-    <img src="https://via.placeholder.com/150" alt="Utkarsh Bhosekar">
+    <img src="https://ui-avatars.com/api/?name=Utkarsh+Bhosekar&background=508c96&color=fff&size=150" alt="Utkarsh Bhosekar">
     <h4>Utkarsh Bhosekar</h4>
     <p>Data Analyst</p>
   </div>
 
   <div class="team-member">
-    <img src="https://via.placeholder.com/150" alt="Jessica Guerrini">
+    <img src="https://ui-avatars.com/api/?name=Jessica+Guerrini&background=508c96&color=fff&size=150" alt="Jessica Guerrini">
     <h4>Jessica Guerrini</h4>
     <p>Research Assistant</p>
   </div>
 
   <div class="team-member">
-    <img src="https://via.placeholder.com/150" alt="Katie Pletz">
+    <img src="https://ui-avatars.com/api/?name=Katie+Pletz&background=508c96&color=fff&size=150" alt="Katie Pletz">
     <h4>Katie Pletz</h4>
     <p>Research Assistant</p>
   </div>
 
   <div class="team-member">
-    <img src="https://via.placeholder.com/150" alt="Snigdha Agrawal">
+    <img src="https://ui-avatars.com/api/?name=Snigdha+Agrawal&background=508c96&color=fff&size=150" alt="Snigdha Agrawal">
     <h4>Snigdha Agrawal</h4>
     <p>Research Assistant</p>
   </div>
