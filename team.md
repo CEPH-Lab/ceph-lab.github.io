@@ -61,43 +61,43 @@ permalink: /team/
 <div class="team-grid">
 
   <div class="team-member">
-    <img src="images/team/paulo-ventura.jpg" alt="Paulo Ventura">
+    <img src="/images/team/paulo-ventura.jpg" alt="Paulo Ventura">
     <h4>Paulo Ventura</h4>
     <p>Postdoctoral Researcher</p>
   </div>
   
   <div class="team-member">
-    <img src="images/team/allisandra-kummer.jpg" alt="Allisandra G. Kummer">
+    <img src="/images/team/allisandra-kummer.jpg" alt="Allisandra G. Kummer">
     <h4>Allisandra G. Kummer</h4>
     <p>Postdoctoral Researcher</p>
   </div>
   
   <div class="team-member">
-    <img src="images/team/shreeya-mhade.jpg" alt="Shreeya Mhade">
+    <img src="/images/team/shreeya-mhade.jpg" alt="Shreeya Mhade">
     <h4>Shreeya Mhade</h4>
     <p>PhD Student</p>
   </div>
 
   <div class="team-member">
-    <img src="images/team/utkarsh-bhosekar.jpg" alt="Utkarsh Bhosekar">
+    <img src="/images/team/utkarsh-bhosekar.jpg" alt="Utkarsh Bhosekar">
     <h4>Utkarsh Bhosekar</h4>
     <p>Data Analyst</p>
   </div>
 
   <div class="team-member">
-    <img src="images/team/jessica-guerrini.jpg" alt="Jessica Guerrini">
+    <img src="/images/team/jessica-guerrini.jpg" alt="Jessica Guerrini">
     <h4>Jessica Guerrini</h4>
     <p>Research Assistant</p>
   </div>
 
   <div class="team-member">
-    <img src="images/team/katie-pletz.jpg" alt="Katie Pletz">
+    <img src="/images/team/katie-pletz.jpg" alt="Katie Pletz">
     <h4>Katie Pletz</h4>
     <p>Research Assistant</p>
   </div>
 
   <div class="team-member">
-    <img src="images/team/snigdha-agrawal.jpg" alt="Snigdha Agrawal">
+    <img src="/images/team/snigdha-agrawal.jpg" alt="Snigdha Agrawal">
     <h4>Snigdha Agrawal</h4>
     <p>Research Assistant</p>
   </div>
@@ -108,7 +108,7 @@ permalink: /team/
   <h2 style="border-bottom: 2px solid #508c96; padding-bottom: 10px; margin-bottom: 20px;">Former Lab Members</h2>
   
   <ul style="list-style-type: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
-    <li><strong>Megan Hill</strong> </li>
-    <li><strong>Jagadeesh Chitturi</strong> </li>
+    <li>Megan Hill</li>
+    <li>Jagadeesh Chitturi</li>
   </ul>
 </div>
