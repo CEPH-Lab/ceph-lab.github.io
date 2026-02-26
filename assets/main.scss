@@ -27,3 +27,10 @@
   background-repeat: no-repeat;
   margin-right: 15px; 
 }
+
+/* Expand the maximum width of the website content */
+.wrapper {
+  max-width: 1200px !important;
+  padding-right: 30px;
+  padding-left: 30px;
+}
