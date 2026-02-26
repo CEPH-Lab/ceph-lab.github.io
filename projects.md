@@ -5,80 +5,129 @@ permalink: /projects/
 ---
 
 <style>
-  html {
-    scroll-behavior: smooth;
+  .intro-text {
+    font-size: 18px; /* Slightly larger, more editorial font */
+    line-height: 1.7;
+    color: #444;
+    margin-bottom: 60px;
+    margin-top: 30px;
+    max-width: 900px;
   }
-  
-  .pub-entry {
-    margin-bottom: 35px;
-    line-height: 1.5;
-  }
-  
-  .pub-title {
-    font-size: 18px;
-    font-weight: 500;
+
+  /* Modern, Sleek Section Headers */
+  .research-area {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
     color: #508c96;
-    text-decoration: none;
-    border-bottom: 1px dotted #ccc;
-    display: inline-block;
-    margin-bottom: 5px;
-  }
-  
-  .pub-title:hover {
-    border-bottom: 1px solid #508c96;
-  }
-  
-  .pub-authors {
-    margin: 0 0 2px 0;
-    color: #333;
-  }
-  
-  .pub-journal {
-    margin: 0;
-    color: #666;
-    font-size: 0.95em;
-  }
-  
-  .year-nav {
-    font-size: 18px;
-    margin-bottom: 40px;
-    line-height: 2;
-    font-weight: bold;
-  }
-  
-  .year-nav a {
-    color: #508c96;
-    text-decoration: none;
-    margin: 0 8px;
-  }
-  
-  .year-nav a:hover {
-    text-decoration: underline;
-  }
-  
-  .year-section {
-    border-bottom: 2px solid #508c96; 
-    padding-bottom: 5px; 
+    font-weight: 700;
     margin-top: 60px;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    border: none;
+  }
+  
+  .research-area::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #e5e5e5;
+    margin-left: 20px;
+  }
+
+  /* Elevated Card Accordion */
+  .project-dropdown {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+    border: 1px solid #f0f0f0;
+    border-left: 6px solid #508c96;
+    transition: all 0.3s ease;
+  }
+  
+  .project-dropdown:hover {
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px); /* Lifts the card on hover */
+  }
+  
+  /* Clickable Header */
+  .project-dropdown summary {
+    font-size: 20px;
+    font-weight: 600;
+    color: #2b2b2b;
+    padding: 25px;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* Removes default triangle in Safari */
+  .project-dropdown summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  /* Circular Animated Icon */
+  .project-dropdown summary::after {
+    content: '+';
+    font-family: monospace;
+    font-size: 24px;
+    line-height: 1;
+    color: #fff;
+    background-color: #508c96;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+  }
+  
+  .project-dropdown[open] summary::after {
+    content: '−';
+    background-color: #36636a;
+    transform: rotate(180deg);
+  }
+
+  /* Text Content */
+  .project-content {
+    padding: 0 25px 30px 25px;
+  }
+
+  .project-text {
+    line-height: 1.8;
+    color: #555;
+    margin: 0;
+    font-size: 16px;
   }
 </style>
 
-<div class="year-nav">
-  <a href="#2024">2026</a> | 
-  <a href="#2024">2025</a> | 
-  <a href="#2024">2024</a> | 
-  <a href="#2023">2023</a> | 
-  <a href="#2022">2022</a> | 
-  <a href="#2021">2021</a> | 
-  <a href="#2020">2020</a> |
-  <a href="#2019">2019</a>
+<div class="intro-text">
+  <p>The Laboratory for Computational Epidemiology and Public Health (CEPH) utilizes mathematical and computational modeling to understand the transmission dynamics of infectious diseases. Our projects aim to evaluate the impact of human behavior, socio-demographic factors, and public health interventions to inform policy and epidemic preparedness.</p>
 </div>
 
-<h2 id="2026" class="year-section">2026</h2>
-<div class="pub-entry">
-  <a href="https://doi.org/10.1016/j.idm.2025.10.009" target="_blank" class="pub-title">Understanding human mobility patterns under a public health emergency</a>
-  <p class="pub-authors">Cheng Peng, Nana Chen, Bo-Wen Ming, Anqi Zhang, Yao Zuo, Paulo C Ventura, Hongjie Yu, Marco Ajelli, Juanjuan Zhang</p>
-  <p class="pub-journal"><em>Infectious Disease Modelling</em> 11 (1), 241-255 (2026)</p>
-</div>
+<h2 class="research-area">Respiratory Viruses</h2>
 
+<details class="project-dropdown" open>
+  <summary>RSV Transmission Dynamics</summary>
+  <div class="project-content">
+    <p class="project-text">We develop compartmental model to simulate the spread of Respiratory Syncytial Virus
+    (RSV) within populations. </p>
+  </div>
+</details>
+
+<h2 class="research-area">Mosquito-Borne Diseases</h2>
+
+<details class="project-dropdown">
+  <summary>Diel Activity Patterns</summary>
+  <div class="project-content">
+    <p class="project-text">Understanding the precise behavioral patterns of vector mosquito species
+    in urban environments is critical for mitigating outbreaks of diseases like Dengue. Our models 
+    evaluate mosquito diel activity cycles and bite exposure risks to optimize the timing and spatial 
+    distribution of vector control strategies, ultimately reducing the probability of human infection.</p>
+  </div>
+</details>
