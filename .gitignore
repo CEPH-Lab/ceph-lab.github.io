@@ -1,5 +1,76 @@
-# Compiled source #
-###################
+# ==============================================================================
+# LAB WEBSITE .GITIGNORE
+# This file tells Git which files and directories to ignore in the repository.
+# Keeps the repository clean, lightweight, and secure.
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. OS Generated Files
+# ------------------------------------------------------------------------------
+# Hidden system files created by Mac and Windows that clutter the repository.
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ------------------------------------------------------------------------------
+# 2. IDEs and Editors
+# ------------------------------------------------------------------------------
+# Local workspace settings for various code editors. We ignore these so 
+# developers don't accidentally overwrite each other's editor preferences.
+
+# JetBrains IDEs (PyCharm, WebStorm, IntelliJ)
+.idea/
+*.iml
+out/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Vim / Emacs temporary backup files
+*~
+*.swp
+*.swo
+
+# ------------------------------------------------------------------------------
+# 3. Static Site Generator (Jekyll / GitHub Pages)
+# ------------------------------------------------------------------------------
+# When you test the website locally, Jekyll builds temporary files. 
+# These should never be committed, as GitHub Pages will build them automatically.
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# ------------------------------------------------------------------------------
+# 4. Python
+# ------------------------------------------------------------------------------
+# If you run Python scripts to process lab data or generate charts for the site.
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.env
+
+# ------------------------------------------------------------------------------
+# 5. Node / Frontend Dependencies 
+# ------------------------------------------------------------------------------
+# If the website ever uses npm/yarn to install Javascript packages or themes.
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ------------------------------------------------------------------------------
+# 6. Compiled Source
+# ------------------------------------------------------------------------------
+# Pre-compiled code files that should be generated locally, not downloaded.
 *.com
 *.class
 *.dll
@@ -7,10 +78,11 @@
 *.o
 *.so
 
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
+# ------------------------------------------------------------------------------
+# 7. Packages and Archives
+# ------------------------------------------------------------------------------
+# It's better to unpack these files and commit the raw source.
+# Git has its own built-in compression; committing zip files bloats the repo history.
 *.7z
 *.dmg
 *.gz
@@ -20,18 +92,11 @@
 *.tar
 *.zip
 
-# Logs and databases #
-######################
+# ------------------------------------------------------------------------------
+# 8. Logs and Databases
+# ------------------------------------------------------------------------------
+# Ignore local database tests and error logs.
 *.log
 *.sql
 *.sqlite
-
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+*.sqlite3
