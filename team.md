@@ -48,8 +48,6 @@ permalink: /team/
   }
 </style>
 
-# Our Team
-
 <div class="pi-profile">
   <img src="https://ui-avatars.com/api/?name=Marco+Ajelli&background=508c96&color=fff&size=200" alt="Marco Ajelli">
   <div>
@@ -60,50 +58,57 @@ permalink: /team/
   </div>
 </div>
 
-<hr>
-
 <div class="team-grid">
 
   <div class="team-member">
-    <img src="https://ui-avatars.com/api/?name=Paulo+Ventura&background=508c96&color=fff&size=150" alt="Paulo Ventura">
+    <img src="images/team/paulo-ventura.jpg" alt="Paulo Ventura">
     <h4>Paulo Ventura</h4>
     <p>Postdoctoral Researcher</p>
   </div>
   
   <div class="team-member">
-    <img src="https://ui-avatars.com/api/?name=Allisandra+Kummer&background=508c96&color=fff&size=150" alt="Allisandra G. Kummer">
+    <img src="images/team/allisandra-kummer.jpg" alt="Allisandra G. Kummer">
     <h4>Allisandra G. Kummer</h4>
     <p>Postdoctoral Researcher</p>
   </div>
   
   <div class="team-member">
-    <img src="https://ui-avatars.com/api/?name=Shreeya+Mhade&background=508c96&color=fff&size=150" alt="Shreeya Mhade">
+    <img src="images/team/shreeya-mhade.jpg" alt="Shreeya Mhade">
     <h4>Shreeya Mhade</h4>
     <p>PhD Student</p>
   </div>
 
   <div class="team-member">
-    <img src="https://ui-avatars.com/api/?name=Utkarsh+Bhosekar&background=508c96&color=fff&size=150" alt="Utkarsh Bhosekar">
+    <img src="images/team/utkarsh-bhosekar.jpg" alt="Utkarsh Bhosekar">
     <h4>Utkarsh Bhosekar</h4>
     <p>Data Analyst</p>
   </div>
 
   <div class="team-member">
-    <img src="https://ui-avatars.com/api/?name=Jessica+Guerrini&background=508c96&color=fff&size=150" alt="Jessica Guerrini">
+    <img src="images/team/jessica-guerrini.jpg" alt="Jessica Guerrini">
     <h4>Jessica Guerrini</h4>
     <p>Research Assistant</p>
   </div>
 
   <div class="team-member">
-    <img src="https://ui-avatars.com/api/?name=Katie+Pletz&background=508c96&color=fff&size=150" alt="Katie Pletz">
+    <img src="images/team/katie-pletz.jpg" alt="Katie Pletz">
     <h4>Katie Pletz</h4>
     <p>Research Assistant</p>
   </div>
 
   <div class="team-member">
-    <img src="https://ui-avatars.com/api/?name=Snigdha+Agrawal&background=508c96&color=fff&size=150" alt="Snigdha Agrawal">
+    <img src="images/team/snigdha-agrawal.jpg" alt="Snigdha Agrawal">
     <h4>Snigdha Agrawal</h4>
     <p>Research Assistant</p>
   </div>
 
+</div>
+
+<div style="margin-top: 70px;">
+  <h2 style="border-bottom: 2px solid #508c96; padding-bottom: 10px; margin-bottom: 20px;">Former Lab Members</h2>
+  
+  <ul style="list-style-type: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
+    <li><strong>Megan Hill</strong> </li>
+    <li><strong>Jagadeesh Chitturi</strong> </li>
+  </ul>
 </div>
