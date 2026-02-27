@@ -113,6 +113,23 @@ permalink: /projects/
 <h2 class="research-area">Respiratory Viruses</h2>
 
 <details class="project-dropdown" open>
+  <summary>Within and between-hosts multiscale modeling: VIBES</summary>
+  <div class="project-content">
+    <p class="project-text">We developed a multiscale agent-based model that combines within-host
+    viral dynamics and between-hosts transmission dynamics. The viral dynamics model is fed with longitudinal
+    viral load data of patients infected by the target pathogen, and it drives the infectiousness and disease
+    progression in the transmission model.</p>
+  </div>
+</details>
+
+<details class="project-dropdown" open>
+  <summary>Forecasting of Respiratory Viral Diseases</summary>
+  <div class="project-content">
+    <p class="project-text">Add description here</p>
+  </div>
+</details>
+
+<details class="project-dropdown" open>
   <summary>RSV Transmission Dynamics</summary>
   <div class="project-content">
     <p class="project-text">We develop compartmental model to simulate the spread of Respiratory Syncytial Virus
@@ -123,11 +140,12 @@ permalink: /projects/
 <h2 class="research-area">Mosquito-Borne Diseases</h2>
 
 <details class="project-dropdown">
-  <summary>Diel Activity Patterns</summary>
+  <summary>Forecasting relative abundance of mosquitoes in urban areas</summary>
   <div class="project-content">
-    <p class="project-text">Understanding the precise behavioral patterns of vector mosquito species
-    in urban environments is critical for mitigating outbreaks of diseases like Dengue. Our models 
-    evaluate mosquito diel activity cycles and bite exposure risks to optimize the timing and spatial 
-    distribution of vector control strategies, ultimately reducing the probability of human infection.</p>
+    <p class="project-text">We developed an analytical tool to forecast the relative abundance
+    of mosquito species in urban areas.The tool is a mechanistic and Bayesian framework, which estimates
+    reproduction and generation parameters of a mosquito species based on weekly specimen collection data.
+    We trained and validated our framework for Aedes aegypti collections in four urban locations of the USA 
+    with diverse climate landscapes.</p>
   </div>
 </details>
