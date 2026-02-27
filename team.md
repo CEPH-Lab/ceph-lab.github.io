@@ -105,7 +105,7 @@ permalink: /team/
 </div>
 
 <div style="margin-top: 70px;">
-  <h2 style="border-bottom: 2px solid #508c96; padding-bottom: 10px; margin-bottom: 20px;">Former Lab Members</h2>
+  <h2 style="border-bottom: 2px solid #508c96; padding-bottom: 10px; margin-bottom: 20px;">Lab Alumni</h2>
   
   <ul style="list-style-type: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
     <li>Megan Hill</li>
