@@ -6,7 +6,7 @@ permalink: /projects/
 
 <style>
   .intro-text {
-    font-size: 18px; /* Slightly larger, more editorial font */
+    font-size: 18px;
     line-height: 1.7;
     color: #444;
     margin-bottom: 60px;
@@ -14,7 +14,7 @@ permalink: /projects/
     max-width: 900px;
   }
 
-  /* Modern, Sleek Section Headers */
+  /* Section Headers */
   .research-area {
     font-size: 14px;
     text-transform: uppercase;
@@ -36,7 +36,7 @@ permalink: /projects/
     margin-left: 20px;
   }
 
-  /* Elevated Card Accordion */
+  /* Card design */
   .project-dropdown {
     margin-bottom: 20px;
     background-color: #ffffff;

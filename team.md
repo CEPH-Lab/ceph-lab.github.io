@@ -49,7 +49,7 @@ permalink: /team/
 </style>
 
 <div class="pi-profile">
-  <img src="https://ui-avatars.com/api/?name=Marco+Ajelli&background=508c96&color=fff&size=200" alt="Marco Ajelli">
+  <img src="/images/team/marco-ajelli.jpg" alt="Marco Ajelli">
   <div>
     <h2 style="margin-top: 0; border-bottom: none;">Marco Ajelli</h2>
     <p><strong>Professor</strong><br>
@@ -108,7 +108,17 @@ permalink: /team/
   <h2 style="border-bottom: 2px solid #508c96; padding-bottom: 10px; margin-bottom: 20px;">Lab Alumni</h2>
   
   <ul style="list-style-type: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
+    <li>Luling Zou</li>
     <li>Megan Hill</li>
+    <li>Anna Koebcke</li>
+    <li>Claire Slotegraaf</li>
     <li>Jagadeesh Chitturi</li>
+    <li>Andre Wilke</li>
+    <li>Juanjuan Zhang (Visiting Scholar)</li>
+    <li>Ethan SeRine</li>
+    <li>Adquate Mhlanga</li>
+    <li>Shelby Stone</li>
+    <li>Victorya Valentine</li>
+    <li>Samantha O'Dell</li>
   </ul>
 </div>
