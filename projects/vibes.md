@@ -82,7 +82,7 @@ permalink: /projects/vibes/
 </div>
 
 <div class="project-body">
-  <img src="/images/projects/vibes/fig01.png" alt="VIBES Framework Operation" class="figure-right">
+  <img src="/images/projects/vibes/Fig01.png" alt="VIBES Framework" class="figure-right">
 
   <p>Infectious disease spread is a complex, multi-scale process driven by the continuous interaction 
     between biological (within-host) and social (between-host) factors. To truly understand epidemic dynamics, 
