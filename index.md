@@ -1,17 +1,27 @@
 ---
-layout: page
+layout: default
 title: Home
 permalink: /
 ---
 <style>
-  /* Mission Text Styling */
+  /* Text Styling */
   .mission-text {
     font-size: 18px; 
     line-height: 1.7;
     color: #444;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     margin-top: 20px;
-    max-width: 900px;
+  }
+  
+  .what-we-do-list {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #444;
+    margin-bottom: 50px;
+  }
+  
+  .what-we-do-list li {
+    margin-bottom: 10px;
   }
 
   /* Modern, Sleek Section Headers */
@@ -106,55 +116,80 @@ permalink: /
   }
 </style>
 
-<h2 class="section-header">Our Mission</h2>
+<h2 class="section-header">Mission</h2>
 <div class="mission-text">
-  <p>The Laboratory for Computational Epidemiology and Public Health (CEPH) utilizes mathematical and 
-    computational modeling to advance the understanding of infectious disease dynamics and provide
-    actionable insights to inform infectious disease outbreak preparedness and response planning.</p>
+  <p>Our mission is to advance the understanding of infectious disease dynamics through applied infectious
+    disease epidemiology and mathematical modeling. By studying infectious disease outbreaks and pandemics and
+    developing new tools, we generate actionable insights that inform public health decision-making and strengthen
+    preparedness and response planning.</p>
 </div>
+
+<h2 class="section-header">What We Do</h2>
+<div class="mission-text">
+  <p>We study how infectious diseases spread and how outbreaks can be better prevented and controlled. Our lab:</p>
+</div>
+<ul class="what-we-do-list">
+  <li>Uses mathematical modeling and applied infectious disease epidemiology to investigate disease dynamics.</li>
+  <li>Develops tools to analyze, track, and forecast infectious disease outbreaks and pandemics.</li>
+  <li>Produces actionable insights that support public health decision-making, preparedness, and response.</li>
+</ul>
 
 <h2 class="section-header">Research Areas</h2>
 
 <details class="research-card">
-  <summary>Respiratory Viruses Forecasting</summary>
+  <summary>Forecasting of Respiratory Viral Diseases</summary>
   <div class="research-content">
-    <p class="research-text">Add information about the forecasting of COVID-19, Flu and RSV.</p>
+    <p class="research-text">We develop mathematical models to forecast the trajectory of major respiratory pathogens,
+    including COVID-19, Influenza (Flu), and Respiratory Syncytial Virus (RSV). Our forecasting models integrate
+    real-time epidemiological data to provide early warnings and anticipate healthcare system burdens.</p>
   </div>
 </details>
 
 <details class="research-card">
   <summary>Intervention Assessment</summary>
   <div class="research-content">
-    <p class="research-text">Add information about Scenario Modeling Hub Projects
-    on Respiratory Syncytial Virus (RSV) and Influenza (Flu).</p>
+    <p class="research-text">As active contributors to the Scenario Modeling Hub, we evaluate the potential impact
+    of public health interventions against Respiratory Syncytial Virus (RSV) and Influenza (Flu). By simulating various
+    scenarios, we assess the epidemiological impacts of pharmaceutical interventions, vaccination strategies, and 
+    non-pharmaceutical measures.</p>
   </div>
 </details>
 
 <details class="research-card">
   <summary>Social Contact Patterns</summary>
   <div class="research-content">
-    <p class="research-text">Add information about Contact Pattern paper and heterogeneous risk</p>
+    <p class="research-text">Human mixing behaviors are fundamental drivers of disease transmission. 
+    We map detailed social contact patterns in the post-pandemic era to understand heterogeneous risk across 
+    different socio-demographic groups. By identifying how, where, and when individuals interact, we can more 
+    precisely model the spread of respiratory pathogens.</p>
   </div>
 </details>
 
 <details class="research-card">
   <summary>Multi-scale Modeling</summary>
   <div class="research-content">
-    <p class="research-text">Add information about VIBES and IBES here</p>
+    <p class="research-text">We build a data driven multi-scale frameworks, VIBES and IBES, to simulate disease
+    transmission at multiple scales. These detailed Individual-Based Models (IBMs) integrate granular mobility,
+    demographic, and behavioral data to capture the complex dynamics of epidemics from the individual interaction
+    level up to the broader population level.</p>
   </div>
 </details>
 
 <details class="research-card" open>
-  <summary>Mosquito Forecasting</summary>
+  <summary>Forecasting of Mosquitoes</summary>
   <div class="research-content">
-    <p class="research-text">Add information about Utkarsh and Katie's project</p>
+    <p class="research-text">These projects focus on forecasting vector mosquito population dynamics. 
+    By integrating environmental, climatic, and ecological data, we predict periods of high vector abundance
+    to inform proactive and highly targeted public health responses.</p>
   </div>
 </details>
 
 <details class="research-card">
   <summary>Mosquito Behavior</summary>
   <div class="research-content">
-    <p class="research-text">Add information about Snigdha's project</p>
+    <p class="research-text">Understanding the specific behaviors of vector mosquitoes is critical for mitigating
+    outbreaks of diseases like dengue and Zika. This project examines mosquito diel (daily) activity patterns and
+    behaviors in urban environments to optimize the timing and spatial distribution of vector control strategies.</p>
   </div>
 </details>
 
