@@ -64,14 +64,14 @@ permalink: /publications/
 </style>
 
 <div class="year-nav">
-  <a href="#2024">2026</a> | 
-  <a href="#2024">2025</a> | 
+  <a href="#2026">2026</a> | 
+  <a href="#2025">2025</a> | 
   <a href="#2024">2024</a> | 
   <a href="#2023">2023</a> | 
   <a href="#2022">2022</a> | 
   <a href="#2021">2021</a> | 
   <a href="#2020">2020</a> |
-  <a href="#2019">2019</a>
+  <a href="#earlier-work">Earlier Work</a>
 </div>
 
 <h2 id="2026" class="year-section">2026</h2>
@@ -252,3 +252,15 @@ permalink: /publications/
     David Chien Lye, Barnaby E Young, Keisuke Ejima</p>
   <p class="pub-journal"><em>Journal of Medical Virology</em> 97 (1), e70174 (2025)</p>
 </div>
+
+<h2 id="2024" class="year-section">2024</h2>
+
+<h2 id="2023" class="year-section">2023</h2>
+
+<h2 id="2022" class="year-section">2022</h2>
+
+<h2 id="2021" class="year-section">2021</h2>
+
+<h2 id="2020" class="year-section">2020</h2>
+
+<h2 id="earlier-work" class="year-section">Earlier Work</h2>
