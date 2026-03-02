@@ -76,7 +76,7 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
-  <a href="https://doi.org/10.1073/pnas.2514157122" target="_blank" class="pub-title">VIBES: A Multi-Scale Modeling
+  <a href="https://doi.org/10.48550/arXiv.2508.13354" target="_blank" class="pub-title">VIBES: A Multi-Scale Modeling
     Approach Integrating Within-Host and Between-Hosts Dynamics in Epidemics</a>
   <p class="pub-authors">Paulo Cesar Ventura, Yong Dam Jeong, Maria Litvinova, Allisandra G Kummer, Shingo Iwami,
     Hongjie Yu, Stefano Merler, Alessandro Vespignani, Keisuke Ejima, Marco Ajelli</p>
