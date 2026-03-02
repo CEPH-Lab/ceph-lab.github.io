@@ -26,7 +26,7 @@ permalink: /
 
   /* Modern, Sleek Section Headers */
   .section-header {
-    font-size: 14px;
+    font-size: 28px;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #508c96;
