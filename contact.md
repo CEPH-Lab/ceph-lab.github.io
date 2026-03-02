@@ -28,8 +28,14 @@ permalink: /contact/
 <hr style="margin: 40px 0;">
 
 ### Getting to the Lab
+<div style="margin: 20px 0 30px 0;">
+  <img src="/images/lab-map.png" alt="Map to CEPH Lab" style="width: 100%; height: auto; border: 1px solid #e5e5e5; box-shadow: 0 4px 15px rgba(0,0,0,0.05); display: block;">
+  <p style="margin-top: 10px; font-size: 0.95em; color: #555; font-style: italic;">
+    Note: The map pin shown in <span style="color: #508c96; font-weight: bold;">teal</span> is the exact location of the lab.
+  </p>
+</div>
 
-**Finding Our Building**
+**Finding Our Building**<br>
 Please note that while we are part of the School of Public Health (main building located at *1025 E 7th St*), our lab is located specifically in the **SPH Annex**. The Annex is situated just across the street at **309 N Woodlawn Ave**, near the intersection of 7th Street and Woodlawn Avenue. 
 
 **Public Transit & Biking**
