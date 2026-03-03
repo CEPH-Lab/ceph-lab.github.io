@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VIBES
-permalink: /projects/vibes/
+permalink: /research/vibes/
 ---
 
 <style>

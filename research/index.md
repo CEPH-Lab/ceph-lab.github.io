@@ -97,7 +97,7 @@ permalink: /research/
   <p class="project-summary">Rtrend is a renewal equation model that combines a gamma-distributed generation time,
     past incidence data, and forecasted trajectories of the reproduction number to forecast the incidence of
     infections for respiratory pathogens. We use this model to produce forecasts for influenza, RSV, and COVID-19.</p>
-  <a href="{{ '/projects/Rtrend/' | relative_url }}" class="read-more-btn">Learn More</a>
+  <a href="{{ '/research/Rtrend/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
 <h2 class="section-header">Intervention Assessment</h2>
@@ -106,7 +106,7 @@ permalink: /research/
   <p class="project-summary">Individual-Based Epidemic Simulator (IBES) is an agent-based modeling tool for
     simulating the transmission dynamics of respiratory pathogens and conducting non-pharmaceutical intervention
     assessments that mitigate infectious disease spread for large-scale synthetic populations.</p>
-  <a href="{{ '/projects/ibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+  <a href="{{ '/research/ibes/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
 <div class="project-card">
@@ -114,14 +114,14 @@ permalink: /research/
   <p class="project-summary">Our work with the Scenario Modeling Hub consists of performing model-based scenario
     analyses that compare outbreak trajectories for different interventions, pathogens, and populations that impact
     disease spread. We currently submit projections for the RSV, Flu, and Pandemic cryptic phase modeling hubs.</p>
-  <a href="{{ '/projects/smh/' | relative_url }}" class="read-more-btn">Learn More</a>
+  <a href="{{ '/research/smh/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
 <div class="project-card">
   <h3 class="project-title">ASTRA</h3>
   <p class="project-summary">Annual Scenarios of Transmission (ASTRA) is a deterministic, age-stratified compartmental
     model that was developed to conduct scenario analyses for respiratory infectious diseases.</p>
-  <a href="{{ '/projects/astra/' | relative_url }}" class="read-more-btn">Learn More</a>
+  <a href="{{ '/research/astra/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 -->
 
@@ -181,7 +181,7 @@ permalink: /research/
   <p class="project-summary">Viral Dynamics Individual-Based Epidemic Simulator (VIBES) is a data-driven, multi-scale
     framework that combines the within-host viral dynamics and between-hosts transmission dynamics to simulate the
     spread of a respiratory infectious disease and test both pharmaceutical and non-pharmaceutical interventions.</p>
-  <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+  <a href="{{ '/research/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
 <h2 class="section-header">Forecasting of Mosquitoes</h2>
@@ -192,7 +192,7 @@ permalink: /research/
     Components Model (UCM) to provide 1- to 4-week forecasts of mosquito relative abundance. Forecasts are performed
     for <em>Aedes aegypti</em> and <em>Culex quinquefasciatus</em> in Miami-Dade County, FL, Maricopa County, AZ,
     Los Angeles, CA, and Key West, FL.</p>
-  <a href="{{ '/projects/mosq-ml/' | relative_url }}" class="read-more-btn">Learn More</a>
+  <a href="{{ '/research/mosq-ml/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
 <div class="project-card">
@@ -200,7 +200,7 @@ permalink: /research/
   <p class="project-summary">We developed a compartmental model to simulate mosquito population dynamics regulated
     through a system of ordinary differential equations to provide 1- to 4-week forecasts of mosquito relative
     abundance. Forecasts are performed for <em>Aedes aegypti</em> in Miami-Dade County, FL.</p>
-  <a href="{{ '/projects/mosq-mm/' | relative_url }}" class="read-more-btn">Learn More</a>
+  <a href="{{ '/research/mosq-mm/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
 <div class="project-card">
@@ -208,7 +208,7 @@ permalink: /research/
   <p class="project-summary">We developed a three-step procedure that estimates the mosquito generation time,
     past temporal trends in the mosquito reproduction number, and a renewal equation to forecast <em>Aedes aegypti</em>
     relative abundance in Miami-Dade County, FL, Maricopa County, AZ, Los Angeles, CA, and Key West, FL.</p>
-  <a href="{{ '/projects/mosq-mm/' | relative_url }}" class="read-more-btn">Learn More</a>
+  <a href="{{ '/research/mosq-mm/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
 <h2 class="section-header">Mosquito Behavior</h2>
@@ -217,6 +217,6 @@ permalink: /research/
   <h3 class="project-title">Diel Activity Patterns</h3>
   <p class="project-summary">We leverage mosquito and human diel activity patterns to conduct model-based evaluations
     of the effectiveness of mosquito control strategies and their impact on the transmission of arboviruses.</p>
-  <a href="{{ '/projects/mosq-diel-activity/' | relative_url }}" class="read-more-btn">Learn More</a>
+  <a href="{{ '/research/mosq-diel-activity/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 -->

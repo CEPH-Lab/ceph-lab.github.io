@@ -3,7 +3,7 @@ theme: minima
 header_pages:
   - index.md
   - team.md
-  - projects/index.md
+  - research/index.md
   - publications.md
   - join-us.md
   - contact.md
