@@ -107,9 +107,10 @@ permalink: /join-us/
 </style>
 
 <div class="intro-text">
-  <p>CEPH Lab is always looking for researchers with all levels of expertise to join our team. 
-    We are seeking researchers who are passionate about understanding the mechanisms driving epidemic spread,
-    designing mathematical models, and building computational engines. Explore our current opportunities below.</p>
+  <p>CEPH Lab is looking for researchers with all levels of expertise to join our team. 
+    We are seeking individuals passionate about understanding the epidemiology of infectious diseases, mechanisms 
+    driving epidemic spread, designing mathematical models, and building computational engines. Explore our 
+    current opportunities below.</p>
 </div>
 
 <h2 class="section-header">Job/Educational Opportunities</h2>
@@ -121,8 +122,10 @@ permalink: /join-us/
     Physics, Computer Science, or a related discipline). Candidates must be proficient in C or C++ or a track record
     of mastering multiple low-level and high-level programming languages (e.g., Python, R, Julia, Fortran).</p>
     <p class="opportunity-text"><em>For inquiries regarding open positions, please get in touch with Dr. Ajelli 
-    directly with your CV and a brief statement of research interests.</em></p>
+    directly with your CV.</em></p>
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+    <a href="mailto:majelli@iu.edu?subject=Postdoc Inquiry - CEPH Lab"
+    class="apply-btn">Email Dr. Ajelli</a>
       <a href="https://indiana.peopleadmin.com/postings/32436" target="_blank" class="apply-btn">Current Openings</a>
     </div>
   </div>
@@ -142,7 +145,7 @@ permalink: /join-us/
     <p class="opportunity-text">Admissions are handled centrally by the university. Please review the official 
     degree requirements and deadlines before applying.</p>
     <p class="opportunity-text"><em>For inquiries regarding open positions, please get in touch with Dr. Ajelli 
-    directly with your CV and a brief statement of research interests.</em></p>
+    directly with your CV.</em></p>
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
     <a href="mailto:majelli@iu.edu?subject=PhD Position Inquiry - CEPH Lab"
     class="apply-btn">Email Dr. Ajelli</a>
@@ -173,16 +176,18 @@ permalink: /join-us/
   </div>
 </div>
 
-<h2 class="section-header"> Research Opportunities</h2>
+<h2 class="section-header">Other Research Opportunities</h2>
 
 <div class="opportunity-card">
   <h3 class="opportunity-title">Graduate Research</h3>
   <div class="opportunity-content">
     <p class="opportunity-text">Current IU graduate students (MPH and MS) looking to conduct research, 
-    complete an independent reading/research course, or fulfill practicum requirements are encouraged to reach out. 
-    Opportunities often involve working with transmission dynamics models, statistical analyses, or 
-    participating in ongoing lab publications.
-    <em>Please provide your CV and a brief statement of your research interests.</em></p>
+    complete an independent reading/research course, thesis opportunity, or fulfill practicum requirements 
+    are encouraged to reach out. 
+    Opportunities often involve working with statistical and/or mathematical models, data cleaning/preprocessing, and
+    participating in publications.</p>
+    <p class="opportunity-text"></p><em>Please provide your CV and a brief statement of your research 
+    interests.</em></p>
   <a href="mailto:majelli@iu.edu?subject=Graduate Research Inquiry - CEPH Lab" class="apply-btn">Email Dr. Ajelli</a>
   </div>
 </div>
@@ -190,10 +195,11 @@ permalink: /join-us/
 <div class="opportunity-card">
   <h3 class="opportunity-title">Undergraduate Research Internships</h3>
   <div class="opportunity-content">
-    <p class="opportunity-text">Undergraduates seeking research credits can join the lab through 
-    <strong>SPH-E 493: Independent Study in Epidemiology</strong> (1-3 credits). Students will assist with 
-    ongoing data analysis, literature reviews, and foundational modeling projects to build quantitative skills
-    for future careers in public health. Registration for SPH-E 493 requires Departmental consent.</p>
+    <p class="opportunity-text">Undergraduates seeking research opportunities and internships are encouraged to 
+    reach out. We also provide the opportunity to gain credits through, for example, 
+    <strong>SPH-E 493: Independent Study in Epidemiology</strong> (1-3 credits). Undergraduate students 
+    assist with ongoing data analysis, literature reviews, and foundational modeling projects to build 
+    quantitative skills for future careers in academia and public health.</p>
     <p class="opportunity-text"><em>For inquiries regarding the internship, please get in touch with Dr. Ajelli.</em></p>
   <a href="mailto:majelli@iu.edu?subject=Undergraduate Internship - CEPH Lab" class="apply-btn">Email Dr. Ajelli</a>
   </div>
