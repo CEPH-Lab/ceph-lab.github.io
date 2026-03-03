@@ -116,22 +116,25 @@ permalink: /
   }
 </style>
 
+<img src="/images/banner.png" width="100%">
+
 <h2 class="section-header">Mission</h2>
 <div class="mission-text">
   <p>Our mission is to advance the understanding of infectious disease dynamics through applied infectious
-    disease epidemiology and mathematical modeling. By studying infectious disease outbreaks and pandemics and
-    developing new tools, we generate actionable insights that inform public health decision-making and strengthen
+    disease epidemiology and mathematical modeling. By studying infectious disease outbreaks and
+    developing modeling tools, we provide actionable insights that inform public health decision-making and strengthen
     preparedness and response planning.</p>
 </div>
 
 <h2 class="section-header">What We Do</h2>
 <div class="mission-text">
-  <p>We study how infectious diseases spread and how outbreaks can be better prevented and controlled. Our lab:</p>
 </div>
 <ul class="what-we-do-list">
-  <li>Uses mathematical modeling and applied infectious disease epidemiology to investigate disease dynamics.</li>
-  <li>Develops tools to analyze, track, and forecast infectious disease outbreaks and pandemics.</li>
-  <li>Produces actionable insights that support public health decision-making, preparedness, and response.</li>
+  <li>Develop mathematical and computational modeling tools that simulate infectious disease transmission
+    to investigate epidemic spread</li>
+  <li>Forecast population and infectious disease dynamics to provide situational awareness</li>
+  <li>Conduct model-based evaluations of the effectiveness of public health interventions to inform public health
+    decision-making</li>
 </ul>
 
 <h2 class="section-header">Research Areas</h2>
@@ -141,55 +144,56 @@ permalink: /
   <div class="research-content">
     <p class="research-text">We develop mathematical models to forecast the trajectory of major respiratory pathogens,
     including COVID-19, Influenza (Flu), and Respiratory Syncytial Virus (RSV). Our forecasting models integrate
-    real-time epidemiological data to provide early warnings and anticipate healthcare system burdens.</p>
+    real-time epidemiological data to provide situational awareness and anticipate healthcare system burdens.</p>
   </div>
 </details>
 
 <details class="research-card">
   <summary>Intervention Assessment</summary>
   <div class="research-content">
-    <p class="research-text">As active contributors to the Scenario Modeling Hub, we evaluate the potential impact
-    of public health interventions against Respiratory Syncytial Virus (RSV) and Influenza (Flu). By simulating various
-    scenarios, we assess the epidemiological impacts of pharmaceutical interventions, vaccination strategies, and 
-    non-pharmaceutical measures.</p>
+    <p class="research-text">We evaluate the potential impact of public health interventions against respiratory
+    infectious diseases through the development of mathematical models and participating in the Scenario 
+    Modeling Hub(SMH) for Respiratory Syncytial Virus (RSV), Influenza (Flu) and Pandemic cryptic phase.
+    By simulating various scenarios, we assess the epidemiological impacts of pharmaceutical interventions,
+    vaccination strategies, and non-pharmaceutical measures.</p>
   </div>
 </details>
 
 <details class="research-card">
   <summary>Social Contact Patterns</summary>
   <div class="research-content">
-    <p class="research-text">Human mixing behaviors are fundamental drivers of disease transmission. 
-    We map detailed social contact patterns in the post-pandemic era to understand heterogeneous risk across 
-    different socio-demographic groups. By identifying how, where, and when individuals interact, we can more 
-    precisely model the spread of respiratory pathogens.</p>
+    <p class="research-text">Social mixing patterns are fundamental drivers of respiratory pathogen transmission. 
+    We leveraged detailed social contact patterns to understand heterogeneous risk across different socio-demographic
+    groups. By identifying how, where, when and with whom individuals interact, we can more 
+    precisely model the spread of respiratory infectious diseases.</p>
   </div>
 </details>
 
 <details class="research-card">
   <summary>Multi-scale Modeling</summary>
   <div class="research-content">
-    <p class="research-text">We build a data driven multi-scale frameworks, VIBES and IBES, to simulate disease
-    transmission at multiple scales. These detailed Individual-Based Models (IBMs) integrate granular mobility,
-    demographic, and behavioral data to capture the complex dynamics of epidemics from the individual interaction
-    level up to the broader population level.</p>
+    <p class="research-text">As disease spread is an inherently multi-scale process, we build a data driven,
+    multi-scale framework to simulate respiratory pathogen transmission at within-host and between-hosts scales.
+    Our multi-scale framework integrates granular mobility, demographic, and behavioral data to capture
+    the complex dynamics of epidemic spread at the individual and population level.</p>
   </div>
 </details>
 
-<details class="research-card" open>
+<details class="research-card">
   <summary>Forecasting of Mosquitoes</summary>
   <div class="research-content">
-    <p class="research-text">These projects focus on forecasting vector mosquito population dynamics. 
-    By integrating environmental, climatic, and ecological data, we predict periods of high vector abundance
-    to inform proactive and highly targeted public health responses.</p>
+    <p class="research-text">These projects focus on forecasting mosquito vector population dynamics. 
+    By integrating environmental and ecological data, we forecast mosquito abundance
+    to provide situational awareness and inform proactive and highly targeted public health response.</p>
   </div>
 </details>
 
 <details class="research-card">
   <summary>Mosquito Behavior</summary>
   <div class="research-content">
-    <p class="research-text">Understanding the specific behaviors of vector mosquitoes is critical for mitigating
-    outbreaks of diseases like dengue and Zika. This project examines mosquito diel (daily) activity patterns and
-    behaviors in urban environments to optimize the timing and spatial distribution of vector control strategies.</p>
+    <p class="research-text">Understanding the specific behaviors of mosquito vectors is critical for mitigating
+    outbreaks of arboviral diseases like dengue and Zika. We examine mosquito diel (daily) activity
+    patterns and behaviors in urban environments to evaluate the effectiveness of vector control strategies.</p>
   </div>
 </details>
 
