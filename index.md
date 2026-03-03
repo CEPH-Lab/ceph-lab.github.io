@@ -4,7 +4,85 @@ title: Home
 permalink: /
 ---
 <style>
-  /* Text Styling */
+  /* --- Hero Banner Styling --- */
+  .hero {
+    position: relative;
+    height: 90vh; /* Takes up 90% of the screen height to leave room for the top navigation bar */
+    width: 100vw;
+    margin-left: calc(-50vw + 50%); /* Magic CSS trick to break out of the 1200px wrapper */
+    margin-top: -30px; /* Pulls the image up flush against the header */
+    margin-bottom: 60px;
+    
+    /* Uses your specific banner.png file */
+    background-image: linear-gradient(rgba(15, 32, 39, 0.6), rgba(32, 58, 67, 0.7)), url('/images/banner.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Creates the parallax scrolling effect */
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #ffffff;
+    max-width: 1000px;
+    padding: 0 20px;
+  }
+
+  .hero p {
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 40px;
+    color: #e0f2f1;
+    max-width: 800px;
+    padding: 0 20px;
+  }
+
+  /* Bouncing Scroll Down Arrow */
+  .scroll-down {
+  display: flex; /* Helps center the new chevron */
+  justify-content: center;
+  align-items: center;
+  height: 50px; /* Gives a clickable area */
+  width: 50px;
+  margin-top: -20px; /* Adjust spacing since the text size changed */
+  text-decoration: none;
+  animation: bounce 2s infinite;
+  opacity: 0.6; /* Fades the arrow slightly for a subtle look */
+  transition: opacity 0.3s ease;
+  }
+
+  .scroll-down:hover {
+  opacity: 1; /* Highlights the arrow when the user interacts with it */
+  }
+
+  /* Drawing the subtle chevron using pseudo-elements */
+  .scroll-down::after {
+  content: '';
+  display: block;
+  width: 15px; /* Smaller, more subtle width */
+  height: 15px; /* Smaller, more subtle height */
+  border-bottom: 2px solid #42e8e0; /* Thin teal line matches previous accent color */
+  border-right: 2px solid #42e8e0; /* Thin teal line matches previous accent color */
+  transform: rotate(45deg); /* Rotates the square to make a 'V' shape */
+  }
+
+    /* Updated bounce animation */
+    @keyframes bounce {
+      0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+      /* Reduced bounce height from -20px and -10px down to -10px and -5px */
+      40% { transform: translateY(-10px); }
+      60% { transform: translateY(-5px); }
+    }
+
+  /* --- Existing Text Styling --- */
   .mission-text {
     font-size: 18px; 
     line-height: 1.7;
@@ -116,7 +194,12 @@ permalink: /
   }
 </style>
 
-<img src="/images/banner.png" width="100%">
+<div class="hero">
+  <h1>CEPH Lab</h1>
+  <a href="#mission" class="scroll-down" aria-label="Scroll to Mission"></a>
+</div>
+
+<div id="mission"></div>
 
 <h2 class="section-header">Mission</h2>
 <div class="mission-text">
