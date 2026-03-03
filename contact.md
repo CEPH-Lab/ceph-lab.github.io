@@ -21,7 +21,7 @@ permalink: /contact/
   </p>
 
   <p>
-    <em>For inquiries regarding open PhD or postdoctoral positions, please get in touch with Dr. Ajelli directly with your CV and a brief statement of research interests.</em>
+    <em>For inquiries regarding open positions, please get in touch with Dr. Ajelli.</em>
   </p>
 </div>
 
@@ -36,7 +36,7 @@ permalink: /contact/
 </div>
 
 **Finding Our Building**<br>
-Please note that while we are part of the School of Public Health (main building located at *1025 E 7th St*), our lab is located specifically in the **SPH Annex**. The Annex is situated just across the street at **309 N Woodlawn Ave**, near the intersection of 7th Street and Woodlawn Avenue. 
+Please note that while we are part of the School of Public Health (main building located at *1025 E 7th St*), our lab is located in the **SPH Annex** (rooms 100 and 101). The Annex is situated just across the street at **309 N Woodlawn Ave**, near the intersection of 7th Street and Woodlawn Avenue. 
 
 **Public Transit & Biking**
 * **Bus:** The lab is easily accessible via **Bloomington Transit** and the IU Campus Bus system. Several routes drop off near the Indiana Memorial Union (IMU). You can check the current [Bloomington Transit schedules](https://bloomingtontransit.com/) or the IU Mobile app for routes serving the 7th & Woodlawn area.
