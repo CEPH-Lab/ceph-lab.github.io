@@ -107,9 +107,9 @@ permalink: /join-us/
 </style>
 
 <div class="intro-text">
-  <p>The Laboratory for Computational Epidemiology and Public Health (CEPH) is always looking for motivated,
-    analytical, and passionate researchers to join our team. Explore our current job/education opportunities
-    and research opportunities below.</p>
+  <p>CEPH Lab is always looking for researchers with all levels of expertise to join our team. 
+    We are seeking researchers who are passionate about understanding the mechanisms driving epidemic spread,
+    designing mathematical models, and building computational engines. Explore our current opportunities below.</p>
 </div>
 
 <h2 class="section-header">Job/Educational Opportunities</h2>
@@ -117,16 +117,13 @@ permalink: /join-us/
 <div class="opportunity-card">
   <h3 class="opportunity-title"> Postdoctoral Positions</h3>
   <div class="opportunity-content">
-    <p class="opportunity-text">When postdoctoral researcher positions become available in the CEPH Lab, official
-    announcements are posted on the Indiana University careers portal and additionally shared on the
-    Infectious Disease Dynamics (IDD) job board. We seek candidates with a background
-    in Mathematics, Physics, Biostatistics, Computer Science or related field, and experience in programming
-    (R, Python, or C++).</p>
+    <p class="opportunity-text">We seek candidates with a doctoral degree in a quantitative field (e.g., Mathematics,
+    Physics, Computer Science, or a related discipline). Candidates must be proficient in C or C++ or a track record
+    of mastering multiple low-level and high-level programming languages (e.g., Python, R, Julia, Fortran).</p>
     <p class="opportunity-text"><em>For inquiries regarding open positions, please get in touch with Dr. Ajelli 
     directly with your CV and a brief statement of research interests.</em></p>
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-      <a href="https://jobs.iu.edu/" target="_blank" class="apply-btn">IU Jobs Portal</a>
-      <a href="https://iddjobs.org/" target="_blank" class="apply-btn secondary-btn">IDD Jobs Board</a>
+      <a href="https://indiana.peopleadmin.com/postings/32436" target="_blank" class="apply-btn">Current Openings</a>
     </div>
   </div>
 </div>
@@ -134,10 +131,8 @@ permalink: /join-us/
 <div class="opportunity-card">
   <h3 class="opportunity-title">PhD Positions</h3>
   <div class="opportunity-content">
-    <p class="opportunity-text">We welcome prospective students with a quantitative background who are passionate
-    about infectious disease dynamics, mathematical modeling, and public health. Students typically join our lab 
-    through one of the following doctoral programs through the Indiana University 
-    School of Public Health - Bloomington:</p>
+    <p class="opportunity-text">Students can join our lab through one of the following doctoral programs offered by
+    the Indiana University School of Public Health - Bloomington:</p>
     <ul class="req-list">
       <li><a href="https://publichealth.indiana.edu/doctoral/majors/phd-epidemiology.html"
     target="_blank" style="color: #508c96; font-weight: 500; text-decoration: none;">PhD in Epidemiology</a></li>
@@ -149,20 +144,18 @@ permalink: /join-us/
     <p class="opportunity-text"><em>For inquiries regarding open positions, please get in touch with Dr. Ajelli 
     directly with your CV and a brief statement of research interests.</em></p>
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-    <a href="mailto:majelli@iu.edu?subject=Graduate Research Inquiry - CEPH Lab"
+    <a href="mailto:majelli@iu.edu?subject=PhD Position Inquiry - CEPH Lab"
     class="apply-btn">Email Dr. Ajelli</a>
     <a href="https://publichealth.indiana.edu/doctoral/apply/index.html" 
-    target="_blank" class="apply-btn secondary-btn">Apply to IU SPH</a>
+    target="_blank" class="apply-btn secondary-btn">How to Apply</a>
     </div>
   </div>
 </div>
 
 <div class="opportunity-card">
-  <h3 class="opportunity-title">Master of Science Opportunities</h3>
+  <h3 class="opportunity-title">Master of Science in Biostatistics</h3>
   <div class="opportunity-content">
-    <p class="opportunity-text">We welcome prospective students with a quantitative background who are passionate
-    about infectious disease dynamics, mathematical modeling, and public health. Students can apply for 
-    the MS in Biostatistics programs through the Indiana University 
+    <p class="opportunity-text">Students can apply for the M.S. in Biostatistics programs through the Indiana University 
     School of Public Health - Bloomington:</p>
     <ul class="req-list">
       <li><a href="https://publichealth.indiana.edu/masters/degrees-majors/biostatistics.html"
@@ -170,12 +163,12 @@ permalink: /join-us/
     </ul>
     <p class="opportunity-text">Admissions are handled centrally by the university. Please review the official 
     degree requirements and deadlines before applying.</p>
-    <p class="opportunity-text"><em>For inquiries, please get in touch with Dr. Ajelli directly.</em></p>
+    <p class="opportunity-text"><em>For inquiries, please get in touch with Dr. Ajelli directly with your CV.</em></p>
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
     <a href="mailto:majelli@iu.edu?subject=MS Biostatistics Inquiry - CEPH Lab"
     class="apply-btn">Email Dr. Ajelli</a>
     <a href="https://publichealth.indiana.edu/masters/apply/index.html" 
-    target="_blank" class="apply-btn secondary-btn">Apply to MS Biostatistics</a>
+    target="_blank" class="apply-btn secondary-btn">How to Apply</a>
     </div>
   </div>
 </div>
@@ -183,7 +176,7 @@ permalink: /join-us/
 <h2 class="section-header"> Research Opportunities</h2>
 
 <div class="opportunity-card">
-  <h3 class="opportunity-title">Graduate Practicums & Independent Readings / Research</h3>
+  <h3 class="opportunity-title">Graduate Research</h3>
   <div class="opportunity-content">
     <p class="opportunity-text">Current IU graduate students (MPH and MS) looking to conduct research, 
     complete an independent reading/research course, or fulfill practicum requirements are encouraged to reach out. 
@@ -201,6 +194,7 @@ permalink: /join-us/
     <strong>SPH-E 493: Independent Study in Epidemiology</strong> (1-3 credits). Students will assist with 
     ongoing data analysis, literature reviews, and foundational modeling projects to build quantitative skills
     for future careers in public health. Registration for SPH-E 493 requires Departmental consent.</p>
-  <a href="mailto:majelli@iu.edu?subject=Undergraduate Internship - CEPH Lab" class="apply-btn">Apply for Internship</a>
+    <p class="opportunity-text"><em>For inquiries regarding the internship, please get in touch with Dr. Ajelli.</em></p>
+  <a href="mailto:majelli@iu.edu?subject=Undergraduate Internship - CEPH Lab" class="apply-btn">Email Dr. Ajelli</a>
   </div>
 </div>
