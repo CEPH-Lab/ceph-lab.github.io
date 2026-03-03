@@ -254,8 +254,216 @@ permalink: /publications/
 </div>
 
 <h2 id="2024" class="year-section">2024</h2>
+<div class="pub-entry">
+  <a href="https://doi.org/10.48550/arXiv.2412.18549" target="_blank" class="pub-title">Post-pandemic social contacts in Italy: implications for social distancing measures on in-person school and work attendance</a>
+  <p class="pub-authors">Lorenzo Lucchini, Valentina Marziano, Filippo Trentini, Chiara Chiavenna, Elena D'Agnese, Vittoria Offeddu, Mattia Manica, Piero Poletti, Duilio Balsamo, Giorgio Guzzetta, Marco Ajelli, Alessia Melegaro, Stefano Merler</p>
+  <p class="pub-journal">Preprint available at <em>arXiv</em> (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1016/j.epidem.2024.100805" target="_blank" class="pub-title">Real-time estimates of the emergence and dynamics of SARS-CoV-2 variants of concern: A modeling approach</a>
+  <p class="pub-authors">Nicolò Gozzi, Matteo Chinazzi, Jessica T. Davis, Kunpeng Mu, Ana Pastore y Piontti, Marco Ajelli, Alessandro Vespignani, Nicola Perra</p>
+  <p class="pub-journal"><em>Epidemics</em> 49, 100805 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1186/s12936-024-04847-9" target="_blank" class="pub-title">Presence and abundance of malaria vector species in Miami-Dade County, Florida</a>
+  <p class="pub-authors">André BB Wilke, Chalmers Vasquez, Johana Medina, Isik Unlu, John C Beier, Marco Ajelli</p>
+  <p class="pub-journal"><em>Malaria Journal</em> 23, 24 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1371/journal.pntd.0012671" target="_blank" class="pub-title">Forecasting the relative abundance of Aedes vector populations to enhance situational awareness for mosquito control operations</a>
+  <p class="pub-authors">Paulo C Ventura, Allisandra G Kummer, André BB Wilke, Jagadeesh Chitturi, Megan D Hill, Chalmers Vasquez, Isik Unlu, John-Paul Mutebi, Susanne Kluh, Steve Vetrone, Dan Damian, John Townsend, Maria Litvinova, Marco Ajelli</p>
+  <p class="pub-journal"><em>PLoS Neglected Tropical Diseases</em> 18(11), e0012671 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.20944/preprints202410.1054.v1" target="_blank" class="pub-title">Mosquito‐Borne Disease among Individuals Experiencing Homelessness in the United States: A Literature Review</a>
+  <p class="pub-authors">Andre Wilke, Megan Hill, Allisandra Kummer, Chalmers Vasquez, John-Paul Mutebi, Xi Huo, Han Li, Jing Chen, Shigui Ruan, John Beier, Maria Litvinova, Thomas Byrne, Marco Ajelli</p>
+  <p class="pub-journal">Preprint available at <em>Preprints</em> (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.3389/fpubh.2024.1430920" target="_blank" class="pub-title">Increasing situational awareness through nowcasting of the reproduction number</a>
+  <p class="pub-authors">Andrea Bizzotto, Giorgio Guzzetta, Valentina Marziano, Martina Del Manso, Alberto Mateo Urdiales, Daniele Petrone, Andrea Cannone, Chiara Sacco, Piero Poletti, Mattia Manica, Agnese Zardini, Filippo Trentini, Massimo Fabiani, Antonino Bella, Flavia Riccardo, Patrizio Pezzotti, Marco Ajelli, Stefano Merler</p>
+  <p class="pub-journal"><em>Frontiers in Public Health</em> 12, 1430920 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1016/j.epidem.2024.100757" target="_blank" class="pub-title">A multiscale modeling framework for Scenario Modeling: Characterizing the heterogeneity of the COVID-19 epidemic in the US</a>
+  <p class="pub-authors">Matteo Chinazzi, Jessica T Davis, Ana Pastore y Piontti, Kunpeng Mu, Nicolò Gozzi, Marco Ajelli, Nicola Perra, Alessandro Vespignani</p>
+  <p class="pub-journal"><em>Epidemics</em> 47, 100757 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1016/j.idm.2024.02.013" target="_blank" class="pub-title">Assessing the impact of interventions on the major Omicron BA.2 outbreak in spring 2022 in Shanghai</a>
+  <p class="pub-authors">Hengcong Liu, Jun Cai, Jiaxin Zhou, Xiangyanyu Xu, Marco Ajelli, Hongjie Yu</p>
+  <p class="pub-journal"><em>Infectious Disease Modelling</em> 9(2), 519-526 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1007/s10340-024-01787-w" target="_blank" class="pub-title">Comparing the effectiveness of adulticide application interventions on mitigating local transmission of dengue virus</a>
+  <p class="pub-authors">Allisandra G Kummer, André BB Wilke, Paulo C Ventura, Chalmers Vasquez, Johana Medina, Isik Unlu, Yaziri Gonzalez, Adquate Mhlanga, Giovanni Benelli, Keisuke Ejima, John-Paul Mutebi, Marco Ajelli</p>
+  <p class="pub-journal"><em>Journal of Pest Science</em> 98, 463-475 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1111/irv.13301" target="_blank" class="pub-title">Evaluating Seasonal Variations in Human Contact Patterns and Their Impact on the Transmission of Respiratory Infectious Diseases</a>
+  <p class="pub-authors">Allisandra G Kummer, Juanjuan Zhang, Chenyan Jiang, Maria Litvinova, Paulo C Ventura, Marc A Garcia, Alessandro Vespignani, Huanyu Wu, Hongjie Yu, Marco Ajelli</p>
+  <p class="pub-journal"><em>Influenza and Other Respiratory Viruses</em> 18(5), e13301 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1186/s12879-024-09343-8" target="_blank" class="pub-title">Spatial spread of COVID-19 during the early pandemic phase in Italy</a>
+  <p class="pub-authors">Valeria d’Andrea, Filippo Trentini, Valentina Marziano, Agnese Zardini, Mattia Manica, Giorgio Guzzetta, Marco Ajelli, Daniele Petrone, Martina Del Manso, Chiara Sacco, Xanthi Andrianou, Antonino Bella, Flavia Riccardo, Patrizio Pezzotti, Piero Poletti, Stefano Merler</p>
+  <p class="pub-journal"><em>BMC Infectious Diseases</em> 24, 450 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1038/s41467-024-46590-4" target="_blank" class="pub-title">The decline of the 2022 Italian mpox epidemic: Role of behavior changes and control strategies</a>
+  <p class="pub-authors">Giorgio Guzzetta, Valentina Marziano, Alessia Mammone, Andrea Siddu, Federica Ferraro, Anna Caraglia, Francesco Maraglino, Giovanni Rezza, Alessandro Vespignani, Ira Longini, Marco Ajelli, Stefano Merler</p>
+  <p class="pub-journal"><em>Nature Communications</em> 15, 2283 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1016/j.idm.2023.12.006" target="_blank" class="pub-title">Counterfactual analysis of the 2023 Omicron XBB wave in China</a>
+  <p class="pub-authors">Hengcong Liu, Xiangyanyu Xu, Xiaowei Deng, Zexin Hu, Ruijia Sun, Junyi Zou, Jiayi Dong, Qianhui Wu, Xinhua Chen, Lan Yi, Jun Cai, Juanjuan Zhang, Marco Ajelli, Hongjie Yu</p>
+  <p class="pub-journal"><em>Infectious Disease Modelling</em> 9(1), 195-203 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1038/s41562-023-01747-x" target="_blank" class="pub-title">The unequal effects of the health-economy trade-off during the COVID-19 pandemic</a>
+  <p class="pub-authors">Marco Pangallo, Alberto Aleta, R Maria del Rio-Chanona, Anton Pichler, David Martín-Corral, Matteo Chinazzi, François Lafond, Marco Ajelli, Esteban Moro, Yamir Moreno, Alessandro Vespignani, J Doyne Farmer</p>
+  <p class="pub-journal"><em>Nature Human Behaviour</em> 8, 264-275 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1038/s41467-024-50601-9" target="_blank" class="pub-title">Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations</a>
+  <p class="pub-authors">Sarabeth M Mathis, Alexander E Webber, Tomás M León, Erin L Murray, Monica Sun, Lauren A White, Logan C Brooks, Alden Green, Addison J Hu, Roni Rosenfeld, Dmitry Shemetov, Ryan J Tibshirani, Daniel J McDonald, Sasikiran Kandula, Sen Pei, Rami Yaari, Teresa K Yamana, Jeffrey Shaman, Pulak Agarwal, Srikar Balusu, Gautham Gururajan, Harshavardhan Kamarthi, B Aditya Prakash, Rishi Raman, Zhiyuan Zhao, Alexander Rodríguez, Akilan Meiyappan, Shalina Omar, Prasith Baccam, Heidi L Gurung, Brad T Suchoski, Steve A Stage, Marco Ajelli, Allisandra G Kummer, Maria Litvinova, Paulo C Ventura, Spencer Wadsworth, Jarad Niemi, Erica Carcelen, Alison L Hill, Sara L Loo, Clifton D McKee, Koji Sato, Claire Smith, Shaun Truelove, Sung-mok Jung, Joseph C Lemaitre, Justin Lessler, Thomas McAndrew, Wenxuan Ye, Nikos Bosse, William S Hlavacek, Yen Ting Lin, Abhishek Mallela, Graham C Gibson, Ye Chen, Shelby M Lamm, Jaechoul Lee, Richard G Posner</p>
+  <p class="pub-journal"><em>Nature Communications</em> 15, 6289 (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1101/2024.05.29.24308139" target="_blank" class="pub-title">Unveiling the role of mosquito and human diel activity patterns in the risk of mosquito-borne disease infection</a>
+  <p class="pub-authors">Paulo C. Ventura, Andre B.B. Wilke, Jagadeesh Chitturi, Allisandra G. Kummer, Snigdha Agrawal, Chalmers Vasquez, Yaziri Gonzalez, Maria Litvinova, John-Paul Mutebi, Marco Ajelli</p>
+  <p class="pub-journal">Preprint available at <em>medRxiv</em> (2024)</p>
+</div>
+
+<div class="pub-entry">
+  <a href=" https://10.1016/S2542-5196(23)00252-8" target="_blank" class="pub-title">Estimating the potential risk of transmission of arboviruses in the Americas and Europe: a modelling study</a>
+  <p class="pub-authors">A Zardini, A Gobbi, F Montarsi, B Caputo, A Solimini, C Marques-Toledo, A Wilke, R Rosa, G Marini, D Arnoldi, A Pugliese, G Capelli, A della Torre, M Teixeira, J Beier, A Rizzoli, A Vespignani, M Ajelli, S Merler, P Poletti</p>
+  <p class="pub-journal"><em>The Lancet Planetary Health</em> 8(1), E30-E40 (2024)</p>
+</div>
 
 <h2 id="2023" class="year-section">2023</h2>
+<div class="pub-entry">
+  <a href="https://doi.org/10.1073/pnas.2306710120" target="_blank" class="pub-title">Heterogeneous changes in mobility in response to the SARS-CoV-2 Omicron BA.2 outbreak in Shanghai</a>
+  <p class="pub-authors">Juanjuan Zhang, Suoyi Tan, Cheng Peng, Xiangyanyu Xu, Mengning Wang, Wanying Lu, Yanpeng Wu, Bin Sai, Mengsi Cai, Allisandra G Kummer, Zhiyuan Chen, Junyi Zou, Wenxin Li, Wen Zheng, Yuxia Liang, Yuchen Zhao, Alessandro Vespignani, Marco Ajelli, Xin Lu, Hongjie Yu</p>
+  <p class="pub-journal"><em>Proceedings of the National Academy of Sciences</em> 120(42), e2306710120 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1186/s12916-023-03070-8" target="_blank" class="pub-title">Assessing changes in incubation period, serial interval, and generation time of SARS-CoV-2 variants of concern: a systematic review and meta-analysis</a>
+  <p class="pub-authors">Xiangyanyu Xu, Yanpeng Wu, Allisandra G Kummer, Yuchen Zhao, Zexin Hu, Yan Wang, Hengcong Liu, Marco Ajelli, Hongjie Yu</p>
+  <p class="pub-journal"><em>BMC Medicine</em> 21, 374 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1016/j.pt.2023.08.012" target="_blank" class="pub-title">Unintended effects of urban policies on the risk of arbovirus transmission</a>
+  <p class="pub-authors">André BB Wilke, Ni-Bin Chang, John Townsend, Giovanni Benelli, Marco Ajelli</p>
+  <p class="pub-journal"><em>Trends in Parasitology</em> 39(12), 1001-1003 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1371/journal.pcbi.1011423" target="_blank" class="pub-title">Evaluating the impact of test-trace-isolate for COVID-19 management and alternative strategies</a>
+  <p class="pub-authors">Kun Zhang, Zhichu Xia, Shudong Huang, Gui-Quan Sun, Jiancheng Lv, Marco Ajelli, Keisuke Ejima, Quan-Hui Liu</p>
+  <p class="pub-journal"><em>PLoS Computational Biology</em> 19(9), e1011423 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1111/irv.13181" target="_blank" class="pub-title">Estimating SARS-CoV-2 infections and associated changes in COVID-19 severity and fatality</a>
+  <p class="pub-authors">Valentina Marziano, Giorgio Guzzetta, Francesco Menegale, Chiara Sacco, Daniele Petrone, Alberto Mateo Urdiales, Martina Del Manso, Antonino Bella, Massimo Fabiani, Maria Fenicia Vescio, Flavia Riccardo, Piero Poletti, Mattia Manica, Agnese Zardini, Valeria d'Andrea, Filippo Trentini, Paola Stefanelli, Giovanni Rezza, Anna Teresa Palamara, Silvio Brusaferro, Marco Ajelli, Patrizio Pezzotti, Stefano Merler</p>
+  <p class="pub-journal"><em>Influenza and Other Respiratory Viruses</em> 17(8), e13181 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.2807/1560-7917.ES.2023.28.19.2200650" target="_blank" class="pub-title">Evaluating the effect of targeted strategies as control tools for hypervirulent meningococcal C outbreaks: a case study from Tuscany, Italy, 2015 to 2016</a>
+  <p class="pub-authors">Giorgio Guzzetta, Marco Ajelli, Alessandro Miglietta, Cecilia Fazio, Arianna Neri, Stefano Merler, Giovanni Rezza, Paola Stefanelli</p>
+  <p class="pub-journal"><em>Eurosurveillance</em> 28(19), 2200650 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1001/jamanetworkopen.2023.10650" target="_blank" class="pub-title">Evaluation of Waning of SARS-CoV-2 Vaccine–Induced Immunity: A Systematic Review and Meta-analysis</a>
+  <p class="pub-authors">Francesco Menegale, Mattia Manica, Agnese Zardini, Giorgio Guzzetta, Valentina Marziano, Valeria d'Andrea, Filippo Trentini, Marco Ajelli, Piero Poletti, Stefano Merler</p>
+  <p class="pub-journal"><em>JAMA Network Open</em> 6(5), e2310650 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1038/s41598-023-32501-y" target="_blank" class="pub-title">Priority age targets for COVID-19 vaccination in Ethiopia under limited vaccine supply</a>
+  <p class="pub-authors">Margherita Galli, Agnese Zardini, Worku Nigussa Gamshie, Stefano Santini, Ademe Tsegaye, Filippo Trentini, Valentina Marziano, Giorgio Guzzetta, Mattia Manica, Valeria d’Andrea, Giovanni Putoto, Fabio Manenti, Marco Ajelli, Piero Poletti, Stefano Merler</p>
+  <p class="pub-journal"><em>Scientific Reports</em> 13, 5586 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1038/s41467-023-37407-x" target="_blank" class="pub-title">Long-term measles antibody profiles following different vaccine schedules in China, a longitudinal study</a>
+  <p class="pub-authors">Qianli Wang, Wei Wang, Amy K Winter, Zhifei Zhan, Marco Ajelli, Filippo Trentini, Lili Wang, Fangcai Li, Juan Yang, Xingyu Xiang, Qiaohong Liao, Jiaxin Zhou, Jinxin Guo, Xuemei Yan, Nuolan Liu, C Jessica E Metcalf, Bryan T Grenfell, Hongjie Yu</p>
+  <p class="pub-journal"><em>Nature Communications</em> 14, 1746 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.46234/ccdcw2023.018" target="_blank" class="pub-title">Risk Factors Associated with the Spatiotemporal Spread of the SARS-CoV-2 Omicron BA.2 Variant — Shanghai Municipality, China, 2022</a>
+  <p class="pub-authors">Wen Zheng, Xiaowei Deng, Cheng Peng, Xuemei Yan, Nan Zheng, Zhiyuan Chen, Juan Yang, Marco Ajelli, Juanjuan Zhang, Hongjie Yu</p>
+  <p class="pub-journal"><em>China CDC Weekly</em> 5(5), 97-102 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.46234/ccdcw2023.021" target="_blank" class="pub-title">Estimating Changes in Contact Patterns in China Over the First Year of the COVID-19 Pandemic: Implications for SARS-CoV-2 Spread — Four Cities, China, 2020</a>
+  <p class="pub-authors">Yuxia Liang, Cheng Peng, Qian You, Maria Litvinova, Marco Ajelli, Juanjuan Zhang, Hongjie Yu</p>
+  <p class="pub-journal"><em>China CDC Weekly</em> 5(5), 113-119 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1016/j.actatropica.2023.106833" target="_blank" class="pub-title">Spatiotemporal distribution of vector mosquito species and areas at risk for arbovirus transmission in Maricopa County, Arizona</a>
+  <p class="pub-authors">André BB Wilke, Dan Damian, Maria Litvinova, Thomas Byrne, Agnese Zardini, Piero Poletti, Stefano Merler, John-Paul Mutebi, John Townsend, Marco Ajelli</p>
+  <p class="pub-journal"><em>Acta Tropica</em> 240, 106833 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1371/journal.pntd.0011074" target="_blank" class="pub-title">Diel activity patterns of vector mosquito species in the urban environment: Implications for vector control strategies</a>
+  <p class="pub-authors">André BB Wilke, Adequate Mhlanga, Allisandra G Kummer, Chalmers Vasquez, Maday Moreno, William D Petrie, Art Rodriguez, Christopher Vitek, Gabriel L Hamer, John-Paul Mutebi, Marco Ajelli</p>
+  <p class="pub-journal"><em>PLoS Neglected Tropical Diseases</em> 17(1), e0011074 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1016/j.epidem.2023.100712" target="_blank" class="pub-title">SARS-CoV-2 transmission patterns in educational settings during the Alpha wave in Reggio-Emilia, Italy</a>
+  <p class="pub-authors">Carla Molina Grané, Pamela Mancuso, Massimo Vicentini, Francesco Venturelli, Olivera Djuric, Mattia Manica, Giorgio Guzzetta, Valentina Marziano, Agnese Zardini, Valeria d’Andrea, Filippo Trentini, Eufemia Bisaccia, Elisabetta Larosa, Silvia Cilloni, Maria Teresa Cassinadri, Patrizio Pezzotti, Marco Ajelli, Paolo Giorgi Rossi, Stefano Merler, Piero Poletti</p>
+  <p class="pub-journal"><em>Epidemics</em> 44, 100712 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.21203/rs.3.rs-3338430/v1" target="_blank" class="pub-title">Environmental and socio-economic determinants of mosquito vector species presence and abundance in Los Angeles County, California</a>
+  <p class="pub-authors">Megan Hill, Andre BB Wilke, Douglas O Fuller, Allisandra G Kummer, Paulo C Ventura, John C Beier, Susanne Kluh, Steven Vetrone, Maria Litvinova, Marco Ajelli</p>
+  <p class="pub-journal">Preprint available at <em>Research Square</em> (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.46234/ccdcw2023.011" target="_blank" class="pub-title">Transmission Dynamics and Epidemiological Characteristics of the SARS-CoV-2 Delta Variant ― Hunan Province, China, 2021</a>
+  <p class="pub-authors">Kaiwei Luo, Yanpeng Wu, Yan Wang, Ziyan Liu, Lan Yi, Shanlu Zhao, Xuemei Yan, Hao Yang, Kaiyuan Sun, Marco Ajelli, Shixiong Hu, Hongjie Yu</p>
+  <p class="pub-journal"><em>China CDC Weekly</em> 5(3), 56-62 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1111/irv.13049" target="_blank" class="pub-title">Estimating SARS-CoV-2 transmission in educational settings: A retrospective cohort study</a>
+  <p class="pub-authors">Mattia Manica, Piero Poletti, Silvia Deandrea, Giansanto Mosconi, Cinzia Ancarani, Silvia Lodola, Giorgio Guzzetta, Valeria d'Andrea, Valentina Marziano, Agnese Zardini, Filippo Trentini, Anna Odone, Marcello Tirani, Marco Ajelli, Stefano Merler</p>
+  <p class="pub-journal"><em>Influenza and Other Respiratory Viruses</em> 17(1), e13049 (2023)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.1017/S0950268822001947" target="_blank" class="pub-title">Estimation of the incubation period and generation time of SARS-CoV-2 Alpha and Delta variants from contact tracing data</a>
+  <p class="pub-authors">Mattia Manica, Maria Litvinova, Alfredo De Bellis, Giorgio Guzzetta, Pamela Mancuso, Massimo Vicentini, Francesco Venturelli, Eufemia Bisaccia, Ana I Bento, Piero Poletti, Valentina Marziano, Agnese Zardini, Valeria d'Andrea, Filippo Trentini, Antonino Bella, Flavia Riccardo, Patrizio Pezzotti, Marco Ajelli, Paolo Giorgi Rossi, Stefano Merler, Reggio Emilia COVID-19 Working Group</p>
+  <p class="pub-journal"><em>Epidemiology & Infection</em> 151, e5 (2023)</p>
+</div>
 
 <h2 id="2022" class="year-section">2022</h2>
 
