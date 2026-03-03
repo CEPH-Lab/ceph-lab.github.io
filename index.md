@@ -30,7 +30,6 @@ permalink: /
     font-size: 3.5rem;
     margin-bottom: 15px;
     letter-spacing: 1px;
-    text-transform: uppercase;
     color: #ffffff;
     max-width: 1000px;
     padding: 0 20px;
@@ -214,7 +213,8 @@ permalink: /
 </style>
 
 <div class="hero">
-  <h1>Laboratory for Computational Epidemiology and Public Health</h1>
+  <h1>Where Ideas Inspire Action</h1>
+  <p>We are committed to advancing the understanding of epidemic spread and informing public health decision-making</p>
   <a href="#mission" class="scroll-down" aria-label="Scroll to Mission"></a>
 </div>
 
