@@ -186,7 +186,7 @@ permalink: /join-us/
     are encouraged to reach out. 
     Opportunities often involve working with statistical and/or mathematical models, data cleaning/preprocessing, and
     participating in publications.</p>
-    <p class="opportunity-text"></p><em>Please provide your CV and a brief statement of your research 
+    <p class="opportunity-text"><em>Please provide your CV and a brief statement of your research 
     interests.</em></p>
   <a href="mailto:majelli@iu.edu?subject=Graduate Research Inquiry - CEPH Lab" class="apply-btn">Email Dr. Ajelli</a>
   </div>
