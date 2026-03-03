@@ -2,9 +2,23 @@
 ---
 @import "minima";
 
-/* Expand the maximum width of the website content */
+/* Prevent accidental horizontal scrolling on mobile */
+body, html {
+  overflow-x: hidden;
+}
+
+/* Base Wrapper (Default is Mobile First) */
 .wrapper {
   max-width: 1200px !important;
-  padding-right: 30px;
-  padding-left: 30px;
+  margin: 0 auto;
+  padding-right: 15px; /* Smaller padding for phones */
+  padding-left: 15px;
+}
+
+/* Media Query for Tablets, Laptops, and Monitors */
+@media screen and (min-width: 768px) {
+  .wrapper {
+    padding-right: 30px; /* Wider padding for bigger screens */
+    padding-left: 30px;
+  }
 }

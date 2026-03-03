@@ -192,10 +192,29 @@ permalink: /
     margin: 0;
     font-size: 16px;
   }
+
+  /* --- Mobile Responsiveness for the Hero Banner --- */
+  @media screen and (max-width: 768px) {
+    .hero h1 {
+      font-size: 2rem; /* Shrinks the massive title for phones */
+      margin-top: 20px;
+    }
+    
+    .hero p {
+      font-size: 1.1rem; /* Shrinks the subtext */
+      margin-bottom: 20px;
+    }
+    
+    .scroll-down {
+      height: 40px; /* Makes the arrow slightly smaller */
+      width: 40px;
+    }
+  }
+
 </style>
 
 <div class="hero">
-  <h1>CEPH Lab</h1>
+  <h1>Laboratory for Computational Epidemiology and Public Health</h1>
   <a href="#mission" class="scroll-down" aria-label="Scroll to Mission"></a>
 </div>
 
@@ -203,7 +222,8 @@ permalink: /
 
 <h2 class="section-header">Mission</h2>
 <div class="mission-text">
-  <p>Our mission is to advance the understanding of infectious disease dynamics through applied infectious
+  <p>Our mission at the Laboratory for Computational Epidemiology and Public Health (CEPH Lab) 
+    is to advance the understanding of infectious disease dynamics through applied infectious
     disease epidemiology and mathematical modeling. By studying infectious disease outbreaks and
     developing modeling tools, we provide actionable insights that inform public health decision-making and strengthen
     preparedness and response planning.</p>
