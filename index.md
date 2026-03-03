@@ -222,23 +222,33 @@ permalink: /
 
 <h2 class="section-header">Mission</h2>
 <div class="mission-text">
-  <p>Our mission at the Laboratory for Computational Epidemiology and Public Health (CEPH Lab) 
+  <p>Our mission at the Laboratory for Computational Epidemiology and Public Health (CEPH Lab) is
+    to advance the understanding of infectious disease epidemiology and provide actionable insights to inform 
+    public health policy. 
+
+<!--
     is to advance the understanding of infectious disease dynamics through applied infectious
     disease epidemiology and mathematical modeling. By studying infectious disease outbreaks and
     developing modeling tools, we provide actionable insights that inform public health decision-making and strengthen
-    preparedness and response planning.</p>
+    preparedness and response planning.
+-->
+</p>
 </div>
 
-<h2 class="section-header">What We Do</h2>
+<h2 class="section-header">Our Approach</h2>
 <div class="mission-text">
+<p>We apply statistical, mathematical, and computational modeling in infectious disease epidemiology</p>
 </div>
+<!--
 <ul class="what-we-do-list">
+  <li>We apply statistical, mathematical, and computational modeling in infectious disease epidemiology</li>
   <li>Develop mathematical and computational modeling tools that simulate infectious disease transmission
     to investigate epidemic spread</li>
   <li>Forecast population and infectious disease dynamics to provide situational awareness</li>
   <li>Conduct model-based evaluations of the effectiveness of public health interventions to inform public health
     decision-making</li>
 </ul>
+-->
 
 <h2 class="section-header">Research Areas</h2>
 
@@ -254,7 +264,7 @@ permalink: /
 </details>
 
 <details class="research-card">
-  <summary>Public Health Situational Awareness</summary>
+  <summary>Situational Awareness</summary>
   <div class="research-content">
     <p class="research-text">We develop mathematical models to forecast the trajectory of major respiratory pathogens,
     including COVID-19, Influenza (Flu), and Respiratory Syncytial Virus (RSV). Our forecasting models integrate
@@ -265,7 +275,7 @@ permalink: /
 </details>
 
 <details class="research-card">
-  <summary>Understand Epidemic Spread</summary>
+  <summary>Infectious Disease Dynamics</summary>
   <div class="research-content">
     <p class="research-text">As disease spread is an inherently multi-scale process, we build a data driven,
     multi-scale framework to simulate respiratory pathogen transmission at within-host and between-hosts scales.
