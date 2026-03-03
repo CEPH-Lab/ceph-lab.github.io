@@ -238,13 +238,16 @@ permalink: /
 <h2 class="section-header">What we do</h2>
 <div class="mission-text">
 <ul class="what-we-do-list">
-  <li>We apply statistical, mathematical, and computational modeling in infectious disease epidemiology</li>
   <li>Develop mathematical and computational modeling tools that simulate infectious disease transmission
     to investigate epidemic spread</li>
-  <li>Forecast population and infectious disease dynamics to provide situational awareness</li>
+  <li>Apply statistical modeling to identify the socio-economic, behavioral, and environmental determinants of 
+    the epidemiology of infectious diseases and the ecology of their vectors</li>
   <li>Conduct model-based evaluations of the effectiveness of public health interventions to inform public health
     decision-making</li>
+  <li>Forecast and nowcast infectious disease dynamics and vector populations to enhance public health 
+    situational awareness</li>
 </ul>
+</div>
 
 <!--
 <h2 class="section-header">Research Areas</h2>

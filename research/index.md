@@ -14,7 +14,7 @@ permalink: /research/
   }
 
   .section-header {
-    font-size: 14px;
+    font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #508c96;
@@ -85,8 +85,8 @@ permalink: /research/
 </style>
 
 <div class="intro-text">
-  <p>CEPH lab focuses on several key areas of infectious disease dynamics. 
-    Select a project below to learn more about our methodologies, models, and findings.</p>
+  <p>The CEPH lab focuses on five main research lines in infectious disease epidemiology and public health. 
+    Select a card below to learn more about what we do.</p>
 </div>
 
 <!--
