@@ -2,11 +2,6 @@
 ---
 @import "minima";
 
-/* Prevent accidental horizontal scrolling on mobile */
-body, html {
-  overflow-x: hidden;
-}
-
 /* Base Wrapper (Default is Mobile First) */
 .wrapper {
   max-width: 1200px !important;
