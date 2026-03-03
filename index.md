@@ -247,7 +247,10 @@ permalink: /
   <li>Forecast and nowcast infectious disease dynamics and vector populations to enhance public health 
     situational awareness</li>
 </ul>
+<a href="https://ceph-lab.github.io/research/">Learn more about research</a>
 </div>
+
+<h2 class="section-header">About us</h2>
 
 <!--
 <h2 class="section-header">Research Areas</h2>
