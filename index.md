@@ -235,7 +235,7 @@ permalink: /
 </p>
 </div>
 
-<h2 class="section-header">Our Approach</h2>
+<h2 class="section-header">Approach</h2>
 <div class="mission-text">
 <p>We apply statistical, mathematical, and computational modeling in infectious disease epidemiology</p>
 </div>
@@ -268,7 +268,8 @@ permalink: /
   <div class="research-content">
     <p class="research-text">We develop mathematical models to forecast the trajectory of major respiratory pathogens,
     including COVID-19, Influenza (Flu), and Respiratory Syncytial Virus (RSV). Our forecasting models integrate
-    real-time epidemiological data to provide situational awareness and anticipate healthcare system burdens. These projects focus on forecasting mosquito vector population dynamics. 
+    real-time epidemiological data to provide situational awareness and anticipate healthcare system burdens. 
+    These projects focus on forecasting mosquito vector population dynamics. 
     By integrating environmental and ecological data, we forecast mosquito abundance
     to provide situational awareness and inform proactive and highly targeted public health response.</p>
   </div>
@@ -287,19 +288,20 @@ permalink: /
 <details class="research-card">
   <summary>Human Social Interactions</summary>
   <div class="research-content">
-    <p class="research-text">Social mixing patterns are fundamental drivers of respiratory pathogen transmission. 
-    We leveraged detailed social contact patterns to understand heterogeneous risk across different socio-demographic
-    groups. By identifying how, where, when and with whom individuals interact, we can more 
-    precisely model the spread of respiratory infectious diseases.</p>
+    <p class="research-text">Social mixing patterns drive respiratory pathogen transmission leading to 
+    heterogeneous exposure risks across different socio-demographic groups. Our objective is to 
+    understand why, where, when, how often, and with whom individuals interact. </p>
   </div>
 </details>
 
 <details class="research-card">
   <summary>Mosquito Ecology and Behavior</summary>
   <div class="research-content">
-    <p class="research-text">Understanding the specific behaviors of mosquito vectors is critical for mitigating
-    outbreaks of arboviral diseases like dengue and Zika. We examine mosquito diel (daily) activity
-    patterns and behaviors in urban environments to evaluate the effectiveness of vector control strategies.</p>
+    <p class="research-text"> The relative abundance and behavior of mosquito vector species are main determinants of 
+    human risks for mosquito-borne diseases. Our objective is to investigate the drivers of seasonal and diel
+    trends in mosquito population dynamics and behavior across space and time to identify the underlying mechanisms. 
+    Through a mechanistic understanding of these processes, we carry out model-based evaluations to inform
+    mosquito-control and public health authorities.</p>
   </div>
 </details>
 
