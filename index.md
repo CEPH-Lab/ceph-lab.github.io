@@ -243,16 +243,7 @@ permalink: /
 <h2 class="section-header">Research Areas</h2>
 
 <details class="research-card">
-  <summary>Forecasting of Respiratory Viral Diseases</summary>
-  <div class="research-content">
-    <p class="research-text">We develop mathematical models to forecast the trajectory of major respiratory pathogens,
-    including COVID-19, Influenza (Flu), and Respiratory Syncytial Virus (RSV). Our forecasting models integrate
-    real-time epidemiological data to provide situational awareness and anticipate healthcare system burdens.</p>
-  </div>
-</details>
-
-<details class="research-card">
-  <summary>Intervention Assessment</summary>
+  <summary>Public Health Planning</summary>
   <div class="research-content">
     <p class="research-text">We evaluate the potential impact of public health interventions against respiratory
     infectious diseases through the development of mathematical models and participating in the Scenario 
@@ -263,17 +254,18 @@ permalink: /
 </details>
 
 <details class="research-card">
-  <summary>Social Contact Patterns</summary>
+  <summary>Public Health Situational Awareness</summary>
   <div class="research-content">
-    <p class="research-text">Social mixing patterns are fundamental drivers of respiratory pathogen transmission. 
-    We leveraged detailed social contact patterns to understand heterogeneous risk across different socio-demographic
-    groups. By identifying how, where, when and with whom individuals interact, we can more 
-    precisely model the spread of respiratory infectious diseases.</p>
+    <p class="research-text">We develop mathematical models to forecast the trajectory of major respiratory pathogens,
+    including COVID-19, Influenza (Flu), and Respiratory Syncytial Virus (RSV). Our forecasting models integrate
+    real-time epidemiological data to provide situational awareness and anticipate healthcare system burdens. These projects focus on forecasting mosquito vector population dynamics. 
+    By integrating environmental and ecological data, we forecast mosquito abundance
+    to provide situational awareness and inform proactive and highly targeted public health response.</p>
   </div>
 </details>
 
 <details class="research-card">
-  <summary>Multi-scale Modeling</summary>
+  <summary>Understand Epidemic Spread</summary>
   <div class="research-content">
     <p class="research-text">As disease spread is an inherently multi-scale process, we build a data driven,
     multi-scale framework to simulate respiratory pathogen transmission at within-host and between-hosts scales.
@@ -283,16 +275,17 @@ permalink: /
 </details>
 
 <details class="research-card">
-  <summary>Forecasting of Mosquitoes</summary>
+  <summary>Human Social Interactions</summary>
   <div class="research-content">
-    <p class="research-text">These projects focus on forecasting mosquito vector population dynamics. 
-    By integrating environmental and ecological data, we forecast mosquito abundance
-    to provide situational awareness and inform proactive and highly targeted public health response.</p>
+    <p class="research-text">Social mixing patterns are fundamental drivers of respiratory pathogen transmission. 
+    We leveraged detailed social contact patterns to understand heterogeneous risk across different socio-demographic
+    groups. By identifying how, where, when and with whom individuals interact, we can more 
+    precisely model the spread of respiratory infectious diseases.</p>
   </div>
 </details>
 
 <details class="research-card">
-  <summary>Mosquito Behavior</summary>
+  <summary>Mosquito Ecology and Behavior</summary>
   <div class="research-content">
     <p class="research-text">Understanding the specific behaviors of mosquito vectors is critical for mitigating
     outbreaks of arboviral diseases like dengue and Zika. We examine mosquito diel (daily) activity
