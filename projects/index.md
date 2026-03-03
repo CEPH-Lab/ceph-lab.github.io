@@ -85,28 +85,138 @@ permalink: /projects/
 </style>
 
 <div class="intro-text">
-  <p>Our lab focuses on several key areas of infectious disease dynamics. Select a project below to learn more about our methodologies, models, and findings.</p>
+  <p>CEPH lab focuses on several key areas of infectious disease dynamics. 
+    Select a project below to learn more about our methodologies, models, and findings.</p>
 </div>
 
+<!--
+<h2 class="section-header">Forecasting of Respiratory Viral Diseases</h2>
+
+<div class="project-card">
+  <h3 class="project-title">Rtrend</h3>
+  <p class="project-summary">Rtrend is a renewal equation model that combines a gamma-distributed generation time,
+    past incidence data, and forecasted trajectories of the reproduction number to forecast the incidence of
+    infections for respiratory pathogens. We use this model to produce forecasts for influenza, RSV, and COVID-19.</p>
+  <a href="{{ '/projects/Rtrend/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+
+<h2 class="section-header">Intervention Assessment</h2>
+<div class="project-card">
+  <h3 class="project-title">Individual-Based Epidemic Simulator</h3>
+  <p class="project-summary">Individual-Based Epidemic Simulator (IBES) is an agent-based modeling tool for
+    simulating the transmission dynamics of respiratory pathogens and conducting non-pharmaceutical intervention
+    assessments that mitigate infectious disease spread for large-scale synthetic populations.</p>
+  <a href="{{ '/projects/ibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+
+<div class="project-card">
+  <h3 class="project-title">Scenario Modeling Hub</h3>
+  <p class="project-summary">Our work with the Scenario Modeling Hub consists of performing model-based scenario
+    analyses that compare outbreak trajectories for different interventions, pathogens, and populations that impact
+    disease spread. We currently submit projections for the RSV, Flu, and Pandemic cryptic phase modeling hubs.</p>
+  <a href="{{ '/projects/smh/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+
+<div class="project-card">
+  <h3 class="project-title">ASTRA</h3>
+  <p class="project-summary">Annual Scenarios of Transmission (ASTRA) is a deterministic, age-stratified compartmental
+    model that was developed to conduct scenario analyses for respiratory infectious diseases.</p>
+  <a href="{{ '/projects/astra/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+-->
+
+<h2 class="section-header">Main Research Lines</h2>
+<div class="project-card">
+  <h3 class="project-title">Public Health Planning</h3>
+  <p class="project-summary">We evaluate the potential impact of public health interventions against respiratory
+    infectious diseases through the development of mathematical models and participating in the Scenario 
+    Modeling Hub(SMH) for Respiratory Syncytial Virus (RSV), Influenza (Flu) and Pandemic cryptic phase.
+    By simulating various scenarios, we assess the epidemiological impacts of pharmaceutical interventions,
+    vaccination strategies, and non-pharmaceutical measures.</p>
+  <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+
+<div class="project-card">
+  <h3 class="project-title">Situational Awareness</h3>
+  <p class="project-summary">Situational awareness is key for public health policy-making as it allows to anticipate 
+    surges in disease burden (e.g., hospitalizations) and trigger early warnings. Our objective is to 
+    enhance situational awareness through nowcasting and forecasting of epidemic trajectories using a variety of 
+    approaches from mechanistic, to semi-mechanistic, and stastical/machine learning approaches. We also aim at
+    improving situational awareness of mosquito control authorities by forecasting mosquito population dynamics.</p>
+  <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+
+<div class="project-card">
+  <h3 class="project-title">Infectious Disease Dynamics</h3>
+  <p class="project-summary">As disease spread is an inherently multi-scale process, we build a data driven,
+    multi-scale framework to simulate respiratory pathogen transmission at within-host and between-hosts scales.
+    Our multi-scale framework integrates granular mobility, demographic, and behavioral data to capture
+    the complex dynamics of epidemic spread at the individual and population level.</p>
+  <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+
+<div class="project-card">
+  <h3 class="project-title">Human Social Interactions</h3>
+  <p class="project-summary">Social mixing patterns drive respiratory pathogen transmission leading to 
+    heterogeneous exposure risks across different socio-demographic groups. Our objective is to 
+    understand why, where, when, how often, and with whom individuals interact.</p>
+  <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+
+<div class="project-card">
+  <h3 class="project-title">Mosquito Ecology and Behavior</h3>
+  <p class="project-summary">The relative abundance and behavior of mosquito vector species are main determinants of 
+    human risks for mosquito-borne diseases. Our objective is to investigate the drivers of seasonal and diel
+    trends in mosquito population dynamics and behavior across space and time to identify the underlying mechanisms. 
+    Through a mechanistic understanding of these processes, we carry out model-based evaluations to inform
+    mosquito-control and public health authorities.</p>
+  <a href="{{ '/projects/epistorm-mix/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+
+<!--
 <h2 class="section-header">Multi-scale Modeling</h2>
 
 <div class="project-card">
   <h3 class="project-title">VIBES</h3>
-  <p class="project-summary">A high-resolution Individual-Based Model (IBM) framework designed to simulate disease transmission at multiple scales by integrating granular mobility, demographic, and behavioral data.</p>
-  
-  <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Read More</a>
+  <p class="project-summary">Viral Dynamics Individual-Based Epidemic Simulator (VIBES) is a data-driven, multi-scale
+    framework that combines the within-host viral dynamics and between-hosts transmission dynamics to simulate the
+    spread of a respiratory infectious disease and test both pharmaceutical and non-pharmaceutical interventions.</p>
+  <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+
+<h2 class="section-header">Forecasting of Mosquitoes</h2>
+
+<div class="project-card">
+  <h3 class="project-title">Machine Learning</h3>
+  <p class="project-summary">We use an Autoregressive Integrated Moving Average model (ARIMA) and an Unobserved
+    Components Model (UCM) to provide 1- to 4-week forecasts of mosquito relative abundance. Forecasts are performed
+    for <em>Aedes aegypti</em> and <em>Culex quinquefasciatus</em> in Miami-Dade County, FL, Maricopa County, AZ,
+    Los Angeles, CA, and Key West, FL.</p>
+  <a href="{{ '/projects/mosq-ml/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
 <div class="project-card">
-  <h3 class="project-title">IBES</h3>
-  <p class="project-summary">A brief 1-2 sentence summary of what IBES does goes here to entice the reader to click.</p>
-  <a href="#" class="read-more-btn">Read More</a>
+  <h3 class="project-title">Compartmental Modeling</h3>
+  <p class="project-summary">We developed a compartmental model to simulate mosquito population dynamics regulated
+    through a system of ordinary differential equations to provide 1- to 4-week forecasts of mosquito relative
+    abundance. Forecasts are performed for <em>Aedes aegypti</em> in Miami-Dade County, FL.</p>
+  <a href="{{ '/projects/mosq-mm/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
-
-<h2 class="section-header">Intervention Assessment</h2>
 
 <div class="project-card">
-  <h3 class="project-title">Scenario Modeling Hub (RSV & Flu)</h3>
-  <p class="project-summary">Evaluating the potential impact of public health interventions and vaccination strategies through rigorous scenario simulation.</p>
-  <a href="#" class="read-more-btn">Read More</a>
+  <h3 class="project-title">Rtrend-Mosquitoes</h3>
+  <p class="project-summary">We developed a three-step procedure that estimates the mosquito generation time,
+    past temporal trends in the mosquito reproduction number, and a renewal equation to forecast <em>Aedes aegypti</em>
+    relative abundance in Miami-Dade County, FL, Maricopa County, AZ, Los Angeles, CA, and Key West, FL.</p>
+  <a href="{{ '/projects/mosq-mm/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
+
+<h2 class="section-header">Mosquito Behavior</h2>
+
+<div class="project-card">
+  <h3 class="project-title">Diel Activity Patterns</h3>
+  <p class="project-summary">We leverage mosquito and human diel activity patterns to conduct model-based evaluations
+    of the effectiveness of mosquito control strategies and their impact on the transmission of arboviruses.</p>
+  <a href="{{ '/projects/mosq-diel-activity/' | relative_url }}" class="read-more-btn">Learn More</a>
+</div>
+-->

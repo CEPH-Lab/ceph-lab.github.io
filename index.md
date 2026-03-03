@@ -235,11 +235,8 @@ permalink: /
 </p>
 </div>
 
-<h2 class="section-header">Approach</h2>
+<h2 class="section-header">What we do</h2>
 <div class="mission-text">
-<p>We apply statistical, mathematical, and computational modeling in infectious disease epidemiology</p>
-</div>
-<!--
 <ul class="what-we-do-list">
   <li>We apply statistical, mathematical, and computational modeling in infectious disease epidemiology</li>
   <li>Develop mathematical and computational modeling tools that simulate infectious disease transmission
@@ -248,8 +245,8 @@ permalink: /
   <li>Conduct model-based evaluations of the effectiveness of public health interventions to inform public health
     decision-making</li>
 </ul>
--->
 
+<!--
 <h2 class="section-header">Research Areas</h2>
 
 <details class="research-card">
@@ -266,12 +263,11 @@ permalink: /
 <details class="research-card">
   <summary>Situational Awareness</summary>
   <div class="research-content">
-    <p class="research-text">We develop mathematical models to forecast the trajectory of major respiratory pathogens,
-    including COVID-19, Influenza (Flu), and Respiratory Syncytial Virus (RSV). Our forecasting models integrate
-    real-time epidemiological data to provide situational awareness and anticipate healthcare system burdens. 
-    These projects focus on forecasting mosquito vector population dynamics. 
-    By integrating environmental and ecological data, we forecast mosquito abundance
-    to provide situational awareness and inform proactive and highly targeted public health response.</p>
+    <p class="research-text">Situational awareness is key for public health policy-making as it allows to anticipate 
+    surges in disease burden (e.g., hospitalizations) and trigger early warnings. Our objective is to 
+    enhance situational awareness through nowcasting and forecasting of epidemic trajectories using a variety of 
+    approaches from mechanistic, to semi-mechanistic, and stastical/machine learning approaches. We also aim at
+    improving situational awareness of mosquito control authorities by forecasting mosquito population dynamics.</p>
   </div>
 </details>
 
@@ -304,4 +300,4 @@ permalink: /
     mosquito-control and public health authorities.</p>
   </div>
 </details>
-
+-->
