@@ -52,9 +52,7 @@ permalink: /team/
   <img src="/images/team/marco-ajelli.jpg" alt="Marco Ajelli">
   <div>
     <h2 style="margin-top: 0; border-bottom: none;">Marco Ajelli</h2>
-    <p><strong>Professor</strong><br>
-    Department of Epidemiology and Biostatistics<br>
-    Indiana University School of Public Health Bloomington</p>
+    <p><strong>Professor</strong></p>
   </div>
 </div>
 
@@ -117,8 +115,8 @@ permalink: /team/
     <li>Juanjuan Zhang (Visiting Scholar)</li>
     <li>Ethan SeRine</li>
     <li>Adquate Mhlanga</li>
-    <li>Shelby Stone</li>
     <li>Victorya Valentine</li>
+    <li>Shelby Stone</li>
     <li>Samantha O'Dell</li>
   </ul>
 </div>
