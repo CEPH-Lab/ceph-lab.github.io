@@ -128,11 +128,11 @@ permalink: /research/
 <h2 class="section-header">Main Research Lines</h2>
 <div class="project-card">
   <h3 class="project-title">Public Health Planning</h3>
-  <p class="project-summary">We evaluate the potential impact of public health interventions against respiratory
-    infectious diseases through the development of mathematical models and participating in the Scenario 
-    Modeling Hub(SMH) for Respiratory Syncytial Virus (RSV), Influenza (Flu) and Pandemic cryptic phase.
-    By simulating various scenarios, we assess the epidemiological impacts of pharmaceutical interventions,
-    vaccination strategies, and non-pharmaceutical measures.</p>
+  <p class="project-summary">Mathematical and computational models have increasingly been used to inform
+    epidemic preparedness and response. Our objective is support public health decision-making through the 
+    scenario analysis and model-based evaluations of pharmaceutical and non-pharmaceutical interventions.
+    We provide actionable insights to our national and international public health partners and conduct
+    fundamental research in this area.</p>
   <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
