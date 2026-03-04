@@ -123,6 +123,41 @@ permalink: /
     margin-left: 20px;
   }
 
+.opportunity-card {
+    margin-bottom: 20px;
+    background-color: #508c9633;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+    border: 1px solid #f0f0f0;
+    border-left: 6px solid #508c96;
+    transition: all 0.3s ease;
+  }
+  
+  .opportunity-card:hover {
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px); 
+  }
+
+/* The Card Title */
+  .opportunity-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #2b2b2b;
+    padding: 25px 25px 15px 25px;
+    margin: 0;
+  }
+
+  .opportunity-content {
+    padding: 0 25px 30px 25px;
+  }
+
+  .opportunity-text {
+    line-height: 1.8;
+    color: #555;
+    margin: 0 0 15px 0;
+    font-size: 16px;
+  }
+
   /* Elevated Card Accordion */
   .research-card {
     margin-bottom: 20px;
@@ -138,7 +173,7 @@ permalink: /
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
     transform: translateY(-2px); 
   }
-  
+
   /* Clickable Header */
   .research-card summary {
     font-size: 20px;
@@ -157,6 +192,7 @@ permalink: /
     display: none;
   }
   
+<!--
   /* Circular Animated Icon */
   .research-card summary::after {
     content: '+';
@@ -173,6 +209,7 @@ permalink: /
     justify-content: center;
     transition: all 0.3s ease;
   }
+-->
   
   .research-card[open] summary::after {
     content: '−';
@@ -208,6 +245,30 @@ permalink: /
       height: 40px; /* Makes the arrow slightly smaller */
       width: 40px;
     }
+  }
+.apply-btn {
+    display: inline-block;
+    background-color: #508c96;
+    color: #ffffff !important;
+    padding: 10px 22px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 15px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .apply-btn:hover {
+    background-color: #36636a;
+    text-decoration: none;
+  }
+
+  /* A button for secondary links */
+  .secondary-btn {
+    background-color: #508c96;
+  }
+  .secondary-btn:hover {
+    background-color: #36636a;
   }
 
 </style>
@@ -247,63 +308,27 @@ permalink: /
   <li>Forecast and nowcast infectious disease dynamics and vector populations to enhance public health 
     situational awareness</li>
 </ul>
-<a href="https://ceph-lab.github.io/research/">Learn more about research</a>
+<a href="https://ceph-lab.github.io/research/">Learn more about our research</a>
 </div>
 
 <h2 class="section-header">About us</h2>
+<div class="mission-text">
+  <p>The laboratory is led by Marco Ajelli and is affiliated to the Department of Epidemiology and Biostatistics
+    at the Indiana University School of Public Health - Bloomington.</p>
+</div>
 
-<!--
-<h2 class="section-header">Research Areas</h2>
-
-<details class="research-card">
-  <summary>Public Health Planning</summary>
-  <div class="research-content">
-    <p class="research-text">We evaluate the potential impact of public health interventions against respiratory
-    infectious diseases through the development of mathematical models and participating in the Scenario 
-    Modeling Hub(SMH) for Respiratory Syncytial Virus (RSV), Influenza (Flu) and Pandemic cryptic phase.
-    By simulating various scenarios, we assess the epidemiological impacts of pharmaceutical interventions,
-    vaccination strategies, and non-pharmaceutical measures.</p>
-  </div>
-</details>
-
-<details class="research-card">
-  <summary>Situational Awareness</summary>
-  <div class="research-content">
-    <p class="research-text">Situational awareness is key for public health policy-making as it allows to anticipate 
-    surges in disease burden (e.g., hospitalizations) and trigger early warnings. Our objective is to 
-    enhance situational awareness through nowcasting and forecasting of epidemic trajectories using a variety of 
-    approaches from mechanistic, to semi-mechanistic, and stastical/machine learning approaches. We also aim at
-    improving situational awareness of mosquito control authorities by forecasting mosquito population dynamics.</p>
-  </div>
-</details>
-
-<details class="research-card">
-  <summary>Infectious Disease Dynamics</summary>
-  <div class="research-content">
-    <p class="research-text">As disease spread is an inherently multi-scale process, we build a data driven,
-    multi-scale framework to simulate respiratory pathogen transmission at within-host and between-hosts scales.
-    Our multi-scale framework integrates granular mobility, demographic, and behavioral data to capture
-    the complex dynamics of epidemic spread at the individual and population level.</p>
-  </div>
-</details>
-
-<details class="research-card">
-  <summary>Human Social Interactions</summary>
-  <div class="research-content">
-    <p class="research-text">Social mixing patterns drive respiratory pathogen transmission leading to 
-    heterogeneous exposure risks across different socio-demographic groups. Our objective is to 
-    understand why, where, when, how often, and with whom individuals interact. </p>
-  </div>
-</details>
-
-<details class="research-card">
-  <summary>Mosquito Ecology and Behavior</summary>
-  <div class="research-content">
-    <p class="research-text"> The relative abundance and behavior of mosquito vector species are main determinants of 
-    human risks for mosquito-borne diseases. Our objective is to investigate the drivers of seasonal and diel
-    trends in mosquito population dynamics and behavior across space and time to identify the underlying mechanisms. 
-    Through a mechanistic understanding of these processes, we carry out model-based evaluations to inform
-    mosquito-control and public health authorities.</p>
-  </div>
-</details>
--->
+<div class="opportunity-card">
+  <h3 class="opportunity-title">We are Hiring</h3>
+  <div class="opportunity-content">
+    <p class="opportunity-text">We are hiring a postdoctoral fellow in Infectious Disease modeling.
+    We seek candidates with a doctoral degree in a quantitative field (e.g., Mathematics,
+    Physics, Computer Science, or a related discipline). Candidates must be proficient in C or C++ or a track record
+    of mastering multiple low-level and high-level programming languages (e.g., Python, R, Julia, Fortran).</p>
+    <p class="opportunity-text"><em>For inquiries regarding open positions, please get in touch with Dr. Ajelli 
+    directly with your CV.</em></p>
+    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+    <a href="mailto:majelli@iu.edu?subject=Postdoc Inquiry - CEPH Lab"
+    class="apply-btn">Email Dr. Ajelli</a>
+      <a href="https://indiana.peopleadmin.com/postings/32436" target="_blank" class="apply-btn">Current Openings</a>
+    </div>
+</div>
