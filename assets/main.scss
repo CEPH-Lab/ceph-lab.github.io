@@ -17,3 +17,38 @@
     padding-left: 30px;
   }
 }
+
+/* --- Aesthetic Frosted Glass Mobile Menu --- */
+@media screen and (max-width: 600px) {
+  .site-header .site-nav {
+    position: absolute;
+    top: 60px; /* Drops it nicely below the header */
+    right: 15px;
+
+    /* The Frosted Glass Effect */
+    background-color: rgba(80, 140, 150, 0.9); /* Your teal at 90% opacity */
+    backdrop-filter: blur(12px); /* Blurs the background behind the menu */
+    -webkit-backdrop-filter: blur(12px); /* Ensures it works on iPhones/Safari */
+
+    /* Modern, aesthetic shaping */
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle glassy shine on the edges */
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15); /* Soft, elegant shadow */
+    padding: 10px 20px;
+  }
+
+  /* Styling the links for a clean, minimalist look */
+  .site-nav .page-link {
+    display: block;
+    padding: 12px 0;
+    color: #ffffff !important; /* Forces the text to stay bright white */
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15); /* Delicate divider lines */
+  }
+
+  /* Removes the divider line from the very last link for a clean finish */
+  .site-nav .page-link:last-child {
+    border-bottom: none;
+  }
+}
