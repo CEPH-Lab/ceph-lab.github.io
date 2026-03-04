@@ -74,3 +74,8 @@ permalink: /research/human-social-interactions/
 </style>
 
 <a href="{{ '/research/' | relative_url }}" class="back-link">← Back to Research</a>
+
+<div class="project-header">
+  <span class="research-area-tag">The "Who and Where" Social Mixing</span>
+  <h1 class="project-title">Human Social Interactions</h1>
+</div>

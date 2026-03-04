@@ -74,3 +74,8 @@ permalink: /research/situational-awareness/
 </style>
 
 <a href="{{ '/research/' | relative_url }}" class="back-link">← Back to Research</a>
+
+<div class="project-header">
+  <span class="research-area-tag">The "Now and Next" Forecasting and Monitoring</span>
+  <h1 class="project-title">Situational Awareness</h1>
+</div>

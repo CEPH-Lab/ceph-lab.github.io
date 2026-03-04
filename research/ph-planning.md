@@ -81,6 +81,8 @@ permalink: /research/public-health-planning/
 </div>
 
 <div class="project-body">
+
+<!--
   <img src="/images/research/vibes/Fig01.png" alt="VIBES Framework" class="figure-right">
 
   <p>Infectious disease spread is a complex, multi-scale process driven by the continuous interaction 
@@ -133,4 +135,6 @@ permalink: /research/public-health-planning/
     <a href="https://doi.org/10.48550/arXiv.2508.13354" target="_blank" style="display: inline-block;
     margin-top: 10px; color: #508c96; font-weight: 600; text-decoration: none;">[Read the Full Paper]</a>
   </div>
+
+-->
 </div>

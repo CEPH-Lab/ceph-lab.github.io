@@ -74,3 +74,8 @@ permalink: /research/mosquito-ecology-and-behavior/
 </style>
 
 <a href="{{ '/research/' | relative_url }}" class="back-link">← Back to Research</a>
+
+<div class="project-header">
+  <span class="research-area-tag">The "Vector" Environmental Drivers</span>
+  <h1 class="project-title">Mosquito Ecology and Behavior</h1>
+</div>
