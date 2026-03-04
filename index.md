@@ -323,15 +323,9 @@ permalink: /
     <p class="opportunity-text">We are hiring a postdoctoral fellow in Infectious Disease modeling.
     We seek candidates with a doctoral degree in a quantitative field (e.g., Mathematics,
     Physics, Computer Science, or a related discipline). Candidates should be passionate about understanding the 
-    mechanisms driving epidemic spread, designing mathematical models, and building computational engines. They
-    must be proficient in C or C++ or a track record of mastering multiple low-level and high-level 
-    programming languages (e.g., Python, R, Julia, Fortran).
-    The postdoctoral fellow is expected to develop data-driven mathematical and computational models. 
+    mechanisms driving epidemic spread, designing mathematical models, and building computational engines.
     The work will primarily focus on respiratory infectious diseases (e.g., COVID-19, influenza, RSV) and
-    mosquito-borne diseases but may pivot to public health emergencies. This position is designed as a launchpad 
-    for a tenure-track faculty career; as such,
-    the postdoctoral fellow will lead at least one major project while contributing to the collaborative
-    efforts of the lab, contribute to the writing of grant proposals and papers, and mentoring lab members.</p>
+    mosquito-borne diseases but may pivot to public health emergencies. </p>
     <p class="opportunity-text"><em>For inquiries regarding open positions, please get in touch with Dr. Ajelli 
     directly with your CV.</em></p>
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
