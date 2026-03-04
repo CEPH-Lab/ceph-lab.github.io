@@ -1058,7 +1058,7 @@ permalink: /publications/
     estimates of target population sizes for covid-19 vaccination: descriptive study</a>
   <p class="pub-authors">Wei Wang, Qianhui Wu, Juan Yang, Kaige Dong, Xinghui Chen, Xufang Bai, Xinhua Chen,
     Zhiyuan Chen, Cécile Viboud, Marco Ajelli, Hongjie Yu</p>
-  <p class="pub-journal"><em>BMJ</em> 371, (2020)</p>
+  <p class="pub-journal"><em>BMJ</em> 371, m4704 (2020)</p>
 </div>
 
 <h2 id="earlier-work" class="year-section">Earlier Work</h2>
