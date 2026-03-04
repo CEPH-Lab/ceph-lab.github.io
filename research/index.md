@@ -126,7 +126,7 @@ permalink: /research/
 
 <div class="intro-text">
   <p>The CEPH lab focuses on five main research lines in infectious disease epidemiology and public health. 
-    Select a card below to learn more about what we do.</p>
+    Select a card below to read more about what we do.</p>
 </div>
 
 <h2 class="section-header">Main Research Lines</h2>
@@ -139,7 +139,7 @@ permalink: /research/
       scenario analysis and model-based evaluations of pharmaceutical and non-pharmaceutical interventions.
       We provide actionable insights to our national and international public health partners and conduct
       fundamental research in this area.</p>
-    <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+    <a href="{{ '/research/public-health-planning/' | relative_url }}" class="read-more-btn">Learn More</a>
   </div>
 </details>
 
@@ -151,7 +151,7 @@ permalink: /research/
       enhance situational awareness through nowcasting and forecasting of epidemic trajectories using a variety of 
       approaches from mechanistic, to semi-mechanistic, and stastical/machine learning approaches. We also aim at
       improving situational awareness of mosquito control authorities by forecasting mosquito population dynamics.</p>
-    <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+    <a href="{{ '/research/situational-awareness/' | relative_url }}" class="read-more-btn">Learn More</a>
   </div>
 </details>
 
@@ -164,7 +164,7 @@ permalink: /research/
       patterns observed at the population level. We also aim to understand how cross-scale (within-host,
       between-host) interactions and socio-economic drivers shape the heterogeneous landscape of infectious disease
       epidemiology.</p>
-    <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+    <a href="{{ '/research/infectious-disease-dynamics/' | relative_url }}" class="read-more-btn">Learn More</a>
   </div>
 </details>
 
@@ -175,7 +175,7 @@ permalink: /research/
       heterogeneous exposure risks across different socio-demographic groups. Our objective is to 
       understand why, where, when, how often, and with whom individuals interact to better characterize transmission
       pathways.</p>
-    <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
+    <a href="{{ '/research/human-social-interactions/' | relative_url }}" class="read-more-btn">Learn More</a>
   </div>
 </details>
 
@@ -187,6 +187,6 @@ permalink: /research/
       trends in mosquito population dynamics and behavior across space and time to identify the underlying mechanisms. 
       Through a mechanistic understanding of these processes, we carry out model-based evaluations to inform
       mosquito-control and public health authorities.</p>
-    <a href="{{ '/projects/epistorm-mix/' | relative_url }}" class="read-more-btn">Learn More</a>
+    <a href="{{ '/research/mosquito-ecology-and-behavior/' | relative_url }}" class="read-more-btn">Learn More</a>
   </div>
 </details>

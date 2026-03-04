@@ -73,16 +73,15 @@ permalink: /research/public-health-planning/
   }
 </style>
 
-<a href="{{ '/projects/' | relative_url }}" class="back-link">← Back to All Projects</a>
+<a href="{{ '/research/' | relative_url }}" class="back-link">← Back to Research</a>
 
 <div class="project-header">
-  <span class="research-area-tag">Multi-scale Modeling</span>
-  <h1 class="project-title">VIBES: A Multi-Scale Modeling Approach Integrating Within-Host and Between-Hosts 
-    Dynamics in Epidemics</h1>
+  <span class="research-area-tag">The "What if" Policy and Interventions</span>
+  <h1 class="project-title">Public Health Planning</h1>
 </div>
 
 <div class="project-body">
-  <img src="/images/projects/vibes/Fig01.png" alt="VIBES Framework" class="figure-right">
+  <img src="/images/research/vibes/Fig01.png" alt="VIBES Framework" class="figure-right">
 
   <p>Infectious disease spread is a complex, multi-scale process driven by the continuous interaction 
     between biological (within-host) and social (between-host) factors. To truly understand epidemic dynamics, 
