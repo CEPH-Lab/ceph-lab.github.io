@@ -118,9 +118,8 @@ permalink: /join-us/
 <div class="opportunity-card">
   <h3 class="opportunity-title"> Postdoctoral Positions</h3>
   <div class="opportunity-content">
-    <p class="opportunity-text">We seek candidates with a doctoral degree in a quantitative field (e.g., Mathematics,
-    Physics, Computer Science, or a related discipline). Candidates must be proficient in C or C++ or a track record
-    of mastering multiple low-level and high-level programming languages (e.g., Python, R, Julia, Fortran).</p>
+    <p class="opportunity-text">We seek candidates with a doctoral degree in a quantitative field and
+    are passionate about understanding the mechanisms driving epidemic spread and designing models.</p>
     <p class="opportunity-text"><em>For inquiries regarding open positions, please get in touch with Dr. Ajelli 
     directly with your CV.</em></p>
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
