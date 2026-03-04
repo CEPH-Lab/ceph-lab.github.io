@@ -21,34 +21,34 @@
 /* --- Aesthetic Frosted Glass Mobile Menu --- */
 @media screen and (max-width: 600px) {
   .site-header .site-nav {
-    position: absolute;
-    top: 60px; /* Drops it nicely below the header */
-    right: 15px;
+    position: absolute !important;
+    top: 60px !important; /* Drops it nicely below the header */
+    right: 15px !important;
 
-    /* The Frosted Glass Effect */
-    background-color: rgba(80, 140, 150, 0.9); /* Your teal at 90% opacity */
-    backdrop-filter: blur(12px); /* Blurs the background behind the menu */
-    -webkit-backdrop-filter: blur(12px); /* Ensures it works on iPhones/Safari */
+    /* The Frosted Glass Effect forced to override Minima */
+    background-color: rgba(80, 140, 150, 0.95) !important;
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
 
     /* Modern, aesthetic shaping */
-    border-radius: 12px;
-    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle glassy shine on the edges */
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15); /* Soft, elegant shadow */
-    padding: 10px 20px;
+    border-radius: 12px !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15) !important;
+    padding: 10px 20px !important;
   }
 
   /* Styling the links for a clean, minimalist look */
   .site-nav .page-link {
-    display: block;
-    padding: 12px 0;
+    display: block !important;
+    padding: 12px 0 !important;
     color: #ffffff !important; /* Forces the text to stay bright white */
-    font-size: 16px;
-    letter-spacing: 0.5px;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.15); /* Delicate divider lines */
+    font-size: 16px !important;
+    letter-spacing: 0.5px !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
   }
 
   /* Removes the divider line from the very last link for a clean finish */
   .site-nav .page-link:last-child {
-    border-bottom: none;
+    border-bottom: none !important;
   }
 }
