@@ -1,7 +1,7 @@
 ---
 layout: default
-title: VIBES
-permalink: /research/vibes/
+title: Public Health Planning
+permalink: /research/public-health-planning/
 ---
 
 <style>

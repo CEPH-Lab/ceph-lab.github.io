@@ -36,7 +36,7 @@ permalink: /join-us/
   /* Static Elevated Card Styling */
   .opportunity-card {
     margin-bottom: 20px;
-    background-color: #ffffff;
+    background-color: #508c9633;
     border-radius: 8px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
     border: 1px solid #f0f0f0;
