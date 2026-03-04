@@ -94,7 +94,7 @@ permalink: /
     font-size: 18px;
     line-height: 1.7;
     color: #444;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
   }
   
   .what-we-do-list li {
@@ -138,7 +138,7 @@ permalink: /
     transform: translateY(-2px); 
   }
 
-/* The Card Title */
+  /* The Card Title */
   .opportunity-title {
     font-size: 20px;
     font-weight: 600;
@@ -191,8 +191,7 @@ permalink: /
   .research-card summary::-webkit-details-marker {
     display: none;
   }
-  
-<!--
+
   /* Circular Animated Icon */
   .research-card summary::after {
     content: '+';
@@ -209,7 +208,6 @@ permalink: /
     justify-content: center;
     transition: all 0.3s ease;
   }
--->
   
   .research-card[open] summary::after {
     content: '−';
@@ -285,15 +283,7 @@ permalink: /
 <div class="mission-text">
   <p>Our mission at the Laboratory for Computational Epidemiology and Public Health (CEPH Lab) is
     to advance the understanding of infectious disease epidemiology and provide actionable insights to inform 
-    public health policy. 
-
-<!--
-    is to advance the understanding of infectious disease dynamics through applied infectious
-    disease epidemiology and mathematical modeling. By studying infectious disease outbreaks and
-    developing modeling tools, we provide actionable insights that inform public health decision-making and strengthen
-    preparedness and response planning.
--->
-</p>
+    public health policy.</p>
 </div>
 
 <h2 class="section-header">What we do</h2>
@@ -308,7 +298,7 @@ permalink: /
   <li>Forecast and nowcast infectious disease dynamics and vector populations to enhance public health 
     situational awareness</li>
 </ul>
-<a href="https://ceph-lab.github.io/research/">Learn more about our research</a>
+<a href="https://ceph-lab.github.io/research/" target="_blank" class="apply-btn">Learn more about our research</a>
 </div>
 
 <h2 class="section-header">About us</h2>
@@ -331,6 +321,6 @@ permalink: /
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
     <a href="mailto:majelli@iu.edu?subject=Postdoc Inquiry - CEPH Lab"
     class="apply-btn">Email Dr. Ajelli</a>
-      <a href="https://indiana.peopleadmin.com/postings/32436" target="_blank" class="apply-btn">Current Openings</a>
+    <a href="https://indiana.peopleadmin.com/postings/32436" target="_blank" class="apply-btn">Current Openings</a>
     </div>
 </div>

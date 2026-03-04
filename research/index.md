@@ -126,10 +126,11 @@ permalink: /research/
 -->
 
 <h2 class="section-header">Main Research Lines</h2>
+
 <div class="project-card">
   <h3 class="project-title">Public Health Planning</h3>
   <p class="project-summary">Mathematical and computational models have increasingly been used to inform
-    epidemic preparedness and response. Our objective is support public health decision-making through the 
+    epidemic preparedness and response. Our objective is to support public health decision-making through the 
     scenario analysis and model-based evaluations of pharmaceutical and non-pharmaceutical interventions.
     We provide actionable insights to our national and international public health partners and conduct
     fundamental research in this area.</p>
@@ -138,7 +139,7 @@ permalink: /research/
 
 <div class="project-card">
   <h3 class="project-title">Situational Awareness</h3>
-  <p class="project-summary">Situational awareness is key for public health policy-making as it allows to anticipate 
+  <p class="project-summary">Situational awareness is key for public health policy-making as it allows anticipating 
     surges in disease burden (e.g., hospitalizations) and trigger early warnings. Our objective is to 
     enhance situational awareness through nowcasting and forecasting of epidemic trajectories using a variety of 
     approaches from mechanistic, to semi-mechanistic, and stastical/machine learning approaches. We also aim at
@@ -148,10 +149,12 @@ permalink: /research/
 
 <div class="project-card">
   <h3 class="project-title">Infectious Disease Dynamics</h3>
-  <p class="project-summary">As disease spread is an inherently multi-scale process, we build a data driven,
-    multi-scale framework to simulate respiratory pathogen transmission at within-host and between-hosts scales.
-    Our multi-scale framework integrates granular mobility, demographic, and behavioral data to capture
-    the complex dynamics of epidemic spread at the individual and population level.</p>
+  <p class="project-summary">The transmission of infectious pathogens is a complex process driven by the interplay
+    of biological, behavioral, and socio-economic factors. Our objective is to characterize the fundamental
+    mechanisms of pathogen spread, ranging from the clinical progression of individual infections to the broad
+    patterns observed at the population level. We also aim to understand how cross-scale (within-host,
+    between-host) interactions and socio-economic drivers shape the heterogeneous landscape of infectious disease
+    epidemiology.</p>
   <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
@@ -159,7 +162,8 @@ permalink: /research/
   <h3 class="project-title">Human Social Interactions</h3>
   <p class="project-summary">Social mixing patterns drive respiratory pathogen transmission leading to 
     heterogeneous exposure risks across different socio-demographic groups. Our objective is to 
-    understand why, where, when, how often, and with whom individuals interact.</p>
+    understand why, where, when, how often, and with whom individuals interact to better characterize transmission
+    pathways.</p>
   <a href="{{ '/projects/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
 
@@ -172,51 +176,3 @@ permalink: /research/
     mosquito-control and public health authorities.</p>
   <a href="{{ '/projects/epistorm-mix/' | relative_url }}" class="read-more-btn">Learn More</a>
 </div>
-
-<!--
-<h2 class="section-header">Multi-scale Modeling</h2>
-
-<div class="project-card">
-  <h3 class="project-title">VIBES</h3>
-  <p class="project-summary">Viral Dynamics Individual-Based Epidemic Simulator (VIBES) is a data-driven, multi-scale
-    framework that combines the within-host viral dynamics and between-hosts transmission dynamics to simulate the
-    spread of a respiratory infectious disease and test both pharmaceutical and non-pharmaceutical interventions.</p>
-  <a href="{{ '/research/vibes/' | relative_url }}" class="read-more-btn">Learn More</a>
-</div>
-
-<h2 class="section-header">Forecasting of Mosquitoes</h2>
-
-<div class="project-card">
-  <h3 class="project-title">Machine Learning</h3>
-  <p class="project-summary">We use an Autoregressive Integrated Moving Average model (ARIMA) and an Unobserved
-    Components Model (UCM) to provide 1- to 4-week forecasts of mosquito relative abundance. Forecasts are performed
-    for <em>Aedes aegypti</em> and <em>Culex quinquefasciatus</em> in Miami-Dade County, FL, Maricopa County, AZ,
-    Los Angeles, CA, and Key West, FL.</p>
-  <a href="{{ '/research/mosq-ml/' | relative_url }}" class="read-more-btn">Learn More</a>
-</div>
-
-<div class="project-card">
-  <h3 class="project-title">Compartmental Modeling</h3>
-  <p class="project-summary">We developed a compartmental model to simulate mosquito population dynamics regulated
-    through a system of ordinary differential equations to provide 1- to 4-week forecasts of mosquito relative
-    abundance. Forecasts are performed for <em>Aedes aegypti</em> in Miami-Dade County, FL.</p>
-  <a href="{{ '/research/mosq-mm/' | relative_url }}" class="read-more-btn">Learn More</a>
-</div>
-
-<div class="project-card">
-  <h3 class="project-title">Rtrend-Mosquitoes</h3>
-  <p class="project-summary">We developed a three-step procedure that estimates the mosquito generation time,
-    past temporal trends in the mosquito reproduction number, and a renewal equation to forecast <em>Aedes aegypti</em>
-    relative abundance in Miami-Dade County, FL, Maricopa County, AZ, Los Angeles, CA, and Key West, FL.</p>
-  <a href="{{ '/research/mosq-mm/' | relative_url }}" class="read-more-btn">Learn More</a>
-</div>
-
-<h2 class="section-header">Mosquito Behavior</h2>
-
-<div class="project-card">
-  <h3 class="project-title">Diel Activity Patterns</h3>
-  <p class="project-summary">We leverage mosquito and human diel activity patterns to conduct model-based evaluations
-    of the effectiveness of mosquito control strategies and their impact on the transmission of arboviruses.</p>
-  <a href="{{ '/research/mosq-diel-activity/' | relative_url }}" class="read-more-btn">Learn More</a>
-</div>
--->
