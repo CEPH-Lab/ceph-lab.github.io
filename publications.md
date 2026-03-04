@@ -1063,7 +1063,7 @@ permalink: /publications/
 
 <h2 id="earlier-work" class="year-section">Earlier Work</h2>
 
-<p class="pub-title" style="color:#000000">To read earlier work, see 
-  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=igKX7EMAAAAJ" class="pub-title">
-    Google Scholar</a>
+<p class="pub-author" style="color:#000000">To read earlier work, see 
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=igKX7EMAAAAJ" class="pub-author"
+    style="color:#508c96">Google Scholar</a>
 </p>
