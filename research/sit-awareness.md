@@ -79,3 +79,8 @@ permalink: /research/situational-awareness/
   <span class="research-area-tag">The "Now and Next" Forecasting and Monitoring</span>
   <h1 class="project-title">Situational Awareness</h1>
 </div>
+
+<div class="project-body">
+<p> The page is currently under construction.
+</p>
+</div>

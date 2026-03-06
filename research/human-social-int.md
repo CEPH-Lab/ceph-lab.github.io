@@ -79,3 +79,8 @@ permalink: /research/human-social-interactions/
   <span class="research-area-tag">The "Who and Where" Social Mixing</span>
   <h1 class="project-title">Human Social Interactions</h1>
 </div>
+
+<div class="project-body">
+<p> The page is currently under construction.
+</p>
+</div>

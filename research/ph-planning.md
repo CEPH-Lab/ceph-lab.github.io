@@ -76,11 +76,13 @@ permalink: /research/public-health-planning/
 <a href="{{ '/research/' | relative_url }}" class="back-link">← Back to Research</a>
 
 <div class="project-header">
-  <span class="research-area-tag">The "What if" Policy and Interventions</span>
   <h1 class="project-title">Public Health Planning</h1>
+  <span class="research-area-tag">The "What if" Policy and Interventions</span>
 </div>
 
 <div class="project-body">
+<p> The page is currently under construction.
+</p>
 
 <!--
   <img src="/images/research/vibes/Fig01.png" alt="VIBES Framework" class="figure-right">

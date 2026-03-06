@@ -79,3 +79,8 @@ permalink: /research/infectious-disease-dynamics/
   <span class="research-area-tag">The "How and Why" Biological and social mechanisms</span>
   <h1 class="project-title">Infectious Disease Dynamics</h1>
 </div>
+
+<div class="project-body">
+<p> The page is currently under construction.
+</p>
+</div>

@@ -132,43 +132,6 @@ permalink: /research/
 <h2 class="section-header">Main Research Lines</h2>
 
 <details class="project-card">
-  <summary class="project-title">Public Health Planning</summary>
-  <div class="project-content">
-    <p class="project-summary">Mathematical and computational models have increasingly been used to inform
-      epidemic preparedness and response. Our objective is to support public health decision-making through the 
-      scenario analysis and model-based evaluations of pharmaceutical and non-pharmaceutical interventions.
-      We provide actionable insights to our national and international public health partners and conduct
-      fundamental research in this area.</p>
-    <a href="{{ '/research/public-health-planning/' | relative_url }}" class="read-more-btn">Learn More</a>
-  </div>
-</details>
-
-<details class="project-card">
-  <summary class="project-title">Situational Awareness</summary>
-  <div class="project-content">
-    <p class="project-summary">Situational awareness is key for public health policy-making as it allows anticipating 
-      surges in disease burden (e.g., hospitalizations) and trigger early warnings. Our objective is to 
-      enhance situational awareness through nowcasting and forecasting of epidemic trajectories using a variety of 
-      approaches from mechanistic, to semi-mechanistic, and stastical/machine learning approaches. We also aim at
-      improving situational awareness of mosquito control authorities by forecasting mosquito population dynamics.</p>
-    <a href="{{ '/research/situational-awareness/' | relative_url }}" class="read-more-btn">Learn More</a>
-  </div>
-</details>
-
-<details class="project-card">
-  <summary class="project-title">Infectious Disease Dynamics</summary>
-  <div class="project-content">
-    <p class="project-summary">The transmission of infectious pathogens is a complex process driven by the interplay
-      of biological, behavioral, and socio-economic factors. Our objective is to characterize the fundamental
-      mechanisms of pathogen spread, ranging from the clinical progression of individual infections to the broad
-      patterns observed at the population level. We also aim to understand how cross-scale (within-host,
-      between-host) interactions and socio-economic drivers shape the heterogeneous landscape of infectious disease
-      epidemiology.</p>
-    <a href="{{ '/research/infectious-disease-dynamics/' | relative_url }}" class="read-more-btn">Learn More</a>
-  </div>
-</details>
-
-<details class="project-card">
   <summary class="project-title">Human Social Interactions</summary>
   <div class="project-content">
     <p class="project-summary">Social mixing patterns drive respiratory pathogen transmission leading to 
@@ -190,3 +153,42 @@ permalink: /research/
     <a href="{{ '/research/mosquito-ecology-and-behavior/' | relative_url }}" class="read-more-btn">Learn More</a>
   </div>
 </details>
+
+<details class="project-card">
+  <summary class="project-title">Infectious Disease Dynamics</summary>
+  <div class="project-content">
+    <p class="project-summary">The transmission of infectious pathogens is a complex process driven by the interplay
+      of biological, behavioral, and socio-economic factors. Our objective is to characterize the fundamental
+      mechanisms of pathogen spread, ranging from the clinical progression of individual infections to the broad
+      patterns observed at the population level. We also aim to understand how cross-scale (within-host,
+      between-host) interactions and socio-economic drivers shape the heterogeneous landscape of infectious disease
+      epidemiology.</p>
+    <a href="{{ '/research/infectious-disease-dynamics/' | relative_url }}" class="read-more-btn">Learn More</a>
+  </div>
+</details>
+
+<details class="project-card">
+  <summary class="project-title">Situational Awareness</summary>
+  <div class="project-content">
+    <p class="project-summary">Situational awareness is key for public health policy-making as it allows anticipating 
+      surges in disease burden (e.g., hospitalizations) and trigger early warnings. Our objective is to 
+      enhance situational awareness through nowcasting and forecasting of epidemic trajectories using a variety of 
+      approaches from mechanistic, to semi-mechanistic, and stastical/machine learning approaches. We also aim at
+      improving situational awareness of mosquito control authorities by forecasting mosquito population dynamics.</p>
+    <a href="{{ '/research/situational-awareness/' | relative_url }}" class="read-more-btn">Learn More</a>
+  </div>
+</details>
+
+<details class="project-card">
+  <summary class="project-title">Public Health Planning</summary>
+  <div class="project-content">
+    <p class="project-summary">Mathematical and computational models have increasingly been used to inform
+      epidemic preparedness and response. Our objective is to support public health decision-making through the 
+      scenario analysis and model-based evaluations of pharmaceutical and non-pharmaceutical interventions.
+      We provide actionable insights to our national and international public health partners and conduct
+      fundamental research in this area.</p>
+    <a href="{{ '/research/public-health-planning/' | relative_url }}" class="read-more-btn">Learn More</a>
+  </div>
+</details>
+
+
