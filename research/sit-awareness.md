@@ -54,7 +54,7 @@ permalink: /research/situational-awareness/
   .figure-right {
     float: right;
     width: 100%; 
-    max-width: 450px;
+    max-width: 600px;
     margin: 10px 0 20px 30px; /* Pushes text away from the left and bottom edges */
     border-radius: 8px;
     border: 1px solid #e5e5e5;
@@ -93,7 +93,7 @@ permalink: /research/situational-awareness/
 
 <div class="project-body">
 
-<img src="/images/research/sit-awareness/Fig01.png" alt="VIBES Framework" class="figure-full">
+<img src="/images/research/sit-awareness/Fig01.png" alt="VIBES Framework" class="figure-right">
 
 <h3 style="color: #508c96">Why Situational Awareness?</h3>
     <p>In the early stages of an outbreak or during seasonal surges, surveillance data is often delayed, incomplete,
@@ -115,7 +115,7 @@ permalink: /research/situational-awareness/
     weeks ahead to inform the deployment of mosquito control strategies.</li>
    </ul>
 
-<h3 style="color: #508c96">Methodological Approach</h3>
+<h3 style="color: #508c96">Approach</h3>
     <p>We use a set of approaches ranging from mechanistic modeling rooted in epidemiological and biological principles
     to statistical/machine learning modeling, and semi-mechanistic hybrid approaches based on data type and quality,
     and the specific public health needs.</p>
