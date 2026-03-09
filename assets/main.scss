@@ -37,6 +37,11 @@ html {
     padding: 0 !important;
   }
 
+  /* Forces the Hamburger Icon lines to be white */
+  .site-header .site-nav .menu-icon > svg path {
+    fill: #FFFFFF !important;
+  }
+
   /* Apply the Frosted Glass box ONLY to the dropdown menu containing the links */
   .site-header .site-nav .trigger {
     position: absolute !important;
