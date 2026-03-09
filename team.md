@@ -73,7 +73,7 @@ permalink: /team/
   <div class="team-member">
     <img src="/images/team/shreeya-mhade.jpg" alt="Shreeya Mhade">
     <h4>Shreeya Mhade</h4>
-    <p>PhD Student</p>
+    <p>PhD Candidate</p>
   </div>
 
   <div class="team-member">
@@ -85,19 +85,19 @@ permalink: /team/
   <div class="team-member">
     <img src="/images/team/jessica-guerrini.jpg" alt="Jessica Guerrini">
     <h4>Jessica Guerrini</h4>
-    <p>Research Assistant</p>
+    <p>Graduate Research Assistant</p>
   </div>
 
   <div class="team-member">
     <img src="/images/team/katie-pletz.jpg" alt="Katie Pletz">
     <h4>Katie Pletz</h4>
-    <p>Research Assistant</p>
+    <p>Graduate Research Assistant</p>
   </div>
 
   <div class="team-member">
     <img src="/images/team/snigdha-agrawal.jpg" alt="Snigdha Agrawal">
     <h4>Snigdha Agrawal</h4>
-    <p>Research Assistant</p>
+    <p>Graduate Research Assistant</p>
   </div>
 
 </div>

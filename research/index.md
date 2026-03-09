@@ -171,10 +171,10 @@ permalink: /research/
   <summary class="project-title">Situational Awareness</summary>
   <div class="project-content">
     <p class="project-summary">Situational awareness is key for public health policy-making as it allows anticipating 
-      surges in disease burden (e.g., hospitalizations) and trigger early warnings. Our objective is to 
+      surges in disease burden (e.g., hospitalizations) and triggers early warnings. Our objective is to 
       enhance situational awareness through nowcasting and forecasting of epidemic trajectories using a variety of 
-      approaches from mechanistic, to semi-mechanistic, and stastical/machine learning approaches. We also aim at
-      improving situational awareness of mosquito control authorities by forecasting mosquito population dynamics.</p>
+      approaches, from mechanistic to semi-mechanistic and statistical/machine learning approaches. We also aim to 
+      improve situational awareness of mosquito control authorities by forecasting mosquito population dynamics.</p>
     <a href="{{ '/research/situational-awareness/' | relative_url }}" class="read-more-btn">Learn More</a>
   </div>
 </details>

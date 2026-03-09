@@ -85,7 +85,7 @@ permalink: /research/public-health-planning/
 </p>
 
 <!--
-  <img src="/images/research/vibes/Fig01.png" alt="VIBES Framework" class="figure-right">
+  <img src="/images/research/ph-planning/Fig01.png" alt="VIBES Framework" class="figure-right">
 
   <p>Infectious disease spread is a complex, multi-scale process driven by the continuous interaction 
     between biological (within-host) and social (between-host) factors. To truly understand epidemic dynamics, 
