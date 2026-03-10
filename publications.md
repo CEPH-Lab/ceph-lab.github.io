@@ -90,7 +90,7 @@ permalink: /publications/
     attendance from Italian post-pandemic social contact data</a>
   <p class="pub-authors">Lorenzo Lucchini, Valentina Marziano, Filippo Trentini, Chiara Chiavenna,
     Elena D’Agnese, Vittoria Offeddu, Mattia Manica, Piero Poletti, Duilio Balsamo, Giorgio Guzzetta,
-    Marco Ajelli, Alessia Melegaro, Stefano Merler
+    Marco Ajelli, Alessia Melegaro, Stefano Merler</p>
   <p class="pub-journal"><em>Communications Medicine</em>, In press (2026)</p>
 </div>
 
@@ -99,7 +99,7 @@ permalink: /publications/
     2014-2025 in Brazil: an epidemiological study</a>
   <p class="pub-authors">Xinyi Hua, Laura W. Alexander, Ingra M. Claro, Yucai Shao, Ronaldo de Jesus,
     Shirlene T. S. de Lima, Paulo C. Ventura, Rodrigo B. Kato, Marco Ajelli, André B.B. Wilke,
-    Marc A Suchard, Nuno R. Faria, José Luiz Proenca-Modena, Laura B. Dickson, Ana I. Bento, William M. de Souza.
+    Marc A Suchard, Nuno R. Faria, José Luiz Proenca-Modena, Laura B. Dickson, Ana I. Bento, William M. de Souza.</p>
   <p class="pub-journal"><em>Nature Health</em>, In press (2026)</p>
 </div>
 

@@ -129,7 +129,7 @@ permalink: /research/situational-awareness/
     <a href="https://covid19forecasthub.org/" style="color: #508c96">COVID-19 forecast hub</a>, and the
     <a href="https://rsvforecasthub.org/" style="color: #508c96">RSV forecast hub</a>.</li>
     <li><strong>Mosquito Forecasting Tools:</strong> Our forecasting tools have been tested across multiple US
-    jurisdictions to enhance situational awareness of partners such as the Miami-Dade County Mosquito Control,
+    jurisdictions to enhance situational awareness of partners such as the Miami-Dade County Mosquito Control Division,
     Maricopa County Environmental Services, Greater Los Angeles County Vector Control District, and 
     New Orleans Mosquito, Termite and Rodent Control Board.</li>
   </ul>
