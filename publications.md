@@ -87,11 +87,21 @@ permalink: /publications/
 
 <div class="pub-entry">
   <a href="" target="_blank" class="pub-title"> Implications for distancing measures on in-person school and work
-    attendance from Italian post-pandemic social contact data
+    attendance from Italian post-pandemic social contact data</a>
   <p class="pub-authors">Lorenzo Lucchini, Valentina Marziano, Filippo Trentini, Chiara Chiavenna,
     Elena D’Agnese, Vittoria Offeddu, Mattia Manica, Piero Poletti, Duilio Balsamo, Giorgio Guzzetta,
     Marco Ajelli, Alessia Melegaro, Stefano Merler
   <p class="pub-journal"><em>Communications Medicine</em>, In press (2026)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="" target="_blank" class="pub-title"> Ecological and demographic profile of Oropouche fever between
+    2014-2025 in Brazil: an epidemiological study</a>
+  <p class="pub-authors">Xinyi Hua, Laura W. Alexander, Ingra M. Claro, Yucai Shao, Ronaldo de Jesus,
+    Shirlene T. S. de Lima, Paulo C. Ventura, Rodrigo B. Kato, Marco Ajelli, André B.B. Wilke,
+    Marc A Suchard, Nuno R. Faria, José Luiz Proenca-Modena, Laura B. Dickson, Ana I. Bento, William M. de Souza.
+  <p class="pub-journal"><em>Nature Health</em>, In press (2026)</p>
+</div>
 
 <div class="pub-entry">
   <a href="https://doi.org/10.1016/j.idm.2025.10.009" target="_blank" class="pub-title">Understanding 
