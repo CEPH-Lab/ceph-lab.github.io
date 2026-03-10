@@ -82,15 +82,6 @@ permalink: /research/situational-awareness/
       display: block;
     }
   }
-
-  /* Optional styling for the references list */
-  .references-list {
-    padding-left: 20px;
-  }
-  
-  .references-list li {
-    margin-bottom: 20px;
-  }
 </style>
 
 <a href="{{ '/research/' | relative_url }}" class="back-link">← Back to Research</a>
@@ -102,7 +93,7 @@ permalink: /research/situational-awareness/
 
 <div class="project-body">
 
-  <img src="/images/research/sit-awareness/Fig01.png" alt="VIBES Framework" class="figure-right">
+  <img src="/images/research/sit-awareness/Fig01.png" alt="Mosquito Forecast" class="figure-right">
 
   <h3 style="color: #508c96">Why Situational Awareness?</h3>
   <p>In the early stages of an outbreak or during seasonal surges, surveillance data is often delayed, incomplete,
@@ -115,14 +106,14 @@ permalink: /research/situational-awareness/
     
   <h3 style="color: #508c96">Research Topics</h3>
   <ul>
-    <li><strong>Human Pathogens.</strong> The CEPH Lab develops models to monitor the spread of respiratory
+    <li><strong>Human Pathogens. </strong>The CEPH Lab develops models to monitor the spread of respiratory
     pathogens, such as influenza, RSV, and COVID-19, providing short-term (1- to 4-week-ahead) forecasts of
     epidemic burden (e.g., number of hospitalizations) to support public health and clinical preparedness and
     response planning.</li>
-    <li><strong>Mosquito Population Dynamics.</strong> Situational awareness is not limited to human cases. 
+    <li><strong>Mosquito Population Dynamics. </strong>Situational awareness is not limited to human cases. 
     For vector-borne diseases (e.g., West Nile, dengue, Zika), public health actions often start with the vector. 
-    We are developing analytical tools that forecast the abundance of Aedes aegypti and other vector species 1 to
-    4 weeks ahead to inform the deployment of mosquito control strategies.</li>
+    We are developing analytical tools that forecast the abundance of <em>Aedes aegypti</em> and other vector
+    species 1 to 4 weeks ahead to inform the deployment of mosquito control strategies.</li>
   </ul>
 
   <h3 style="color: #508c96">Approach</h3>
@@ -139,8 +130,8 @@ permalink: /research/situational-awareness/
     <a href="https://rsvforecasthub.org/" style="color: #508c96">RSV forecast hub</a>.</li>
     <li><strong>Mosquito Forecasting Tools:</strong> Our forecasting tools have been tested across multiple US
     jurisdictions to enhance situational awareness of partners such as the Miami-Dade County Mosquito Control,
-    Maricopa County Vector Control, Greater Los Angeles County Vector Control District, and New Orleans Mosquito,
-    Termite and Rodent Control Board.</li>
+    Maricopa County Environmental Services, Greater Los Angeles County Vector Control District, and 
+    New Orleans Mosquito, Termite and Rodent Control Board.</li>
   </ul>
     
   <h3 style="color: #508c96">Funding</h3>
@@ -151,7 +142,7 @@ permalink: /research/situational-awareness/
   </ul>
 
   <h3 style="color: #508c96">References</h3>
-  <ul class="references-list">
+  <ul>
     <li>
       <div class="citation-box">
         <p style="margin: 0; padding-bottom: 5px;">Mathis SM, Webber AE, León TM, Murray EL, Sun M, White LA,
