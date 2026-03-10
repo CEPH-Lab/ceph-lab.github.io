@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Situational Awareness
-permalink: /research/human-social-interactions/
+title: Human Social Behavior
+permalink: /research/human-social-behavior/
 ---
 
 <style>
@@ -76,13 +76,13 @@ permalink: /research/human-social-interactions/
 <a href="{{ '/research/' | relative_url }}" class="back-link">← Back to Research</a>
 
 <div class="project-header">
-  <h1 class="project-title">Human Social Interactions</h1>
+  <h1 class="project-title">Human Social Behavior</h1>
   <span class="research-area-tag">Pathogen Transmission: The "Who, Where, and When"</span>
 </div>
 
 <div class="project-body">
   <!--
-  <img src="/images/research/human-social-int/Fig01.png" alt="Social Contacts" class="figure-right">
+  <img src="/images/research/human-social-beh/Fig01.png" alt="Social Contacts" class="figure-right">
   -->
 
   <h3 style="color: #508c96">Why Human Social Behavior?</h3>
@@ -118,7 +118,7 @@ permalink: /research/human-social-interactions/
     landscape to serve as a nationally representative empirical benchmark for how the population mixes.</li>
     <li><strong>Human-Vector Interaction:</strong> Quantifying the heterogeneous risk of mosquito-borne infection
     by demographic group to improve health equity through our collaborations with public health authorities such
-    as the Miami-Dade County Mosquito Control, Maricopa County Environmental Services, Greater Los Angeles County
+    as the Miami-Dade County Mosquito Control Division, Maricopa County Environmental Services, Greater Los Angeles County
     Vector Control District, and New Orleans Mosquito, Termite and Rodent Control Board.</li>
   </ul>
     

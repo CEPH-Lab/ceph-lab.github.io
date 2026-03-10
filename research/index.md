@@ -132,13 +132,12 @@ permalink: /research/
 <h2 class="section-header">Main Research Lines</h2>
 
 <details class="project-card">
-  <summary class="project-title">Human Social Interactions</summary>
+  <summary class="project-title">Human Social Behavior</summary>
   <div class="project-content">
-    <p class="project-summary">Social mixing patterns drive respiratory pathogen transmission leading to 
-      heterogeneous exposure risks across different socio-demographic groups. Our objective is to 
-      understand why, where, when, how often, and with whom individuals interact to better characterize transmission
-      pathways.</p>
-    <a href="{{ '/research/human-social-interactions/' | relative_url }}" class="read-more-btn">Learn More</a>
+    <p class="project-summary">Social behavior drives pathogen transmission, leading to heterogeneous exposure
+    risks across different socio-demographic groups. Our objective is to understand the social behavior of
+    individuals and its determinants to better characterize transmission pathways.</p>
+    <a href="{{ '/research/human-social-behavior/' | relative_url }}" class="read-more-btn">Learn More</a>
   </div>
 </details>
 

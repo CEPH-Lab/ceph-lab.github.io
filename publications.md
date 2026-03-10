@@ -86,6 +86,14 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
+  <a href="" target="_blank" class="pub-title"> Implications for distancing measures on in-person school and work
+    attendance from Italian post-pandemic social contact data
+  <p class="pub-authors">Lorenzo Lucchini, Valentina Marziano, Filippo Trentini, Chiara Chiavenna,
+    Elena D’Agnese, Vittoria Offeddu, Mattia Manica, Piero Poletti, Duilio Balsamo, Giorgio Guzzetta,
+    Marco Ajelli, Alessia Melegaro, Stefano Merler
+  <p class="pub-journal"><em>Communications Medicine</em>, In press (2026)</p>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.1016/j.idm.2025.10.009" target="_blank" class="pub-title">Understanding 
     human mobility patterns under a public health emergency</a>
   <p class="pub-authors">Cheng Peng, Nana Chen, Bo-Wen Ming, Anqi Zhang, Yao Zuo, Paulo C Ventura,
@@ -252,16 +260,6 @@ permalink: /publications/
     Jean-Marc Chavatte, Raymond Valentine Tzer Pin Lin, Yvonne CF Su, Marco Ajelli, Po Ying Chia, Sean WX Ong,
     David Chien Lye, Barnaby E Young, Keisuke Ejima</p>
   <p class="pub-journal"><em>Journal of Medical Virology</em> 97 (1), e70174 (2025)</p>
-</div>
-
-<h2 id="2024" class="year-section">2024</h2>
-<div class="pub-entry">
-  <a href="https://doi.org/10.48550/arXiv.2412.18549" target="_blank" class="pub-title">Post-pandemic social contacts
-    in Italy: implications for social distancing measures on in-person school and work attendance</a>
-  <p class="pub-authors">Lorenzo Lucchini, Valentina Marziano, Filippo Trentini, Chiara Chiavenna, Elena D'Agnese,
-    Vittoria Offeddu, Mattia Manica, Piero Poletti, Duilio Balsamo, Giorgio Guzzetta, Marco Ajelli, Alessia Melegaro,
-    Stefano Merler</p>
-  <p class="pub-journal">Preprint available at <em>arXiv</em> (2024)</p>
 </div>
 
 <div class="pub-entry">

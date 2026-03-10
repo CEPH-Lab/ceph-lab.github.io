@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Situational Awareness
+title: Infectious Disease Dynamics
 permalink: /research/infectious-disease-dynamics/
 ---
 
