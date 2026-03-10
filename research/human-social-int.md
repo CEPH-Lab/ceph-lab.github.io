@@ -142,8 +142,9 @@ permalink: /research/human-social-interactions/
     </li>
     <li>
       <div class="citation-box">
-        <p style="margin: 0; padding-bottom: 5px;"><strong><strong>Ventura PC, Wilke ABB, Chitturi J, Kummer AG,
-        Agrawal S</strong>, Vasquez C, Gonzalez Y,<strong> Litvinova M, Mutebi JP, Ajelli M</strong>.</p>
+        <p style="margin: 0; padding-bottom: 5px;"><strong>Ventura PC, Wilke ABB, Chitturi J, Kummer AG,
+        Agrawal S</strong>, Vasquez C, Gonzalez Y,<strong> Litvinova M</strong>, Mutebi JP,
+        <strong>Ajelli M</strong>.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1101/2024.05.29.24308139" style="color: #508c96">
         Unveiling the role of mosquito and human diel activity patterns in the risk of mosquito-borne disease
         infection.</a></em> Preprint available online at medRxiv. 2024</p>
