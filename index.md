@@ -122,7 +122,7 @@ permalink: /
 
   /* Tile Typography */
   .tile-title {
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 700;
     margin: 0 0 15px 0;
     color: #ffffff;
@@ -132,7 +132,7 @@ permalink: /
   }
   
   .tile p {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.7;
     margin: 0;
     color: rgba(255, 255, 255, 0.95);
@@ -142,7 +142,7 @@ permalink: /
     padding-left: 20px;
     margin: 0;
     color: rgba(255, 255, 255, 0.95);
-    font-size: 15px;
+    font-size: 20px;
     line-height: 1.6;
   }
 
@@ -155,7 +155,7 @@ permalink: /
   }
 
   .tile-about p {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.8;
   }
 
@@ -205,7 +205,7 @@ permalink: /
     text-decoration: none;
     border-radius: 5px;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 20px;
     transition: background-color 0.2s ease;
   }
   
