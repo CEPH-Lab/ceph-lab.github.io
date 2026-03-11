@@ -4,6 +4,10 @@ title: Home
 permalink: /
 ---
 <style>
+  .page-content {
+    padding-bottom: 0 !important;
+  }
+
   /* --- Hero Banner Styling --- */
   .hero {
     position: relative;
@@ -99,7 +103,8 @@ permalink: /
   .tile-mission { 
     background-color: #318287; 
     grid-column: 1; 
-    grid-row: 1;    
+    grid-row: 1;
+    justify-content: flex-start;
   } 
   
   .tile-what { 
@@ -112,7 +117,7 @@ permalink: /
     background-color: #112226; 
     grid-column: 2; 
     grid-row: 1 / span 2; 
-    justify-content: flex-start; /* Aligns text to the top for better balance */
+    justify-content: flex-start;
   }
 
   /* Tile Typography */
