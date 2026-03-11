@@ -82,7 +82,7 @@ permalink: /
     width: 100vw;
     margin-left: calc(-50vw + 50%);
     margin-top: 0; 
-    margin-bottom: 60px;
+    margin-bottom: 0px;
     border-radius: 0; 
     overflow: hidden; 
   }
@@ -97,19 +97,19 @@ permalink: /
 
   /* Grid Positioning and Colors */
   .tile-mission { 
-    background-color: #508c96; 
+    background-color: #318287; 
     grid-column: 1; 
     grid-row: 1;    
   } 
   
   .tile-what { 
-    background-color: #36636a; 
+    background-color: #1f5459; 
     grid-column: 1; 
     grid-row: 2;    
   }  
   
   .tile-about { 
-    background-color: #0f2027; 
+    background-color: #112226; 
     grid-column: 2; 
     grid-row: 1 / span 2; 
     justify-content: flex-start; /* Aligns text to the top for better balance */
@@ -154,7 +154,7 @@ permalink: /
     line-height: 1.8;
   }
 
-  /* --- Dark Mode Hiring Card --- */
+  /* --- Hiring Card --- */
   .opportunity-card {
     margin-top: 15px;
     margin-bottom: 20px;
@@ -251,7 +251,8 @@ permalink: /
   <div class="tile tile-mission">
     <div id="mission"></div> 
     <h3 class="tile-title">Mission</h3>
-    <p>Our mission at the Laboratory for Computational Epidemiology and Public Health (CEPH Lab) is to advance the understanding of infectious disease epidemiology and provide actionable insights to inform public health policy.</p>
+    <p>Our mission at the Laboratory for Computational Epidemiology and Public Health (CEPH Lab) is to advance the
+    understanding of infectious disease epidemiology and provide actionable insights to inform public health policy.</p>
   </div>
 
   <div class="tile tile-what">
@@ -282,8 +283,13 @@ permalink: /
 <div class="opportunity-card">
 <h3 class="opportunity-title">We are Hiring</h3>
 <div class="opportunity-content">
-<p class="opportunity-text">We are hiring a postdoctoral fellow in Infectious Disease modeling. We seek candidates with a doctoral degree in a quantitative field (e.g., Mathematics, Physics, Computer Science, or a related discipline). Candidates should be passionate about understanding the mechanisms driving epidemic spread, designing mathematical models, and building computational engines. The work will primarily focus on respiratory infectious diseases (e.g., COVID-19, influenza, RSV) and mosquito-borne diseases but may pivot to public health emergencies.</p>
-<p class="opportunity-text" style="font-style: italic; color: #42e8e0;">For inquiries regarding open positions, please get in touch with Dr. Ajelli directly with your CV.</p>
+<p class="opportunity-text">We are hiring a postdoctoral fellow in Infectious Disease modeling. We seek candidates
+with a doctoral degree in a quantitative field (e.g., Mathematics, Physics, Computer Science, or a related discipline).
+Candidates should be passionate about understanding the mechanisms driving epidemic spread, designing mathematical
+models, and building computational engines. The work will primarily focus on respiratory infectious diseases
+(e.g., COVID-19, influenza, RSV) and mosquito-borne diseases but may pivot to public health emergencies.</p>
+<p class="opportunity-text" style="font-style: italic; color: #42e8e0;">For inquiries regarding open positions,
+please get in touch with Dr. Ajelli directly with your CV.</p>
         
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
 <a href="mailto:majelli@iu.edu?subject=Postdoc Inquiry - CEPH Lab" class="apply-btn">Email Dr. Ajelli</a>
