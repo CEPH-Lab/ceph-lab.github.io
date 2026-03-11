@@ -7,18 +7,15 @@ permalink: /
   /* --- Hero Banner Styling --- */
   .hero {
     position: relative;
-    height: 90vh; /* Takes up 90% of the screen height to leave room for the top navigation bar */
+    height: 90vh; 
     width: 100vw;
-    margin-left: calc(-50vw + 50%); /* Magic CSS trick to break out of the 1200px wrapper */
-    margin-top: -30px; /* Pulls the image up flush against the header */
-    margin-bottom: 60px;
-    
-    /* Uses your specific banner.png file */
+    margin-left: calc(-50vw + 50%); 
+    margin-top: -30px; 
+    margin-bottom: 0px; /* Keeps the grid perfectly flush */
     background-image: linear-gradient(rgba(15, 32, 39, 0.6), rgba(32, 58, 67, 0.7)), url('/images/banner.png');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed; /* Creates the parallax scrolling effect */
-    
+    background-attachment: fixed; 
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -46,103 +43,139 @@ permalink: /
 
   /* Bouncing Scroll Down Arrow */
   .scroll-down {
-  display: flex; /* Helps center the new chevron */
-  justify-content: center;
-  align-items: center;
-  height: 50px; /* Gives a clickable area */
-  width: 50px;
-  margin-top: -20px; /* Adjust spacing since the text size changed */
-  text-decoration: none;
-  animation: bounce 2s infinite;
-  opacity: 0.6; /* Fades the arrow slightly for a subtle look */
-  transition: opacity 0.3s ease;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 50px; 
+    width: 50px;
+    margin-top: -20px; 
+    text-decoration: none;
+    animation: bounce 2s infinite;
+    opacity: 0.6; 
+    transition: opacity 0.3s ease;
   }
 
   .scroll-down:hover {
-  opacity: 1; /* Highlights the arrow when the user interacts with it */
+    opacity: 1; 
   }
 
-  /* Drawing the subtle chevron using pseudo-elements */
   .scroll-down::after {
-  content: '';
-  display: block;
-  width: 15px; /* Smaller, more subtle width */
-  height: 15px; /* Smaller, more subtle height */
-  border-bottom: 2px solid #42e8e0; /* Thin teal line matches previous accent color */
-  border-right: 2px solid #42e8e0; /* Thin teal line matches previous accent color */
-  transform: rotate(45deg); /* Rotates the square to make a 'V' shape */
+    content: '';
+    display: block;
+    width: 15px; 
+    height: 15px; 
+    border-bottom: 2px solid #42e8e0; 
+    border-right: 2px solid #42e8e0; 
+    transform: rotate(45deg); 
   }
 
-    /* Updated bounce animation */
-    @keyframes bounce {
-      0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-      /* Reduced bounce height from -20px and -10px down to -10px and -5px */
-      40% { transform: translateY(-10px); }
-      60% { transform: translateY(-5px); }
-    }
-
-  /* --- Existing Text Styling --- */
-  .mission-text {
-    font-size: 18px; 
-    line-height: 1.7;
-    color: #444;
-    margin-bottom: 30px;
-    margin-top: 20px;
-  }
-  
-  .what-we-do-list {
-    font-size: 18px;
-    line-height: 1.7;
-    color: #444;
-    margin-bottom: 25px;
-  }
-  
-  .what-we-do-list li {
-    margin-bottom: 10px;
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-10px); }
+    60% { transform: translateY(-5px); }
   }
 
-  /* Modern, Sleek Section Headers */
-  .section-header {
-    font-size: 28px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #508c96;
-    font-weight: 700;
-    margin-top: 50px;
-    margin-bottom: 25px;
+  /* --- Feature Tiles Grid --- */
+  .feature-tiles {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    margin-top: 0; 
+    margin-bottom: 60px;
+    border-radius: 0; 
+    overflow: hidden; 
+  }
+
+  .tile {
+    padding: 60px 8%; 
     display: flex;
-    align-items: center;
-    border: none;
-  }
-  
-  .section-header::after {
-    content: "";
-    flex: 1;
-    height: 1px;
-    background: #e5e5e5;
-    margin-left: 20px;
+    flex-direction: column;
+    justify-content: center;
+    color: #ffffff;
   }
 
-.opportunity-card {
+  /* Grid Positioning and Colors */
+  .tile-mission { 
+    background-color: #508c96; 
+    grid-column: 1; 
+    grid-row: 1;    
+  } 
+  
+  .tile-what { 
+    background-color: #36636a; 
+    grid-column: 1; 
+    grid-row: 2;    
+  }  
+  
+  .tile-about { 
+    background-color: #0f2027; 
+    grid-column: 2; 
+    grid-row: 1 / span 2; 
+    justify-content: flex-start; /* Aligns text to the top for better balance */
+  }
+
+  /* Tile Typography */
+  .tile-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0 0 15px 0;
+    color: #ffffff;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .tile p {
+    font-size: 16px;
+    line-height: 1.7;
+    margin: 0;
+    color: rgba(255, 255, 255, 0.95);
+  }
+
+  .tile ul {
+    padding-left: 20px;
+    margin: 0;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .tile li {
+    margin-bottom: 12px;
+  }
+  
+  .tile li:last-child {
+    margin-bottom: 0;
+  }
+
+  .tile-about p {
+    font-size: 18px;
+    line-height: 1.8;
+  }
+
+  /* --- Dark Mode Hiring Card --- */
+  .opportunity-card {
+    margin-top: 15px;
     margin-bottom: 20px;
-    background-color: #508c9633;
+    background-color: rgba(255, 255, 255, 0.05); /* Soft translucent white */
     border-radius: 8px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
-    border: 1px solid #f0f0f0;
-    border-left: 6px solid #508c96;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.1); /* Subtle white outline */
+    border-left: 6px solid #42e8e0; /* Pops against the navy background */
     transition: all 0.3s ease;
   }
   
   .opportunity-card:hover {
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
     transform: translateY(-2px); 
+    background-color: rgba(255, 255, 255, 0.08); /* Brightens slightly on hover */
   }
 
-  /* The Card Title */
   .opportunity-title {
     font-size: 20px;
     font-weight: 600;
-    color: #2b2b2b;
+    color: #ffffff; /* White text for dark mode */
     padding: 25px 25px 15px 25px;
     margin: 0;
   }
@@ -152,99 +185,14 @@ permalink: /
   }
 
   .opportunity-text {
-    line-height: 1.8;
-    color: #555;
+    line-height: 1.7;
+    color: rgba(255, 255, 255, 0.85); /* Legible off-white text */
     margin: 0 0 15px 0;
-    font-size: 16px;
+    font-size: 15px;
   }
 
-  /* Elevated Card Accordion */
-  .research-card {
-    margin-bottom: 20px;
-    background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
-    border: 1px solid #f0f0f0;
-    border-left: 6px solid #508c96;
-    transition: all 0.3s ease;
-  }
-  
-  .research-card:hover {
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
-    transform: translateY(-2px); 
-  }
-
-  /* Clickable Header */
-  .research-card summary {
-    font-size: 20px;
-    font-weight: 600;
-    color: #2b2b2b;
-    padding: 25px;
-    cursor: pointer;
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  /* Removes default triangle in Safari */
-  .research-card summary::-webkit-details-marker {
-    display: none;
-  }
-
-  /* Circular Animated Icon */
-  .research-card summary::after {
-    content: '+';
-    font-family: monospace;
-    font-size: 24px;
-    line-height: 1;
-    color: #fff;
-    background-color: #508c96;
-    width: 35px;
-    height: 35px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.3s ease;
-  }
-  
-  .research-card[open] summary::after {
-    content: '−';
-    background-color: #36636a;
-    transform: rotate(180deg);
-  }
-
-  /* Text Content */
-  .research-content {
-    padding: 0 25px 30px 25px;
-  }
-
-  .research-text {
-    line-height: 1.8;
-    color: #555;
-    margin: 0;
-    font-size: 16px;
-  }
-
-  /* --- Mobile Responsiveness for the Hero Banner --- */
-  @media screen and (max-width: 768px) {
-    .hero h1 {
-      font-size: 2rem; /* Shrinks the massive title for phones */
-      margin-top: 20px;
-    }
-    
-    .hero p {
-      font-size: 1.1rem; /* Shrinks the subtext */
-      margin-bottom: 20px;
-    }
-    
-    .scroll-down {
-      height: 40px; /* Makes the arrow slightly smaller */
-      width: 40px;
-    }
-  }
-.apply-btn {
+  /* Buttons */
+  .apply-btn {
     display: inline-block;
     background-color: #508c96;
     color: #ffffff !important;
@@ -257,18 +205,39 @@ permalink: /
   }
   
   .apply-btn:hover {
-    background-color: #36636a;
+    background-color: #42e8e0; /* Hover changes to the bright cyan */
+    color: #0f2027 !important; /* Text turns dark on hover for contrast */
     text-decoration: none;
   }
 
-  /* A button for secondary links */
-  .secondary-btn {
-    background-color: #508c96;
-  }
-  .secondary-btn:hover {
-    background-color: #36636a;
+  /* --- Mobile Responsiveness --- */
+  @media screen and (max-width: 900px) {
+    .feature-tiles {
+      grid-template-columns: 1fr; /* Stacks the grid on mobile */
+    }
+    .tile-about {
+      grid-column: 1; 
+      grid-row: auto; 
+    }
   }
 
+  @media screen and (max-width: 768px) {
+    .hero h1 {
+      font-size: 2rem; 
+      margin-top: 20px;
+    }
+    .hero p {
+      font-size: 1.1rem; 
+      margin-bottom: 20px;
+    }
+    .scroll-down {
+      height: 40px; 
+      width: 40px;
+    }
+    .tile {
+      padding: 40px 5%;
+    }
+  }
 </style>
 
 <div class="hero">
@@ -277,50 +246,51 @@ permalink: /
   <a href="#mission" class="scroll-down" aria-label="Scroll to Mission"></a>
 </div>
 
-<div id="mission"></div>
+<div class="feature-tiles">
+  
+  <div class="tile tile-mission">
+    <div id="mission"></div> 
+    <h3 class="tile-title">Mission</h3>
+    <p>Our mission at the Laboratory for Computational Epidemiology and Public Health (CEPH Lab) is to advance the understanding of infectious disease epidemiology and provide actionable insights to inform public health policy.</p>
+  </div>
 
-<h2 class="section-header">Mission</h2>
-<div class="mission-text">
-  <p>Our mission at the Laboratory for Computational Epidemiology and Public Health (CEPH Lab) is
-    to advance the understanding of infectious disease epidemiology and provide actionable insights to inform 
-    public health policy.</p>
-</div>
-
-<h2 class="section-header">What we do</h2>
-<div class="mission-text">
-<ul class="what-we-do-list">
-  <li>Develop mathematical and computational modeling tools that simulate infectious disease transmission
-    to investigate epidemic spread</li>
-  <li>Apply statistical modeling to identify the socio-economic, behavioral, and environmental determinants of 
-    the epidemiology of infectious diseases and the ecology of their vectors</li>
-  <li>Conduct model-based evaluations of the effectiveness of public health interventions to inform public health
-    decision-making</li>
-  <li>Forecast and nowcast infectious disease dynamics and vector populations to enhance public health 
-    situational awareness</li>
-</ul>
-<a href="https://ceph-lab.github.io/research/" target="_blank" class="apply-btn">Learn more about our research</a>
-</div>
-
-<h2 class="section-header">About us</h2>
-<div class="mission-text">
-  <p>The laboratory is led by Marco Ajelli and is affiliated to the Department of Epidemiology and Biostatistics
-    at the Indiana University School of Public Health - Bloomington.</p>
-</div>
-
-<div class="opportunity-card">
-  <h3 class="opportunity-title">We are Hiring</h3>
-  <div class="opportunity-content">
-    <p class="opportunity-text">We are hiring a postdoctoral fellow in Infectious Disease modeling.
-    We seek candidates with a doctoral degree in a quantitative field (e.g., Mathematics,
-    Physics, Computer Science, or a related discipline). Candidates should be passionate about understanding the 
-    mechanisms driving epidemic spread, designing mathematical models, and building computational engines.
-    The work will primarily focus on respiratory infectious diseases (e.g., COVID-19, influenza, RSV) and
-    mosquito-borne diseases but may pivot to public health emergencies. </p>
-    <p class="opportunity-text"><em>For inquiries regarding open positions, please get in touch with Dr. Ajelli 
-    directly with your CV.</em></p>
-    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-    <a href="mailto:majelli@iu.edu?subject=Postdoc Inquiry - CEPH Lab"
-    class="apply-btn">Email Dr. Ajelli</a>
-    <a href="https://indiana.peopleadmin.com/postings/32436" target="_blank" class="apply-btn">Current Openings</a>
+  <div class="tile tile-what">
+    <h3 class="tile-title">What we do</h3>
+    <ul>
+      <li>Develop mathematical and computational modeling tools that simulate infectious disease transmission
+        to investigate epidemic spread</li>
+      <li>Apply statistical modeling to identify the socio-economic, behavioral, and environmental determinants
+        of the epidemiology of infectious diseases and the ecology of their vectors</li>
+      <li>Conduct model-based evaluations of the effectiveness of public health interventions to inform public
+        health decision-making</li>
+      <li>Forecast and nowcast infectious disease dynamics and vector populations to enhance public health
+        situational awareness</li>
+    </ul>
+    <div style="margin-top: 25px;">
+      <a href="{{ '/research/' | relative_url }}" class="apply-btn" style="background-color: #ffffff;
+        color: #36636a !important;">Explore Our Research</a>
     </div>
+  </div>
+
+  <div class="tile tile-about">
+    <h3 class="tile-title" style="color: #42e8e0;">About Us</h3>
+    <p>The laboratory is led by Marco Ajelli and is affiliated to the Department of Epidemiology and Biostatistics
+    at the Indiana University School of Public Health - Bloomington.</p>
+    
+<h3 class="tile-title" style="margin-top: 50px; color: #42e8e0;">Join Us</h3>
+    
+<div class="opportunity-card">
+<h3 class="opportunity-title">We are Hiring</h3>
+<div class="opportunity-content">
+<p class="opportunity-text">We are hiring a postdoctoral fellow in Infectious Disease modeling. We seek candidates with a doctoral degree in a quantitative field (e.g., Mathematics, Physics, Computer Science, or a related discipline). Candidates should be passionate about understanding the mechanisms driving epidemic spread, designing mathematical models, and building computational engines. The work will primarily focus on respiratory infectious diseases (e.g., COVID-19, influenza, RSV) and mosquito-borne diseases but may pivot to public health emergencies.</p>
+<p class="opportunity-text" style="font-style: italic; color: #42e8e0;">For inquiries regarding open positions, please get in touch with Dr. Ajelli directly with your CV.</p>
+        
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+<a href="mailto:majelli@iu.edu?subject=Postdoc Inquiry - CEPH Lab" class="apply-btn">Email Dr. Ajelli</a>
+<a href="https://indiana.peopleadmin.com/postings/32436" target="_blank" class="apply-btn">Current Openings</a>
+</div>
+</div>
+</div>
+</div>
+
 </div>
