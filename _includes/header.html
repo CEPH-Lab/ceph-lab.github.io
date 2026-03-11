@@ -1,5 +1,5 @@
 <header class="site-header" role="banner" style="position: sticky; top: 0; z-index: 9999; border-top: none; border-bottom: none; margin-bottom: 0; background-color: #508c96; padding: 15px 0;">
-  <div class="wrapper">
+  <div class="wrapper" style="display: flex; align-items: center; position: relative;">
 
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}" style="display: inline-flex; align-items: center; text-decoration: none; color: #ffffff;">
       <img src="{{ '/images/ceph-banner.png' | relative_url }}" alt="CEPH Lab Banner"
@@ -7,7 +7,7 @@
            filter: brightness(0) invert(1);">
     </a>
 
-    <nav class="site-nav">
+    <nav class="site-nav" style="position: absolute; left: 50%; transform: translateX(-50%);">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
       <label for="nav-trigger">
         <span class="menu-icon">
