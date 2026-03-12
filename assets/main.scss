@@ -144,7 +144,8 @@ html {
 }
 
 .banner-left {
-  flex: 1; /* Takes up exactly half the screen */
+  width: 50%;
+  flex: 0 0 50%;
   background-color: #112226; /* Matches About us tile */
   display: flex;
   flex-direction: column;
@@ -174,7 +175,8 @@ html {
 }
 
 .banner-right {
-  flex: 1;
+  width: 50%;
+  flex: 0 0 50%;
   background-color: #318287; /* Matches the Mission Tile */
 
   /* NOTE: If we ever want to use a pattern or image here like MOBS lab,
