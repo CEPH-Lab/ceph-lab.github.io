@@ -37,10 +37,10 @@ permalink: /
     margin-bottom: 0px;
     letter-spacing: 1px;
     color: #ffffff;
-    max-width: 900px;
+    max-width: 50vw;
   }
 
-  /* The Magical Underline */
+  /* Underline */
   .hero h1::after {
     content: "";
     display: block;
@@ -56,7 +56,7 @@ permalink: /
     font-weight: 300;
     margin-bottom: 40px;
     color: #e0f2f1;
-    max-width: 800px;
+    max-width: 50vw;
     line-height: 1.5;
   }
 
