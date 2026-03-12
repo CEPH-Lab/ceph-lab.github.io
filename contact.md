@@ -3,6 +3,12 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+<div class="subpage-banner">
+  <div class="banner-left">
+    <h1>Contact</h1>
+  </div>
+  <div class="banner-right"></div>
+</div>
 
 <div style="margin-top: 30px; font-size: 16px; line-height: 1.6;">
   <h3 style="margin-top: 0; color: #508c96;">Laboratory for Computational Epidemiology and Public Health</h3>

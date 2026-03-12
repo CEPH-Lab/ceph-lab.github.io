@@ -64,6 +64,13 @@ permalink: /publications/
   }
 </style>
 
+<div class="subpage-banner">
+  <div class="banner-left">
+    <h1>Publications</h1>
+  </div>
+  <div class="banner-right"></div>
+</div>
+
 <div class="year-nav">
   <a href="#2026">2026</a> | 
   <a href="#2025">2025</a> | 

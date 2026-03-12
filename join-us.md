@@ -106,6 +106,13 @@ permalink: /join-us/
   }
 </style>
 
+<div class="subpage-banner">
+  <div class="banner-left">
+    <h1>Join Us</h1>
+  </div>
+  <div class="banner-right"></div>
+</div>
+
 <div class="intro-text">
   <p>CEPH Lab is looking for researchers with all levels of expertise to join our team. 
     We are seeking individuals passionate about understanding the epidemiology of infectious diseases, mechanisms 
