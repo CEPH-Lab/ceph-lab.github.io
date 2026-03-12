@@ -24,6 +24,7 @@ html {
   }
 }
 
+/* --- Mobile Fixes --- */
 /* --- Frosted Glass Mobile Menu --- */
 @media screen and (max-width: 600px) {
   .site-header .site-nav {
@@ -70,29 +71,64 @@ html {
   .site-nav .page-link:last-child {
     border-bottom: none !important;
   }
+
+  /* Forces the logo to shrink and leave room for the hamburger icon */
+  .site-title {
+    max-width: calc(100% - 60px) !important;
+    display: block !important;
+  }
+  .site-title img {
+    width: 100% !important; /* Scales down smoothly */
+    height: auto !important;
+    margin-right: 0 !important;
+  }
 }
 
 /* --- Desktop Navigation Links: Active Page Indicator --- */
+.site-nav .page-link {
+  font-weight: 600 !important;
+  color: #2b2b2b !important; /* Dark grey text */
+  text-decoration: none !important;
+  margin-left: 20px;
+  position: relative; /* Crucial: Allows the line to anchor to the text */
+  padding-bottom: 2px;
+  transition: color 0.2s ease;
+}
+
+/* Create the sliding line */
+.site-nav .page-link::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -2px; /* Sits cleanly just below the text */
+  left: 0;
+  background-color: #468b94; /* CEPH Logo colour */
+  transition: width 0.3s ease-in-out;
+}
+
+/* Desktop Only Rules */
 @media screen and (min-width: 601px) {
-  .site-nav .page-link {
-    font-weight: 600 !important;
-    color: #2b2b2b !important; /* Dark grey text */
-    text-decoration: none !important;
-    margin-left: 20px !important;
-    padding-bottom: 4px !important; /* Creates space for the underline */
-    border-bottom: 2px solid transparent !important; /* Invisible line by default */
-    transition: all 0.2s ease;
-  }
-
-  /* Shows the underline ONLY for the page you are currently on */
-  .site-nav .page-link.active {
-    color: #468b94 !important; /* Turns the active text teal */
-    border-bottom: 2px solid #468b94 !important; /* The permanent teal underline */
-  }
-
-  /* Adds a matching hover effect when the mouse moves over other links */
+  /* Hover effect */
   .site-nav .page-link:hover {
     color: #468b94 !important;
-    border-bottom: 2px solid #468b94 !important;
+  }
+  .site-nav .page-link:hover::after {
+    width: 100%;
+  }
+
+  /* Active page effect (Permanently highlighted) */
+  .site-nav .page-link.active {
+    color: #468b94 !important;
+  }
+  .site-nav .page-link.active::after {
+    width: 100%; /* Line stays fully extended for the active page */
+  }
+}
+
+/* Hide the line on mobile so it doesn't mess up the dropdown */
+@media screen and (max-width: 600px) {
+  .site-nav .page-link::after {
+    display: none !important;
   }
 }
