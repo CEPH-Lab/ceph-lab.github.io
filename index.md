@@ -252,12 +252,23 @@ permalink: /
   }
 
   @media screen and (max-width: 768px) {
+    .hero{
+      padding: 0 25px;
+    }
     .hero h1 {
-      font-size: 2rem; 
+      font-size: 3.2rem; /* Fix: Increase the size */
+      max-width: 100%; /* overrides the desktop 50vw restriction */
+      line-height: 1.2; /* Tightens the spacing between lines of big text */
+    }
+    .hero h1::after {
+      width: 120px; /* Shrinks the underline so it's proportionate to the phone screen */
       margin-top: 20px;
+      margin-bottom: 20px;
     }
     .hero p {
-      font-size: 1.1rem; 
+      font-size: 1.4rem; /* Fix: Increase the size */
+      max-width: 100%; /* overrides the desktop 50vw restriction */
+      line-height: 1.5;
       margin-bottom: 20px;
     }
     .scroll-down {
