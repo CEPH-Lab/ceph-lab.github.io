@@ -132,3 +132,79 @@ html {
     display: none !important;
   }
 }
+
+/* --- Subpage Split Banner --- */
+.subpage-banner {
+  display: flex;
+  width: 100vw;
+  height: 220px; /* Adjust this to make the banner taller or shorter */
+  margin-left: calc(-50vw + 50%);
+  margin-top: -30px; /* Pulls it up flush against your header */
+  margin-bottom: 50px;
+}
+
+.banner-left {
+  flex: 1; /* Takes up exactly half the screen */
+  background-color: #0f2027; /* Matches your dark navy */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 10%; /* Keeps text aligned perfectly with your homepage */
+}
+
+.banner-left h1 {
+  color: #ffffff !important;
+  font-size: 3.5rem;
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+/* underline */
+.banner-left h1::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 5px;
+  background-color: #468b94;
+  margin-top: 15px;
+}
+
+.banner-right {
+  flex: 1;
+  background-color: #508c96;
+
+  /* NOTE: If we ever want to use a pattern or image here like MOBS lab,
+     delete the background-color above and uncomment the two lines below! */
+  /* background-image: url('/images/your-pattern.png'); */
+  /* background-size: cover; */
+}
+
+/* Hide Jekyll's default page title so it doesn't show up twice */
+.post-header, .page-heading {
+  display: none !important;
+}
+
+/* Mobile Adjustments for the Banner */
+@media screen and (max-width: 768px) {
+  .subpage-banner {
+    flex-direction: column;
+    height: auto;
+  }
+  .banner-left {
+    padding: 50px 5%;
+  }
+  .banner-left h1 {
+    font-size: 2.5rem;
+  }
+  .banner-right {
+    height: 15px; /* Shrinks to just a thin teal accent line on phones */
+  }
+
+  /* --- Mobile Hamburger Box Fix --- */
+  .site-nav label[for="nav-trigger"] {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}

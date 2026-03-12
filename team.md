@@ -48,6 +48,13 @@ permalink: /team/
   }
 </style>
 
+<div class="subpage-banner">
+  <div class="banner-left">
+    <h1>People</h1>
+  </div>
+  <div class="banner-right"></div>
+</div>
+
 <div class="pi-profile">
   <img src="/images/team/marco-ajelli.jpg" alt="Marco Ajelli">
   <div>
