@@ -37,7 +37,7 @@ html {
     padding: 0 !important;
   }
 
-  /* Fixed: Forces the Hamburger Icon lines to be dark grey so they are visible on a white header! */
+  /* Fixed: Forces the Hamburger Icon lines to be dark grey */
   .site-header .site-nav .menu-icon > svg path {
     fill: #2b2b2b !important;
   }
@@ -137,7 +137,7 @@ html {
 .subpage-banner {
   display: flex;
   width: 100vw;
-  height: 220px; /* Adjust this to make the banner taller or shorter */
+  height: 200px; /* Adjust this to make the banner taller or shorter */
   margin-left: calc(-50vw + 50%);
   margin-top: -30px; /* Pulls it up flush against your header */
   margin-bottom: 50px;
@@ -145,11 +145,10 @@ html {
 
 .banner-left {
   flex: 1; /* Takes up exactly half the screen */
-  background-color: #0f2027; /* Matches your dark navy */
+  background-color: #112226; /* Matches About us tile */
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-left: 10%;
 }
 
 .banner-left h1 {
@@ -172,7 +171,7 @@ html {
 
 .banner-right {
   flex: 1;
-  background-color: #508c96;
+  background-color: #318287; /* Matches the Mission Tile */
 
   /* NOTE: If we ever want to use a pattern or image here like MOBS lab,
      delete the background-color above and uncomment the two lines below! */
@@ -198,7 +197,7 @@ html {
     font-size: 2.5rem;
   }
   .banner-right {
-    height: 15px; /* Shrinks to just a thin teal accent line on phones */
+    height: 15px;
   }
 
   /* --- Mobile Hamburger Box Fix --- */
