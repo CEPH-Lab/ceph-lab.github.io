@@ -37,7 +37,7 @@ permalink: /
     margin-bottom: 0px;
     letter-spacing: 1px;
     color: #ffffff;
-    max-width: 50vw;
+    max-width: 50vw; /* Restricts the title to half the screen */
   }
 
   /* Underline */
@@ -56,15 +56,19 @@ permalink: /
     font-weight: 300;
     margin-bottom: 40px;
     color: #e0f2f1;
-    max-width: 50vw;
-    line-height: 1.5;
+    max-width: 50vw; /* Restricts the paragraph to half the screen */
+    line-height: 1.5; 
   }
 
   /* --- Bouncing Scroll Down Arrow --- */
   .scroll-down {
     position: absolute; 
     bottom: 40px; 
-    left: calc(50% - 25px);
+    
+    /* Bulletproof Centering */
+    left: 0;
+    right: 0;
+    margin: 0 auto; 
     
     display: flex; 
     justify-content: center;
