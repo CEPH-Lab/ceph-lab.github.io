@@ -149,6 +149,10 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: center;
+
+  box-sizing: border-box;
+  padding-left: 10vw;
+  padding-right: 5%;
 }
 
 .banner-left h1 {
