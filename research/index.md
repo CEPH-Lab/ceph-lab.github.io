@@ -189,3 +189,86 @@ permalink: /research/
   </div>
 
 </div>
+
+<!--
+/* Expandable Card Container */
+  .project-card {
+    margin-bottom: 20px;
+    background-color: #508c9633;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+    border: 1px solid #f0f0f0;
+    border-left: 6px solid #508c96;
+    transition: all 0.3s ease;
+  }
+  
+  .project-card:hover {
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px); 
+  }
+  
+  /* Clickable Header */
+  .project-card summary {
+    font-size: 22px;
+    font-weight: 600;
+    color: #2b2b2b;
+    padding: 25px;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* Removes default triangle in Safari */
+  .project-card summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  /* Circular Animated Icon (+ / -) */
+  .project-card summary::after {
+    content: '+';
+    font-family: monospace;
+    font-size: 24px;
+    line-height: 1;
+    color: #fff;
+    background-color: #508c96;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+    margin-left: 15px;
+  }
+  
+  .project-card[open] summary::after {
+    content: '−';
+    background-color: #36636a;
+    transform: rotate(180deg);
+  }
+
+  /* Inner content wrapper */
+  .project-content {
+    padding: 0 25px 25px 25px;
+  }
+
+  .project-summary {
+    line-height: 1.7;
+    color: #555;
+    margin: 0 0 20px 0;
+    font-size: 16px;
+  }
+  
+<details class="project-card">
+  <summary class="project-title">Human Social Behavior</summary>
+  <div class="project-content">
+    <p class="project-summary">Social behavior drives pathogen transmission, leading to heterogeneous exposure
+    risks across different socio-demographic groups. Our objective is to understand the social behavior of
+    individuals and its determinants to better characterize transmission pathways.</p>
+    <a href="{{ '/research/human-social-behavior/' | relative_url }}" class="read-more-btn">Learn More</a>
+  </div>
+</details>
+-->
