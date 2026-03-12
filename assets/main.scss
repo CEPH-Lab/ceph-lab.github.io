@@ -193,17 +193,24 @@ html {
 /* Mobile Adjustments for the Banner */
 @media screen and (max-width: 768px) {
   .subpage-banner {
-    flex-direction: column;
-    height: auto;
+    flex-direction: column; /* Stacks them perfectly on top of each other! */
+    height: auto; 
   }
+
   .banner-left {
+    width: 100% !important;
+    flex: none !important;
     padding: 50px 5%;
   }
+
   .banner-left h1 {
     font-size: 2.5rem;
   }
+
   .banner-right {
-    height: 15px;
+    width: 100% !important;
+    flex: none !important;
+    height: 40px;
   }
 
   /* --- Mobile Hamburger Box Fix --- */
