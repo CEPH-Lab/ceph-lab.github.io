@@ -16,6 +16,9 @@ permalink: /
     margin-left: calc(-50vw + 50%); 
     margin-top: -30px; 
     margin-bottom: 0px; /* Keeps the grid perfectly flush */
+
+    box-sizing: border-box;
+    
     background-image: linear-gradient(rgba(15, 32, 39, 0.6), rgba(32, 58, 67, 0.7)), url('/images/banner.png');
     background-size: cover;
     background-position: center;
