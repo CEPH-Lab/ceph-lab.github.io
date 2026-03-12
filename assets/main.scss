@@ -12,68 +12,87 @@ html {
 .wrapper {
   max-width: 1200px !important;
   margin: 0 auto;
-  padding-right: 15px; /* Smaller padding for phones */
+  padding-right: 15px;
   padding-left: 15px;
 }
 
 /* Media Query for Tablets, Laptops, and Monitors */
 @media screen and (min-width: 768px) {
   .wrapper {
-    padding-right: 30px; /* Wider padding for bigger screens */
+    padding-right: 30px;
     padding-left: 30px;
   }
 }
 
 /* --- Frosted Glass Mobile Menu --- */
 @media screen and (max-width: 600px) {
-  /* Fix the Hamburger Icon so it floats perfectly in line with the text */
   .site-header .site-nav {
     position: absolute !important;
-    top: 25px !important; /* Centers the icon vertically with the logo */
+    top: 25px !important;
     right: 15px !important;
-    background: transparent !important; /* Removes the weird box from the icon */
+    background: transparent !important;
     border: none !important;
     box-shadow: none !important;
     padding: 0 !important;
   }
 
-  /* Forces the Hamburger Icon lines to be white */
+  /* Fixed: Forces the Hamburger Icon lines to be dark grey so they are visible on a white header! */
   .site-header .site-nav .menu-icon > svg path {
-    fill: #FFFFFF !important;
+    fill: #2b2b2b !important;
   }
 
-  /* Apply the Frosted Glass box ONLY to the dropdown menu containing the links */
   .site-header .site-nav .trigger {
     position: absolute !important;
-    top: 40px !important; /* Drops the box down just below the header */
+    top: 40px !important;
     right: 0 !important;
-    width: 220px !important; /* Makes sure the box is wide enough for the text */
+    width: 220px !important;
 
-    /* The Frosted Glass Effect */
     background-color: rgba(80, 140, 150, 0.95) !important;
     backdrop-filter: blur(12px) !important;
     -webkit-backdrop-filter: blur(12px) !important;
 
-    /* Modern shaping */
     border-radius: 12px !important;
     border: 1px solid rgba(255, 255, 255, 0.2) !important;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2) !important;
     padding: 10px 20px !important;
   }
 
-  /* Styling the links for a clean, minimalist look */
   .site-nav .page-link {
     display: block !important;
     padding: 12px 0 !important;
-    color: #ffffff !important; /* Forces the text to stay bright white */
+    color: #ffffff !important;
     font-size: 16px !important;
     letter-spacing: 0.5px !important;
     border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
-    margin-left: 0 !important; /* Resets a default Jekyll margin */
+    margin-left: 0 !important;
   }
 
-  /* Removes the divider line from the very last link */
   .site-nav .page-link:last-child {
     border-bottom: none !important;
+  }
+}
+
+/* --- Desktop Navigation Links: Active Page Indicator --- */
+@media screen and (min-width: 601px) {
+  .site-nav .page-link {
+    font-weight: 600 !important;
+    color: #2b2b2b !important; /* Dark grey text */
+    text-decoration: none !important;
+    margin-left: 20px !important;
+    padding-bottom: 4px !important; /* Creates space for the underline */
+    border-bottom: 2px solid transparent !important; /* Invisible line by default */
+    transition: all 0.2s ease;
+  }
+
+  /* Shows the underline ONLY for the page you are currently on */
+  .site-nav .page-link.active {
+    color: #468b94 !important; /* Turns the active text teal */
+    border-bottom: 2px solid #468b94 !important; /* The permanent teal underline */
+  }
+
+  /* Adds a matching hover effect when the mouse moves over other links */
+  .site-nav .page-link:hover {
+    color: #468b94 !important;
+    border-bottom: 2px solid #468b94 !important;
   }
 }

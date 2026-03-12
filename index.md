@@ -22,37 +22,55 @@ permalink: /
     background-attachment: fixed; 
     display: flex;
     flex-direction: column;
-    align-items: center;
+    
+    /* Shifts the text to the left*/
+    align-items: flex-start; 
     justify-content: center;
-    text-align: center;
+    text-align: left;
+
+    /* Adds padding */
+    padding: 0 10%;
   }
 
   .hero h1 {
-    font-size: 3.5rem;
-    margin-bottom: 15px;
+    font-size: 4rem;
+    margin-bottom: 0px;
     letter-spacing: 1px;
     color: #ffffff;
-    max-width: 1000px;
-    padding: 0 20px;
+    max-width: 900px;
+  }
+
+  /* The Magical Underline */
+  .hero h1::after {
+    content: "";
+    display: block;
+    width: 300px; /* Length of the line */
+    height: 4px; /* Thickness of the line */
+    background-color: #468b94;
+    margin-top: 25px; 
+    margin-bottom: 25px;
   }
 
   .hero p {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     font-weight: 300;
     margin-bottom: 40px;
     color: #e0f2f1;
     max-width: 800px;
-    padding: 0 20px;
+    line-height: 1.5;
   }
 
-  /* Bouncing Scroll Down Arrow */
+  /* --- Bouncing Scroll Down Arrow --- */
   .scroll-down {
+    position: absolute; 
+    bottom: 40px; 
+    left: calc(50% - 25px);
+    
     display: flex; 
     justify-content: center;
     align-items: center;
     height: 50px; 
     width: 50px;
-    margin-top: -20px; 
     text-decoration: none;
     animation: bounce 2s infinite;
     opacity: 0.6; 
@@ -246,8 +264,8 @@ permalink: /
 </style>
 
 <div class="hero">
-  <h1>Where Ideas Inspire Action</h1>
-  <p>We are committed to advancing the understanding of epidemic spread and informing public health decision-making</p>
+  <h1>Where science inspire action</h1>
+  <p>Advancing the understanding of epidemic spread to inform public health decision-making</p>
   <a href="#mission" class="scroll-down" aria-label="Scroll to Mission"></a>
 </div>
 
