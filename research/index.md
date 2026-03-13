@@ -119,10 +119,10 @@ permalink: /research/
 </style>
 
 <div class="intro-text">
-  <p>The CEPH Lab advances infectious disease epidemiology and public health through five integrated research
-    lines. We develop models to understand how human behavior, mosquito ecology, and pathogen dynamics
-    drive transmission, and translate these insights into decision-ready guidance for real-time situational
-    awareness and public health planning.</p>
+  <p>The CEPH Lab develops mathematical, computational, and statistical models to advance infectious disease
+    epidemiology and public health through five primary research lines. By quantifying how human behavior,
+    ecology, and pathogen dynamics drive epidemic spread, we provide situational awareness and scenario
+    modeling needed to inform public health planning.</p>
 </div>
 
 <h2 class="section-header">Main Research Lines</h2>
