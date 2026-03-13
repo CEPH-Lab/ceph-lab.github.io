@@ -1,0 +1,175 @@
+---
+layout: default
+---
+<style>
+  /* --- Profile Page Styling --- */
+  .profile-container {
+    display: flex;
+    gap: 60px;
+    margin-bottom: 60px;
+    align-items: flex-start;
+  }
+
+  /* Left Side: Text and Bio */
+  .profile-main {
+    flex: 1;
+  }
+
+  .profile-role {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 25px;
+    color: #508c96; /* Teal */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  /* Automatically styles the Markdown you type for the bio */
+  .profile-content h2, .profile-content h3 {
+    color: #0f2027;
+    margin-top: 45px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    border-bottom: 2px solid #e5e5e5;
+    padding-bottom: 10px;
+  }
+
+  .profile-content ul {
+    padding-left: 20px;
+    line-height: 1.8;
+    color: #444;
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+
+  .profile-content li {
+    margin-bottom: 10px;
+  }
+
+  .profile-content p {
+    font-size: 17px;
+    line-height: 1.8;
+    color: #444;
+    margin-bottom: 20px;
+  }
+
+  /* Right Side: Photo and Contact Sidebar */
+  .profile-sidebar {
+    width: 320px;
+    flex-shrink: 0;
+  }
+
+  .profile-photo {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+    object-fit: cover;
+  }
+
+  .profile-contact-card {
+    background-color: #0f2027; /* Dark navy */
+    padding: 30px;
+    border-radius: 8px;
+    color: #ffffff;
+    border-top: 5px solid #42e8e0; /* Cyan accent */
+  }
+
+  .profile-contact-card h3 {
+    color: #42e8e0;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+
+  .profile-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .profile-links li {
+    margin-bottom: 15px;
+  }
+
+  .profile-links li:last-child {
+    margin-bottom: 0;
+  }
+
+  .profile-links a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    transition: color 0.2s ease;
+  }
+
+  .profile-links a:hover {
+    color: #42e8e0;
+  }
+
+  .profile-links a::before {
+    content: "→";
+    color: #508c96;
+    margin-right: 12px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  /* Mobile Adjustments */
+  @media screen and (max-width: 900px) {
+    .profile-container {
+      /* This brilliant trick puts the Photo and Contact links ON TOP of the bio text on phones! */
+      flex-direction: column-reverse;
+      gap: 40px;
+    }
+    .profile-sidebar {
+      width: 100%;
+    }
+    .profile-photo {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+</style>
+
+<div class="subpage-banner">
+  <div class="banner-left">
+    <h1>{{ page.title }}</h1>
+  </div>
+  <div class="banner-right"></div>
+</div>
+
+<div class="profile-container">
+
+  <div class="profile-main">
+    <h2 class="profile-role">{{ page.role }}</h2>
+    <div class="profile-content">
+      {{ content }}
+    </div>
+  </div>
+
+  <div class="profile-sidebar">
+    {% if page.image %}
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="profile-photo">
+    {% endif %}
+
+    <div class="profile-contact-card">
+      <h3>Contact</h3>
+      <ul class="profile-links">
+        {% if page.email %}
+          <li><a href="mailto:{{ page.email }}">Email {{ page.title | split: ' ' | first }}</a></li>
+        {% endif %}
+        {% if page.scholar %}
+          <li><a href="{{ page.scholar }}" target="_blank">Google Scholar</a></li>
+        {% endif %}
+<!--        {% if page.github %}-->
+<!--          <li><a href="{{ page.github }}" target="_blank">GitHub</a></li>-->
+<!--        {% endif %}-->
+      </ul>
+    </div>
+  </div>
+
+</div>
