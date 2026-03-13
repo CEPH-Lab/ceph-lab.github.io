@@ -92,7 +92,7 @@ permalink: /people/
   <div class="banner-right"></div>
 </div>
 
-<a href="{{ '/people/marco-ajelli/' | relative_url }}" class="pi-profile">
+<a href="{{ '/people/marco-ajelli/' | relative_url }}" class="pi-profile" markdown="0">
   <img src="/images/people/marco-ajelli.jpg" alt="Marco Ajelli">
   <div>
     <h2>Marco Ajelli</h2>
@@ -102,43 +102,43 @@ permalink: /people/
 
 <div class="team-grid">
 
-  <a href="{{ '/people/paulo-ventura/' | relative_url }}" class="team-member">
+  <a href="{{ '/people/paulo-ventura/' | relative_url }}" class="team-member" markdown="0">
     <img src="/images/people/paulo-ventura.jpg" alt="Paulo Ventura">
     <h4>Paulo Ventura</h4>
     <p>Postdoctoral Researcher</p>
   </a>
   
-  <a href="{{ '/people/allisandra-kummer/' | relative_url }}" class="team-member">
+  <a href="{{ '/people/allisandra-kummer/' | relative_url }}" class="team-member" markdown="0">
     <img src="/images/people/allisandra-kummer.jpg" alt="Allisandra G. Kummer">
     <h4>Allisandra G. Kummer</h4>
     <p>Postdoctoral Researcher</p>
   </a>
   
-  <a href="{{ '/people/shreeya-mhade/' | relative_url }}" class="team-member">
+  <a href="{{ '/people/shreeya-mhade/' | relative_url }}" class="team-member" markdown="0">
     <img src="/images/people/shreeya-mhade.jpg" alt="Shreeya Mhade">
     <h4>Shreeya Mhade</h4>
     <p>PhD Candidate</p>
   </a>
 
-  <a href="{{ '/people/utkarsh-bhosekar/' | relative_url }}" class="team-member">
+  <a href="{{ '/people/utkarsh-bhosekar/' | relative_url }}" class="team-member" markdown="0">
     <img src="/images/people/utkarsh-bhosekar.jpg" alt="Utkarsh Bhosekar">
     <h4>Utkarsh Bhosekar</h4>
     <p>Data Analyst</p>
   </a>
 
-  <a href="{{ '/people/jessica-guerrini/' | relative_url }}" class="team-member">
+  <a href="{{ '/people/jessica-guerrini/' | relative_url }}" class="team-member" markdown="0">
     <img src="/images/people/jessica-guerrini.jpg" alt="Jessica Guerrini">
     <h4>Jessica Guerrini</h4>
     <p>Graduate Research Assistant</p>
   </a>
 
-  <a href="{{ '/people/katie-pletz/' | relative_url }}" class="team-member">
+  <a href="{{ '/people/katie-pletz/' | relative_url }}" class="team-member" markdown="0">
     <img src="/images/people/katie-pletz.jpg" alt="Katie Pletz">
     <h4>Katie Pletz</h4>
     <p>Graduate Research Assistant</p>
   </a>
 
-  <a href="{{ '/people/snigdha-agrawal/' | relative_url }}" class="team-member">
+  <a href="{{ '/people/snigdha-agrawal/' | relative_url }}" class="team-member" markdown="0">
     <img src="/images/people/snigdha-agrawal.jpg" alt="Snigdha Agrawal">
     <h4>Snigdha Agrawal</h4>
     <p>Graduate Research Assistant</p>
