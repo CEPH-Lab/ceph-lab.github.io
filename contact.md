@@ -37,7 +37,7 @@ permalink: /contact/
 <div style="margin: 20px 0 30px 0;">
   <img src="/images/lab-map.png" alt="Map to CEPH Lab" style="width: 100%; height: auto; border: 1px solid #e5e5e5; box-shadow: 0 4px 15px rgba(0,0,0,0.05); display: block;">
   <p style="margin-top: 10px; font-size: 0.95em; color: #555; font-style: italic;">
-    Note: The map pin shown in <span style="color: #508c96; font-weight: bold;">teal</span> is the exact location of the lab.
+    Note: The <span style="color: #508c96; font-weight: bold;">teal</span> pin shows the lab location.
   </p>
 </div>
 
