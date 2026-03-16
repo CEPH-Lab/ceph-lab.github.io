@@ -16,6 +16,7 @@ permalink: /research/
     font-size: 24px; 
     line-height: 1.7;
     color: #508c96;
+    font-weight: 500;
     margin-bottom: 50px;
     margin-top: 40px;
   }
