@@ -13,9 +13,9 @@ permalink: /research/
 
 <style>
   .intro-text {
-    font-size: 18px; 
+    font-size: 24px; 
     line-height: 1.7;
-    color: #444;
+    color: #508c96;
     margin-bottom: 50px;
     margin-top: 40px;
   }
@@ -124,8 +124,6 @@ permalink: /research/
     ecology, and pathogen dynamics drive epidemic spread, we provide situational awareness and scenario
     modeling needed to inform public health planning.</p>
 </div>
-
-<h2 class="section-header">Main Research Lines</h2>
 
 <div class="research-grid">
 
