@@ -2,11 +2,11 @@
 layout: default
 ---
 <style>
-  /* --- MOBS-Style Profile Banner --- */
+  /* --- Profile Banner --- */
   .profile-banner {
     display: flex;
     width: 100vw;
-    height: 400px; /* Made taller so the photo has plenty of room */
+    height: 400px;
     margin-left: calc(-50vw + 50%);
     margin-top: -30px;
     margin-bottom: 60px;
@@ -15,7 +15,7 @@ layout: default
   .banner-text {
     width: 50%;
     flex: 0 0 50%;
-    background-color: #508c96; /* Using your teal to make the banner pop like MOBS */
+    background-color: #508c96;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -46,7 +46,7 @@ layout: default
     display: block;
     width: 80px;
     height: 5px;
-    background-color: #112226; /* Dark navy underline for contrast */
+    background-color: #112226;
     margin-top: 25px;
   }
 
@@ -54,7 +54,7 @@ layout: default
   .banner-photo {
     width: 50%;
     flex: 0 0 50%;
-    background-size: contain; /* Forces the entire image to fit */
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     background-color: #ffffff;
@@ -75,7 +75,7 @@ layout: default
     color: #444;
   }
 
-  /* Formats the markdown headers nicely */
+  /* Formats the markdown headers */
   .profile-bio h2, .profile-bio h3 {
     color: #0f2027;
     margin-top: 40px;
@@ -96,7 +96,7 @@ layout: default
 
   /* Light Grey Contact Card */
   .contact-card {
-    width: 300px;
+    width: 200px;
     flex-shrink: 0;
     background-color: #f9f9f9;
     padding: 30px;
@@ -151,7 +151,7 @@ layout: default
   }
 
   .contact-card a:hover .contact-icon {
-    fill: #112226; /* Turns dark navy when you hover over the link! */
+    fill: #112226;
   }
 
   /* --- Mobile Adjustments --- */
@@ -171,7 +171,7 @@ layout: default
     .banner-photo {
       width: 100%;
       flex: none;
-      height: 400px; /* Gives the photo a solid chunk of space on mobile */
+      height: 400px;
     }
     .profile-body {
       flex-direction: column;
