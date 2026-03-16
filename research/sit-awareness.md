@@ -121,7 +121,7 @@ permalink: /research/situational-awareness/
     principles to statistical/machine learning modeling, and semi-mechanistic hybrid approaches based on data
     type and quality, and the specific public health needs.</p>
     
-  <h3 style="color: #508c96">Projects and Impact</h3>
+  <h3 style="color: #508c96">Impact</h3>
   <ul>
     <li><strong>CDC Forecasting Hubs:</strong> We maintain a long-standing contribution to national forecasting
     efforts for seasonal and pandemic threats through our participation to CDC-led forecasting initiatives such

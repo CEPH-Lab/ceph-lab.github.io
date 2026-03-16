@@ -112,7 +112,7 @@ permalink: /research/human-social-behavior/
     direct collection of data (e.g., through diary-based contact surveys and the deployment of mosquito traps)
     or the analysis of individual-level datasets (e.g., American Time Use Survey).</p>
     
-  <h3 style="color: #508c96">Projects and Impact</h3>
+  <h3 style="color: #508c96">Impact</h3>
   <ul>
     <li><strong>Epistorm-Mix:</strong> Providing an open-access resource for the post-pandemic US contact
     landscape to serve as a nationally representative empirical benchmark for how the population mixes.</li>
