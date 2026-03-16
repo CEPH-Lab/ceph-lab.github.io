@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Situational Awareness
+title: Mosquito Ecology and Behavior
 permalink: /research/mosquito-ecology-and-behavior/
 ---
 

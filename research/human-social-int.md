@@ -77,7 +77,7 @@ permalink: /research/human-social-behavior/
 
 <div class="project-header">
   <h1 class="project-title">Human Social Behavior</h1>
-  <span class="research-area-tag">Pathogen Transmission: The "Who, Where, and When"</span>
+  <span class="research-area-tag">The "Who, Where, and When"</span>
 </div>
 
 <div class="project-body">

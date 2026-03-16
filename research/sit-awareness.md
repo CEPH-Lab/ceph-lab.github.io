@@ -88,7 +88,7 @@ permalink: /research/situational-awareness/
 
 <div class="project-header">
   <h1 class="project-title">Situational Awareness</h1>
-  <span class="research-area-tag">Monitoring and Forecasting: The "Now and Next"</span>
+  <span class="research-area-tag">The "Now and Next"</span>
 </div>
 
 <div class="project-body">
@@ -167,7 +167,7 @@ permalink: /research/situational-awareness/
         <p style="margin: 0; padding-bottom: 5px;"><strong>Ventura PC, Kummer AG, Wilke ABB, Chitturi J,
         Hill MD</strong>, Vasquez C, Unlu I, Mutebi JP, Kluh S, Vetrone S, Damian D, Townsend J,
         <strong>Litvinova M, Ajelli M</strong>.</p>
-        <p style="margin: 0;"><em><a href="https://doi.org/10.1038/s41467-024-50601-9" 
+        <p style="margin: 0;"><em><a href="https://doi.org/10.1371/journal.pntd.0012671" 
         style="color: #508c96">Forecasting the relative abundance of Aedes vector populations to enhance
         situational awareness for mosquito control operations.</a></em> PLoS Negl Trop Dis. 2024;18(11):e0012671.</p>
       </div>
