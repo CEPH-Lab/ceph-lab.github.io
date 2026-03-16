@@ -76,8 +76,8 @@ permalink: /research/infectious-disease-dynamics/
 <a href="{{ '/research/' | relative_url }}" class="back-link">← Back to Research</a>
 
 <div class="project-header">
-  <span class="research-area-tag">The "How and Why" Biological and social mechanisms</span>
   <h1 class="project-title">Infectious Disease Dynamics</h1>
+  <span class="research-area-tag">The "How"</span>
 </div>
 
 <div class="project-body">
