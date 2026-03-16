@@ -8,7 +8,7 @@ image: /images/people/marco-ajelli.jpg
 permalink: /people/marco-ajelli/
 ---
 
-Marco Ajelli is a Professor at Indiana University, where he heads the CEPH Lab. He completed his undergraduate and
+Marco Ajelli is a Professor at Indiana University, where he leads the CEPH Lab. He completed his undergraduate and
 Master’s degrees in Mathematics and a Ph.D. in Information and Communication Technology at the University of Trento,
 Italy. His research career spans both the European Union and the United States.
 
@@ -21,7 +21,7 @@ and the Italian government. He has also established long-term collaborations wit
 the United States to support vector surveillance and vector-borne disease management.
 
 Dr. Ajelli has authored more than 140 peer-reviewed papers in leading scientific journals, with significant
-contributions published in Science, Nature, and PNAS. A complete list of publications is available on
-[Google Scholar](https://scholar.google.com/citations?user=igKX7EMAAAAJ&hl=en&oi=ao). He is a recipient of the Bellman Prize in Mathematical Biosciences and the Aspen Institute Award.
-His research program has been supported by multiple federal and international agencies, including the NSF, CSTE,
-and CDC.
+contributions published in <em>Science</em>, <em>Nature</em>, and <em>PNAS</em>. A complete list of publications is available on
+<a href="https://scholar.google.com/citations?user=igKX7EMAAAAJ&hl=en&oi=ao" style="color: #508c96;">Google Scholar</a>.
+He is a recipient of the Bellman Prize in Mathematical Biosciences and the Aspen Institute Award. His 
+research program has been supported by multiple federal and international agencies, including the NSF, CSTE, and CDC.
