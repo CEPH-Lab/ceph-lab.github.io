@@ -77,66 +77,93 @@ permalink: /research/public-health-planning/
 
 <div class="project-header">
   <h1 class="project-title">Public Health Planning</h1>
-  <span class="research-area-tag">The "What if" Policy and Interventions</span>
+  <span class="research-area-tag">The "What if"</span>
 </div>
 
 <div class="project-body">
-<p> The page is currently under construction.
-</p>
-
 <!--
   <img src="/images/research/ph-planning/Fig01.png" alt="VIBES Framework" class="figure-right">
-
-  <p>Infectious disease spread is a complex, multi-scale process driven by the continuous interaction 
-    between biological (within-host) and social (between-host) factors. To truly understand epidemic dynamics, 
-    both of these drivers must be evaluated together rather than in isolation. To address this, we developed
-    Viral dynamics Individual Based Epidemic Simulator <strong>(VIBES)</strong>, a multi-scale 
-    Individual-Based Modeling framework that explicitly integrates individual-level viral dynamics with
-    population-level transmission over a data-driven network of social contacts.</p>
-
-  <h3 style="color: #508c96">How the Framework Operates</h3>
-  <p>VIBES bridges the gap between viral dynamics and human behavior by simulating disease transmission at two 
-    distinct levels:</p>
-  <ul>
-    <li><strong>The Biological Layer:</strong> The model simulates viral replication and elimination within each 
-    individual host. This provides an individualized viral load trajectory that dictates a person's exact 
-    infectiousness profile over time.</li>
-    <li><strong>The Social Layer:</strong> These individual profiles are projected onto a highly-resolved 
-    synthetic population of 500,000 agents (statistically calibrated to represent Indiana, USA). Transmission 
-    events occur across four specific social settings: households, schools, workplace, and community.</li>
-  </ul>
-
-  <h3 style="color: #508c96">Key Insights & Capabilities</h3>
-  <p>Using SARS-CoV-2 as a primary case study, VIBES allows us to mechanistically quantify how interventions 
-    and pathogen mutations shape epidemic dynamics. By tracking individual infections across the network, we can
-    directly calculate epidemiological metrics such as generation times, serial intervals, and pre-symptomatic
-    transmission rates.</p>
-  
-  <ul>
-    <li><strong>Understanding Drivers:</strong> By establishing a purely biological baseline, we estimated a 
-    generation time of 6.3 days with 43.1% pre-symptomatic transmission. However, when introducing real-world
-    social contacts, competition among infectious individuals shortened the generation time to 5.4 days and
-    increased pre-symptomatic transmission to 52.8% (at R=3.0).</li>
-    <li><strong>Transmissibility Effects:</strong> As pathogen transmissibility increases (R = 1.3 up to 6),
-    the generation time and serial interval can shorten by up to 21% and 13%, respectively.</li>
-    <li><strong>Assessing Interventions:</strong> VIBES shows how behavioral shifts alter transmission
-    dynamics. For instance, implementing non-pharmaceutical interventions like isolating symptomatic individuals can
-    increase the proportion of pre-symptomatic transmission by approximately 30%.</li>
-    <li><strong>Estimating Metrics:</strong> The framework successfully estimates epidemiological metrics,
-    such as the generation time for completely asymptomatic individuals (estimated at 5.6 days).</li>
-  </ul>
-
-  <h3 style="color: #508c96">Featured Publication</h3>
-  <p>For a comprehensive review of the VIBES framework, methodology, and the full SARS-CoV-2 analysis, please view
-    our preprint:</p>
-  
-  <div class="citation-box">
-    <p style="margin: 0;">Ventura PC, Jeong YD, Litvinova M, Kummer AG, Iwami S, Yu H, Merler S, Vespignani A,
-    Ejima K, <strong>Ajelli M</strong>. (2025). <em>VIBES: A Multi-Scale Modeling Approach Integrating
-    Within-Host and Between-Hosts Dynamics in Epidemics</em>. arXiv:2508.13354.</p>
-    <a href="https://doi.org/10.48550/arXiv.2508.13354" target="_blank" style="display: inline-block;
-    margin-top: 10px; color: #508c96; font-weight: 600; text-decoration: none;">[Read the Full Paper]</a>
-  </div>
-
 -->
+
+  <h3 style="color: #508c96">Why Public Health Planning?</h3>
+  <p>Whether responding to an emerging epidemic or managing endemic diseases, policymakers often grapple with
+    "what if" questions: What if we implement school closures? What if a new vaccine is distributed to specific
+    age groups first? What if vector control is intensified in one neighborhood over another? By creating virtual
+    laboratories of epidemic spread, we allow public health officials to test the potential impact of their
+    decisions before they are implemented in the real world. This approach provides science-based information
+    to ground their decision-making process in data and evidence.</p>
+    
+  <h3 style="color: #508c96">Research Topics</h3>
+  <ul>
+    <li><strong>Projections of Epidemic and Endemic Trajectories. </strong>
+    We develop models to explore hypothetical scenarios regarding the medium- and long-term dynamics of infectious
+    diseases. This includes the evaluation of the relative impact of established public health measures (e.g.,
+    vaccination schedules and programs) on disease burden over time.</li>
+    <li><strong>Model-Based Evaluation of Intervention Strategies. </strong>
+    We use mechanistic modeling to provide estimates of the effectiveness of pharmaceutical and non-pharmaceutical
+    interventions. We also support the definition of actionable guidelines for strategy deployment. </li>
+  </ul>
+
+  <h3 style="color: #508c96">Approach</h3>
+  <p>We use mechanistic modeling to simulate the underlying processes driving infectious disease spread. We utilize
+    a variety of approaches, including compartmental, agent-based, and network models, to simulate the interactions
+    of individuals within complex social environments and track pathogen spread. These approaches enable us to
+    evaluate how specific behaviors and policy changes shape the epidemiology of infectious diseases.</p>
+    
+  <h3 style="color: #508c96">Impact</h3>
+  <ul>
+    <li><strong>International & Multi-National Policy Support: </strong>We provide model-based evidence to
+    international organizations like the World Health Organization (WHO) and to various national health agencies
+    worldwide. Our work supports the design and evaluation of public health preparedness and response strategies
+    at both global and country-specific levels. We have been directly involved in various task forces during
+    international public health emergencies such as the 2009 H1N1 influenza pandemic, 2014–2016 West Africa Ebola
+    outbreak, 2018–2020 Ebola outbreak in the Democratic Republic of the Congo, and the COVID-19 pandemic.</li>
+    <li><strong>Local Intervention Strategy: </strong>We collaborate with local mosquito control authorities to
+    evaluate the impact of vector-control strategies on reducing the risk of mosquito-borne diseases in
+    jurisdictions throughout the Southern United States.</li>
+    <li><strong>CDC Scenario Modeling Hubs: </strong>The CEPH Lab is an active participant in the CDC-led Scenario Modeling
+    Hub initiatives, contributing to the national understanding of the spread of respiratory diseases (e.g.,
+    influenza and RSV) to inform federal response planning and vaccination programs.</li>
+
+  </ul>
+    
+  <h3 style="color: #508c96">Funding</h3>
+  <ul>
+    <li>Our scenario analyses are supported by the CDC, NSF, and local grants.</li>
+  </ul>
+
+  <h3 style="color: #508c96">References</h3>
+  <ul>
+    <li>
+      <div class="citation-box">
+        <p style="margin: 0; padding-bottom: 5px;"><strong>Ajelli M</strong>, Muyembe JJ, Touré A, Diallo A, <strong>Litvinova M</strong>,
+        Merler S, Mulangu S, Bagayoko A, Bah A, Bah I, Barry A, Barry F, Chérif M, Condé D, Diallo AA, Diallo F,
+        Diakité M, Doré K, Mapan KA, Koundouno T, Onivogui PK, Lamah F, Maneno H, Nomou A, Sekouba K, Sani I,
+        Soumah A, Sy MM, Gsell PS, Halloran ME, Henao-Restrepo AM, Fall IS, Ryan MJ, Salama P, Vespignani A,
+        Longini IM.</p>
+        <p style="margin: 0;"><em><a href="https://doi.org/10.1016/j.ijid.2025.107779" style="color: #508c96">
+        Vaccination strategies for Ebola in the democratic republic of Congo: the WHO-Ebola modeling collaboration</a>
+        </em> International Journal of Infectious Diseases. 2025;153:107779.</p>
+      </div>
+    </li>
+    <li>
+      <div class="citation-box">
+        <p style="margin: 0; padding-bottom: 5px;"><strong>Kummer AG</strong>, <strong>Wilke ABB</strong>, <strong>Ventura PC</strong>,
+        Vasquez C, Medina J, Unlu I, Gonzalez Y, <strong>Mhlanga A</strong>, Benelli G, Ejima K, Mutebi JP,
+        <strong>Ajelli M</strong>.</p>
+        <p style="margin: 0;"><em><a href="https://doi.org/10.1007/s10340-024-01787-w" style="color: #508c96">
+        Comparing the effectiveness of adulticide application interventions on mitigating local transmission of
+        dengue virus</a></em> J Pest Sci. 2024; 98:463-475</p>
+      </div>
+    </li>
+    <li>
+      <div class="citation-box">
+        <p style="margin: 0; padding-bottom: 5px;">Jeong YD, Ejima K, Kim KS, Joohyeon W, Iwanami S, Fujita Y, Jung IH, Aihara K, Shibuya K,
+        Iwami S, Bento AI, <strong>Ajelli M</strong>strong></p>
+        <p style="margin: 0;"><em><a href="https://doi.org/10.1038/s41467-022-32663-9" style="color: #508c96">
+        Designing isolation guidelines for COVID-19 patients with rapid antigen tests</a>
+        </em> Nat Commun. 2022;13(1):4910.</p>
+      </div>
+    </li>
+  </ul>
 </div>
