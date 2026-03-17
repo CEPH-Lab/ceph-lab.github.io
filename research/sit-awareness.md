@@ -148,8 +148,8 @@ permalink: /research/situational-awareness/
         <p style="margin: 0; padding-bottom: 5px;">Mathis SM, Webber AE, León TM, Murray EL, Sun M, White LA,
         Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, Tibshirani RJ, McDonald DJ, Kandula S, Pei S,
         Yaari R, Yamana TK, Shaman J, Agarwal P, Balusu S, Gururajan G, Kamarthi H, Prakash BA, Raman R, Zhao Z,
-        Rodríguez A, Meiyappan A, Omar S, Baccam P, Gurung HL, Suchoski BT, Stage SA, <strong>Ajelli M, Kummer AG,
-        Litvinova M, Ventura PC</strong>, Wadsworth S, Niemi J, Carcelen E, Hill AL, Loo SL, McKee CD, Sato K,
+        Rodríguez A, Meiyappan A, Omar S, Baccam P, Gurung HL, Suchoski BT, Stage SA, Ajelli M, Kummer AG,
+        Litvinova M, Ventura PC, Wadsworth S, Niemi J, Carcelen E, Hill AL, Loo SL, McKee CD, Sato K,
         Smith C, Truelove S, Jung S mok, Lemaitre JC, Lessler J, McAndrew T, Ye W, Bosse N, Hlavacek WS, Lin YT,
         Mallela A, Gibson GC, Chen Y, Lamm SM, Lee J, Posner RG, Perofsky AC, Viboud C, Clemente L, Lu F, Meyer AG,
         Santillana M, Chinazzi M, Davis JT, Mu K, Pastore Y Piontti A, Vespignani A, Xiong X, Ben-Nun M, Riley P,
@@ -164,9 +164,8 @@ permalink: /research/situational-awareness/
     </li>
     <li>
       <div class="citation-box">
-        <p style="margin: 0; padding-bottom: 5px;"><strong>Ventura PC, Kummer AG, Wilke ABB, Chitturi J,
-        Hill MD</strong>, Vasquez C, Unlu I, Mutebi JP, Kluh S, Vetrone S, Damian D, Townsend J,
-        <strong>Litvinova M, Ajelli M</strong>.</p>
+        <p style="margin: 0; padding-bottom: 5px;">Ventura PC, Kummer AG, Wilke ABB, Chitturi J, Hill MD, Vasquez C, Unlu I, Mutebi JP, Kluh S,
+        Vetrone S, Damian D, Townsend J, Litvinova M, Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1371/journal.pntd.0012671" 
         style="color: #508c96">Forecasting the relative abundance of Aedes vector populations to enhance
         situational awareness for mosquito control operations.</a></em> PLoS Negl Trop Dis. 2024;18(11):e0012671.</p>

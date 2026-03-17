@@ -133,8 +133,8 @@ permalink: /research/human-social-behavior/
   <ul>
     <li>
       <div class="citation-box">
-        <p style="margin: 0; padding-bottom: 5px;"><strong>Litvinova M, Sinclair S, Kummer AG, Ventura PC, Foster T
-        </strong>, Shioda K, Halloran ME, Vespignani A, <strong>Ajelli M</strong>.</p>
+        <p style="margin: 0; padding-bottom: 5px;">Litvinova M, Sinclair S, Kummer AG, Ventura PC, Foster T, Shioda K, Halloran ME,
+        Vespignani A, Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1101/2025.11.20.25340662" style="color: #508c96">
         Epistorm-Mix: Mapping Social Contact Patterns for Respiratory Pathogen Spread in the Post-Pandemic 
         United States.</a></em> Preprint available online at medRxiv. 2025</p>
@@ -142,9 +142,8 @@ permalink: /research/human-social-behavior/
     </li>
     <li>
       <div class="citation-box">
-        <p style="margin: 0; padding-bottom: 5px;"><strong>Ventura PC, Wilke ABB, Chitturi J, Kummer AG,
-        Agrawal S</strong>, Vasquez C, Gonzalez Y,<strong> Litvinova M</strong>, Mutebi JP,
-        <strong>Ajelli M</strong>.</p>
+        <p style="margin: 0; padding-bottom: 5px;">Ventura PC, Wilke ABB, Chitturi J, Kummer AG, Agrawal S, Vasquez C, Gonzalez Y, Litvinova M,
+        Mutebi JP, Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1101/2024.05.29.24308139" style="color: #508c96">
         Unveiling the role of mosquito and human diel activity patterns in the risk of mosquito-borne disease
         infection.</a></em> Preprint available online at medRxiv. 2024</p>

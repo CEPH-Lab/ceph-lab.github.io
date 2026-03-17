@@ -136,11 +136,10 @@ permalink: /research/public-health-planning/
   <ul>
     <li>
       <div class="citation-box">
-        <p style="margin: 0; padding-bottom: 5px;"><strong>Ajelli M</strong>, Muyembe JJ, Touré A, Diallo A, <strong>Litvinova M</strong>,
-        Merler S, Mulangu S, Bagayoko A, Bah A, Bah I, Barry A, Barry F, Chérif M, Condé D, Diallo AA, Diallo F,
-        Diakité M, Doré K, Mapan KA, Koundouno T, Onivogui PK, Lamah F, Maneno H, Nomou A, Sekouba K, Sani I,
-        Soumah A, Sy MM, Gsell PS, Halloran ME, Henao-Restrepo AM, Fall IS, Ryan MJ, Salama P, Vespignani A,
-        Longini IM.</p>
+        <p style="margin: 0; padding-bottom: 5px;">Ajelli M, Muyembe JJ, Touré A, Diallo A, Litvinova M, Merler S, Mulangu S, Bagayoko A, Bah A,
+        Bah I, Barry A, Barry F, Chérif M, Condé D, Diallo AA, Diallo F, Diakité M, Doré K, Mapan KA, Koundouno T,
+        Onivogui PK, Lamah F, Maneno H, Nomou A, Sekouba K, Sani I, Soumah A, Sy MM, Gsell PS, Halloran ME, 
+        Henao-Restrepo AM, Fall IS, Ryan MJ, Salama P, Vespignani A, Longini IM.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1016/j.ijid.2025.107779" style="color: #508c96">
         Vaccination strategies for Ebola in the democratic republic of Congo: the WHO-Ebola modeling collaboration.</a>
         </em> International Journal of Infectious Diseases. 2025;153:107779.</p>
@@ -148,9 +147,8 @@ permalink: /research/public-health-planning/
     </li>
     <li>
       <div class="citation-box">
-        <p style="margin: 0; padding-bottom: 5px;"><strong>Kummer AG</strong>, <strong>Wilke ABB</strong>, <strong>Ventura PC</strong>,
-        Vasquez C, Medina J, Unlu I, Gonzalez Y, <strong>Mhlanga A</strong>, Benelli G, Ejima K, Mutebi JP,
-        <strong>Ajelli M</strong>.</p>
+        <p style="margin: 0; padding-bottom: 5px;">Kummer AG, Wilke ABB, Ventura PC, Vasquez C, Medina J, Unlu I, Gonzalez Y, Mhlanga A,
+        Benelli G, Ejima K, Mutebi JP, Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1007/s10340-024-01787-w" style="color: #508c96">
         Comparing the effectiveness of adulticide application interventions on mitigating local transmission of
         dengue virus.</a></em> J Pest Sci. 2024; 98:463-475</p>
@@ -159,7 +157,7 @@ permalink: /research/public-health-planning/
     <li>
       <div class="citation-box">
         <p style="margin: 0; padding-bottom: 5px;">Jeong YD, Ejima K, Kim KS, Joohyeon W, Iwanami S, Fujita Y, Jung IH, Aihara K, Shibuya K,
-        Iwami S, Bento AI, <strong>Ajelli M</strong>.</p>
+        Iwami S, Bento AI, Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1038/s41467-022-32663-9" style="color: #508c96">
         Designing isolation guidelines for COVID-19 patients with rapid antigen tests.</a>
         </em> Nat Commun. 2022;13(1):4910.</p>

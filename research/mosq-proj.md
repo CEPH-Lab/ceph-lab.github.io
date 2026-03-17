@@ -137,8 +137,8 @@ permalink: /research/mosquito-ecology-and-behavior/
   <ul>
     <li>
       <div class="citation-box">
-        <p style="margin: 0; padding-bottom: 5px;"><strong>Wilke ABB</strong>, Damian D, <strong>Litvinova M</strong>,
-        Byrne T, Zardini A, Poletti P, Merler S, Mutebi JP, Townsend J, <strong>Ajelli M</strong>.</p>
+        <p style="margin: 0; padding-bottom: 5px;">Wilke ABB, Damian D, Litvinova M, Byrne T, Zardini A, Poletti P, Merler S,
+        Mutebi JP, Townsend J, Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1016/j.actatropica.2023.106833" style="color: #508c96">
         Spatiotemporal distribution of vector mosquito species and areas at risk for arbovirus transmission in
         Maricopa County, Arizona.</a></em> Acta Tropica. 2023;240:106833.</p>
@@ -146,9 +146,8 @@ permalink: /research/mosquito-ecology-and-behavior/
     </li>
     <li>
       <div class="citation-box">
-        <p style="margin: 0; padding-bottom: 5px;"><strong>Wilke ABB</strong>, <strong>Mhlanga A</strong>,
-        <strong>Kummer AG</strong>, Vasquez C, Moreno M, Petrie WD, Rodriguez A, Vitek C, Hamer GL, Mutebi JP,
-        <strong>Ajelli M</strong>.</p>
+        <p style="margin: 0; padding-bottom: 5px;">Wilke ABB, Mhlanga A, Kummer AG, Vasquez C, Moreno M, Petrie WD, Rodriguez A, Vitek C,
+        Hamer GL, Mutebi JP, Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1371/journal.pntd.0011074" style="color: #508c96">
         Diel activity patterns of vector mosquito species in the urban environment: Implications for vector control
         strategies.</a></em> PLoS Negl Trop Dis. 2023;17(1):e0011074.</p>
