@@ -138,7 +138,7 @@ permalink: /research/infectious-disease-dynamics/
         Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1111/irv.13301" style="color: #508c96">
         Evaluating Seasonal Variations in Human Contact Patterns and Their Impact on the Transmission of Respiratory
-        Infectious Diseases</a></em> Influenza Resp Viruses. 2024;18(5):e13301.</p>
+        Infectious Diseases.</a></em> Influenza Resp Viruses. 2024;18(5):e13301.</p>
       </div>
     </li>
   </ul>
