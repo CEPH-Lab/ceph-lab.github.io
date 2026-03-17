@@ -90,14 +90,13 @@ permalink: /research/mosquito-ecology-and-behavior/
     animals, and the environment. Taking a one health perspective, we recognize that the health of people is
     inextricably linked to the health of the animals and the shared ecosystems they inhabit.</p>
 
-  <p>In the specific case
-    of mosquito-borne diseases, the environment acts as a primary driver of risk. To manage diseases like dengue or
-    West Nile, we must first understand the ecological and behavioral dynamics of the mosquitoes that transmit them.
-    This involves answering critical questions such as: Which species are present in a given area? Are changing
-    climates pushing these vectors into previously unaffected territories? How does their abundance fluctuate with
-    the seasons? When and where are mosquitoes interacting with human and other hosts? By investigating these
-    underlying mechanisms, our research provides the biological context necessary to understand the epidemiology
-    of mosquito-borne diseases.</p>
+  <p>In the specific case of mosquito-borne diseases, the environment acts as a primary driver of risk. To manage
+    diseases like dengue or West Nile, we must first understand the ecological and behavioral dynamics of the
+    mosquitoes that transmit them. This involves answering critical questions such as: Which species are present
+    in a given area? Are changing climates pushing these vectors into previously unaffected territories? How does
+    their abundance fluctuate with the seasons? When and where are mosquitoes interacting with human and other hosts?
+    By investigating these underlying mechanisms, our research provides the biological context necessary to understand
+    the epidemiology of mosquito-borne diseases.</p>
     
   <h3 style="color: #508c96">Research Topics</h3>
   <ul>
@@ -140,16 +139,17 @@ permalink: /research/mosquito-ecology-and-behavior/
       <div class="citation-box">
         <p style="margin: 0; padding-bottom: 5px;"><strong>Wilke ABB</strong>, Damian D, <strong>Litvinova M</strong>,
         Byrne T, Zardini A, Poletti P, Merler S, Mutebi JP, Townsend J, <strong>Ajelli M</strong>.</p>
-        <p style="margin: 0;"><em><a href="https://doi.org/10.1101/2025.11.20.25340662" style="color: #508c96">
+        <p style="margin: 0;"><em><a href="https://doi.org/10.1016/j.actatropica.2023.106833" style="color: #508c96">
         Spatiotemporal distribution of vector mosquito species and areas at risk for arbovirus transmission in
         Maricopa County, Arizona.</a></em> Acta Tropica. 2023;240:106833.</p>
       </div>
     </li>
     <li>
       <div class="citation-box">
-        <p style="margin: 0; padding-bottom: 5px;"><strong>Wilke ABB</strong>, <strong>Mhlanga A</strong>, <strong>Kummer AG</strong>, Vasquez C,
-        Moreno M, Petrie WD, Rodriguez A, Vitek C, Hamer GL, Mutebi JP, <strong>Ajelli M</strong>.</p>
-        <p style="margin: 0;"><em><a href="https://doi.org/10.1101/2024.05.29.24308139" style="color: #508c96">
+        <p style="margin: 0; padding-bottom: 5px;"><strong>Wilke ABB</strong>, <strong>Mhlanga A</strong>,
+        <strong>Kummer AG</strong>, Vasquez C, Moreno M, Petrie WD, Rodriguez A, Vitek C, Hamer GL, Mutebi JP,
+        <strong>Ajelli M</strong>.</p>
+        <p style="margin: 0;"><em><a href="https://doi.org/10.1371/journal.pntd.0011074" style="color: #508c96">
         Diel activity patterns of vector mosquito species in the urban environment: Implications for vector control
         strategies.</a></em> PLoS Negl Trop Dis. 2023;17(1):e0011074.</p>
       </div>
