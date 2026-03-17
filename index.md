@@ -282,7 +282,7 @@ permalink: /
 </style>
 
 <div class="hero">
-  <h1>Where science inspire action</h1>
+  <h1>Where science inspires action</h1>
   <p>Advancing the understanding of epidemic spread to inform public health decision-making</p>
   <a href="#mission" class="scroll-down" aria-label="Scroll to Mission"></a>
 </div>
