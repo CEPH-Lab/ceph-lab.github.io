@@ -14,4 +14,4 @@ On his research in infectious diseases epidemiology, Dr. Ventura led the develop
 
 Dr. Ventura applies modeling into topics relevant to vector-borne diseases, including a short-term forecasting study of _Aedes aegypti_ mosquito population in urban areas of the USA, and an investigation on how daily activity patterns of humans and mosquitoes shape the exposure to mosquito-borne infections.
 
-Finally, he has mentored multiple students and interns in the CEPH Lab, helping them develop technical skills for mathematical modeling and guiding them through research projects on behalf of [Dr. Ajelli](people/marco-ajelli/). 
+Dr. Ventura has served as a secondary mentor for multiple students and interns at the CEPH Lab, helping them develop technical skills for mathematical modeling and guiding them through research projects. 
