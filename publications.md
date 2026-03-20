@@ -279,6 +279,7 @@ permalink: /publications/
   <p class="pub-journal"><em>Journal of Medical Virology</em> 97 (1), e70174 (2025)</p>
 </div>
 
+<h2 id="2024" class="year-section">2024</h2>
 <div class="pub-entry">
   <a href="https://doi.org/10.1016/j.epidem.2024.100805" target="_blank" class="pub-title">Real-time estimates of
     the emergence and dynamics of SARS-CoV-2 variants of concern: A modeling approach</a>
