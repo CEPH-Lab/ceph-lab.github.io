@@ -84,6 +84,14 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="https://doi.org/10.20944/preprints202410.1054.v1" target="_blank" class="pub-title">Mosquito‐Borne 
+    Disease among Individuals Experiencing Homelessness in the United States: A Literature Review</a>
+  <p class="pub-authors">Wilke A., Hill M., Kummer A., Vasquez C., Mutebi J.-P., Huo X., 
+    Li H., Chen J., Ruan S., Beier J., Litvinova M., Byrne T., Ajelli M.</p>
+  <p class="pub-journal"><em>Journal of Pest Science</em> In press(2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.48550/arXiv.2508.13354" target="_blank" class="pub-title">VIBES: A Multi-Scale Modeling
     Approach Integrating Within-Host and Between-Hosts Dynamics in Epidemics</a>
   <p class="pub-authors">Ventura P. C., Jeong Y. D., Litvinova M., Kummer A. G., Iwami S., 
@@ -93,7 +101,7 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
-  <a href="" target="_blank" class="pub-title"> Implications for distancing measures on in-person school and work
+  <a href="https://doi.org/10.48550/arXiv.2412.18549" target="_blank" class="pub-title"> Implications for distancing measures on in-person school and work
     attendance from Italian post-pandemic social contact data</a>
   <p class="pub-authors">Lucchini L., Marziano V., Trentini F., Chiavenna C., 
     D’Agnese E., Offeddu V., Manica M., Poletti P., Balsamo D., Guzzetta G., 
@@ -302,14 +310,6 @@ permalink: /publications/
     Vasquez C., Unlu I., Mutebi J.-P., Kluh S., Vetrone S., Damian D., Townsend J., 
     Litvinova M., Ajelli M.</p>
   <p class="pub-journal"><em>PLoS Neglected Tropical Diseases</em> 18(11), e0012671 (2024)</p>
-</div>
-
-<div class="pub-entry">
-  <a href="https://doi.org/10.20944/preprints202410.1054.v1" target="_blank" class="pub-title">Mosquito‐Borne 
-    Disease among Individuals Experiencing Homelessness in the United States: A Literature Review</a>
-  <p class="pub-authors">Wilke A., Hill M., Kummer A., Vasquez C., Mutebi J.-P., Huo X., 
-    Li H., Chen J., Ruan S., Beier J., Litvinova M., Byrne T., Ajelli M.</p>
-  <p class="pub-journal">Preprint available at <em>Preprints</em> (2024)</p>
 </div>
 
 <div class="pub-entry">
