@@ -84,6 +84,14 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="https://doi.org/10.1101/2025.10.24.25338734" target="_blank" class="pub-title">Comparing
+    Wastewater-Based and Case-Based Rt Estimates of SARS-CoV-2 Transmission in Georgia Using Generalized Linear
+    Mixed Models</a>
+  <p class="pub-authors">Edmunds S. H., Landsittel D., Ajelli M., Litvinova M.</p>
+  <p class="pub-journal"><em>Epidemiology & Infections</em>, In press (2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.20944/preprints202410.1054.v1" target="_blank" class="pub-title">Mosquito‐Borne 
     Disease among Individuals Experiencing Homelessness in the United States: A Literature Review</a>
   <p class="pub-authors">Wilke A. B. B., Hill M., Kummer A., Vasquez C., Mutebi J.-P., Huo X., 
@@ -169,14 +177,6 @@ permalink: /publications/
     Hill M. D., Manica M., Poletti P., Beier J. C., Ejima K., Johansson M., Merler S., 
     Yu H., Mutebi J.-P., Litvinova M., Wilke A. B. B., Ajelli M.</p>
   <p class="pub-journal">Preprint available at <em>bioRxiv</em> (2025)</p>
-</div>
-
-<div class="pub-entry">
-  <a href="https://doi.org/10.1101/2025.10.24.25338734" target="_blank" class="pub-title">Comparing
-    Wastewater-Based and Case-Based Rt Estimates of SARS-CoV-2 Transmission in Georgia Using Generalized Linear
-    Mixed Models</a>
-  <p class="pub-authors">Edmunds S. H., Landsittel D., Ajelli M., Litvinova M.</p>
-  <p class="pub-journal">Preprint available at <em>medRxiv</em> (2025)</p>
 </div>
 
 <div class="pub-entry">
