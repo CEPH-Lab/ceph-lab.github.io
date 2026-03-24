@@ -106,7 +106,7 @@ permalink: /publications/
   <p class="pub-authors">Lucchini L., Marziano V., Trentini F., Chiavenna C., 
     D’Agnese E., Offeddu V., Manica M., Poletti P., Balsamo D., Guzzetta G., 
     Ajelli M., Melegaro A., Merler S.</p>
-  <p class="pub-journal"><em>Communications Medicine</em> (2026)</p>
+  <p class="pub-journal"><em>Communications Medicine</em>, In press (2026)</p>
 </div>
 
 <div class="pub-entry">
@@ -115,7 +115,7 @@ permalink: /publications/
   <p class="pub-authors">Hua X., Alexander L. W., Claro I. M., Shao Y., de Jesus R., 
     de Lima S. T. S., Ventura P. C., Kato R. B., Ajelli M., Wilke A. B. B., 
     Suchard M. A., Faria N. R., Proenca-Modena J. L., Dickson L. B., Bento A. I., de Souza W. M.</p>
-  <p class="pub-journal"><em>Nature Health</em>, In press (2026)</p>
+  <p class="pub-journal"><em>Nature Health</em> (2026)</p>
 </div>
 
 <div class="pub-entry">
