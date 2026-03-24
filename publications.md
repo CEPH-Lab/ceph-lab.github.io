@@ -88,7 +88,7 @@ permalink: /publications/
     Wastewater-Based and Case-Based Rt Estimates of SARS-CoV-2 Transmission in Georgia Using Generalized Linear
     Mixed Models</a>
   <p class="pub-authors">Edmunds S. H., Landsittel D., Ajelli M., Litvinova M.</p>
-  <p class="pub-journal"><em>Epidemiology & Infections</em>, In press (2026)</p>
+  <p class="pub-journal"><em>Epidemiology & Infection</em>, In press (2026)</p>
 </div>
 
 <div class="pub-entry">
