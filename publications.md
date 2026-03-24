@@ -88,7 +88,7 @@ permalink: /publications/
     Disease among Individuals Experiencing Homelessness in the United States: A Literature Review</a>
   <p class="pub-authors">Wilke A., Hill M., Kummer A., Vasquez C., Mutebi J.-P., Huo X., 
     Li H., Chen J., Ruan S., Beier J., Litvinova M., Byrne T., Ajelli M.</p>
-  <p class="pub-journal"><em>Journal of Pest Science</em> In press(2026)</p>
+  <p class="pub-journal"><em>Journal of Pest Science</em>, In press (2026)</p>
 </div>
 
 <div class="pub-entry">
@@ -101,17 +101,17 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
-  <a href="https://doi.org/10.48550/arXiv.2412.18549" target="_blank" class="pub-title"> Implications for distancing measures on in-person school and work
-    attendance from Italian post-pandemic social contact data</a>
+  <a href="https://doi.org/10.48550/arXiv.2412.18549" target="_blank" class="pub-title"> Implications for distancing
+    measures on in-person school and work attendance from Italian post-pandemic social contact data</a>
   <p class="pub-authors">Lucchini L., Marziano V., Trentini F., Chiavenna C., 
     D’Agnese E., Offeddu V., Manica M., Poletti P., Balsamo D., Guzzetta G., 
     Ajelli M., Melegaro A., Merler S.</p>
-  <p class="pub-journal"><em>Communications Medicine</em>, In press (2026)</p>
+  <p class="pub-journal"><em>Communications Medicine</em> (2026)</p>
 </div>
 
 <div class="pub-entry">
-  <a href="" target="_blank" class="pub-title"> Ecological and demographic profile of Oropouche fever between
-    2014-2025 in Brazil: an epidemiological study</a>
+  <a href="https://doi.org/10.1038/s44360-026-00065-6" target="_blank" class="pub-title"> Ecological and demographic
+    profile of Oropouche fever between 2014-2025 in Brazil: an epidemiological study</a>
   <p class="pub-authors">Hua X., Alexander L. W., Claro I. M., Shao Y., de Jesus R., 
     de Lima S. T. S., Ventura P. C., Kato R. B., Ajelli M., Wilke A. B. B., 
     Suchard M. A., Faria N. R., Proenca-Modena J. L., Dickson L. B., Bento A. I., de Souza W. M.</p>
