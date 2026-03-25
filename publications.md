@@ -84,6 +84,15 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="https://doi.org/10.1101/2025.11.05.686816" target="_blank" class="pub-title">IRIS, a modeling tool for the
+    in-silico evaluation of mosquito control trial designs based on inundative releases</a>
+  <p class="pub-authors">Chitturi J., Ventura P. C., Kummer A. G., Vasquez C., SeRine E., 
+    Hill M. D., Manica M., Poletti P., Beier J. C., Ejima K., Johansson M., Merler S., 
+    Yu H., Mutebi J.-P., Litvinova M., Wilke A. B. B., Ajelli M.</p>
+  <p class="pub-journal">Preprint available at <em>bioRxiv</em> (2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.1101/2025.10.24.25338734" target="_blank" class="pub-title">Comparing
     Wastewater-Based and Case-Based Rt Estimates of SARS-CoV-2 Transmission in Georgia Using Generalized Linear
     Mixed Models</a>
@@ -168,15 +177,6 @@ permalink: /publications/
     Guerrini J., Zou L., Koebcke A., Kummer A. G., Ventura P. C., Del Valle S. Y., 
     Chinazzi M., Litvinova M., Vespignani A., Ajelli M.</p>
   <p class="pub-journal">Preprint available at <em>SSRN</em> (2025)</p>
-</div>
-
-<div class="pub-entry">
-  <a href="https://doi.org/10.1101/2025.11.05.686816" target="_blank" class="pub-title">Evaluating Field Trial
-    Designs for Genetically Modified Mosquito Interventions: An In-Silico Simulation Approach</a>
-  <p class="pub-authors">Chitturi J., Ventura P. C., Kummer A. G., Vasquez C., SeRine E., 
-    Hill M. D., Manica M., Poletti P., Beier J. C., Ejima K., Johansson M., Merler S., 
-    Yu H., Mutebi J.-P., Litvinova M., Wilke A. B. B., Ajelli M.</p>
-  <p class="pub-journal">Preprint available at <em>bioRxiv</em> (2025)</p>
 </div>
 
 <div class="pub-entry">
