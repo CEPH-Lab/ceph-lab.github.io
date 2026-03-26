@@ -37,34 +37,36 @@ html {
     padding: 0 !important;
   }
 
-  /* Fixed: Forces the Hamburger Icon lines to be dark grey */
+  /* Fixed: Forces the Hamburger Icon lines to be same as CEPH logo */
   .site-header .site-nav .menu-icon > svg path {
-    fill: #2b2b2b !important;
+    fill: ##468b94 !important;
   }
 
+  /* Fixed: Change the dropdown box to white with a subtle shadow */
   .site-header .site-nav .trigger {
     position: absolute !important;
     top: 40px !important;
     right: 0 !important;
     width: 220px !important;
 
-    background-color: rgba(80, 140, 150, 0.95) !important;
+    background-color: rgba(255, 255, 255, 0.98) !important;
     backdrop-filter: blur(12px) !important;
     -webkit-backdrop-filter: blur(12px) !important;
 
     border-radius: 12px !important;
-    border: 1px solid rgba(255, 255, 255, 0.2) !important;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2) !important;
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15) !important;
     padding: 10px 20px !important;
   }
 
+  /* Fixed: Change the text links to black with light grey dividers */
   .site-nav .page-link {
     display: block !important;
     padding: 12px 0 !important;
-    color: #ffffff !important;
+    color: #2b2b2b !important;
     font-size: 16px !important;
     letter-spacing: 0.5px !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08) !important;
     margin-left: 0 !important;
   }
 
@@ -82,6 +84,23 @@ html {
     height: auto !important;
     margin-right: 0 !important;
   }
+
+  /* Hide the 3-line hamburger when the menu is OPEN */
+  .site-header .site-nav #nav-trigger:checked ~ label[for="nav-trigger"] .menu-icon svg {
+    display: none !important;
+  }
+
+  /* Show a clean "X" when the menu is OPEN */
+  .site-header .site-nav #nav-trigger:checked ~ label[for="nav-trigger"] .menu-icon::after {
+    content: "✕" !important;
+    display: block !important;
+    font-size: 24px !important;
+    font-weight: bold !important;
+    color: #468b94 !important; /* Matches CEPH logo color */
+    line-height: 15px !important;
+    text-align: center !important;
+  }
+
 }
 
 /* --- Desktop Navigation Links: Active Page Indicator --- */
