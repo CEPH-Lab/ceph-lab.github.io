@@ -109,12 +109,12 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
-  <a href="https://doi.org/10.48550/arXiv.2508.13354" target="_blank" class="pub-title">VIBES: A Multi-Scale Modeling
+  <a href="https://doi.org/10.1073/pnas.2523055123" target="_blank" class="pub-title">VIBES: A Multi-Scale Modeling
     Approach Integrating Within-Host and Between-Hosts Dynamics in Epidemics</a>
   <p class="pub-authors">Ventura P. C., Jeong Y. D., Litvinova M., Kummer A. G., Iwami S., 
     Yu H., Merler S., Vespignani A., Ejima K., Ajelli M.</p>
   <p class="pub-journal"><em>Proceedings of the National Academy of Sciences of the United States of 
-    America</em>, In press (2026)</p>
+    America</em> 123 (13), e2523055123 (2026)</p>
 </div>
 
 <div class="pub-entry">
