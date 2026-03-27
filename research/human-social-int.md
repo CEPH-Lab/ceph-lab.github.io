@@ -137,7 +137,7 @@ permalink: /research/human-social-behavior/
         Vespignani A, Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1101/2025.11.20.25340662" style="color: #508c96">
         Epistorm-Mix: Mapping Social Contact Patterns for Respiratory Pathogen Spread in the Post-Pandemic 
-        United States.</a></em> Preprint available online at medRxiv. 2025</p>
+        United States.</a></em> Preprint available online on medRxiv. 2025</p>
       </div>
     </li>
     <li>
@@ -146,7 +146,7 @@ permalink: /research/human-social-behavior/
         Mutebi JP, Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1101/2024.05.29.24308139" style="color: #508c96">
         Unveiling the role of mosquito and human diel activity patterns in the risk of mosquito-borne disease
-        infection.</a></em> Preprint available online at medRxiv. 2024</p>
+        infection.</a></em> Preprint available online on medRxiv. 2024</p>
       </div>
     </li>
   </ul>

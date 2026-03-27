@@ -129,7 +129,7 @@ permalink: /research/infectious-disease-dynamics/
         Ajelli M.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.48550/arXiv.2508.13354" style="color: #508c96">
         VIBES: A Multi-Scale Modeling Approach Integrating Within-Host and Between-Hosts Dynamics in Epidemics.</a>
-        </em> Proceedings of the National Academy of Sciences. 2026;In press, Preprint available online at arXiv.</p>
+        </em> Proceedings of the National Academy of Sciences. 2026;123 (13):e2523055123</p>
       </div>
     </li>
     <li>

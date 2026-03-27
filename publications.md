@@ -89,7 +89,7 @@ permalink: /publications/
   <p class="pub-authors">Chitturi J., Ventura P. C., Kummer A. G., Vasquez C., SeRine E., 
     Hill M. D., Manica M., Poletti P., Beier J. C., Ejima K., Johansson M., Merler S., 
     Yu H., Mutebi J.-P., Litvinova M., Wilke A. B. B., Ajelli M.</p>
-  <p class="pub-journal">Preprint available at <em>bioRxiv</em> (2026)</p>
+  <p class="pub-journal">Preprint available on <em>bioRxiv</em> (2026)</p>
 </div>
 
 <div class="pub-entry">
@@ -158,7 +158,7 @@ permalink: /publications/
     Social Contact Patterns for Respiratory Pathogen Spread in the Post-Pandemic United States</a>
   <p class="pub-authors">Litvinova M., Sinclair S., Kummer A. G., Ventura P. C., Foster T., 
     Shioda K., Halloran M. E., Vespignani A., Ajelli M.</p>
-  <p class="pub-journal">Preprint available at <em>medRxiv</em> (2025)</p>
+  <p class="pub-journal">Preprint available on <em>medRxiv</em> (2025)</p>
 </div>
 
 <div class="pub-entry">
@@ -176,7 +176,7 @@ permalink: /publications/
   <p class="pub-authors">Mhade S., Bhosekar U., Hill M. D., Sinclair S., Agrawal S., 
     Guerrini J., Zou L., Koebcke A., Kummer A. G., Ventura P. C., Del Valle S. Y., 
     Chinazzi M., Litvinova M., Vespignani A., Ajelli M.</p>
-  <p class="pub-journal">Preprint available at <em>SSRN</em> (2025)</p>
+  <p class="pub-journal">Preprint available on <em>SSRN</em> (2025)</p>
 </div>
 
 <div class="pub-entry">
@@ -184,7 +184,7 @@ permalink: /publications/
     of <em>Aedes aegypti</em> and <em>Culex quinquefasciatus</em> populations in Miami-Dade County, Florida</a>
   <p class="pub-authors">Vasquez C., Multini L. C., Mutebi J.-P., SeRine E., Hill M. D., 
     Litvinova M., Ajelli M., Wilke A. B. B.</p>
-  <p class="pub-journal">Preprint available at <em>bioRxiv</em> (2025)</p>
+  <p class="pub-journal">Preprint available on <em>bioRxiv</em> (2025)</p>
 </div>
 
 <div class="pub-entry">
@@ -409,7 +409,7 @@ permalink: /publications/
     mosquito and human diel activity patterns in the risk of mosquito-borne disease infection</a>
   <p class="pub-authors">Ventura P. C., Wilke A. B. B., Chitturi J., Kummer A. G., 
     Agrawal S., Vasquez C., Gonzalez Y., Litvinova M., Mutebi J.-P., Ajelli M.</p>
-  <p class="pub-journal">Preprint available at <em>medRxiv</em> (2024)</p>
+  <p class="pub-journal">Preprint available on <em>medRxiv</em> (2024)</p>
 </div>
 
 <div class="pub-entry">
@@ -551,7 +551,7 @@ permalink: /publications/
     socio-economic determinants of mosquito vector species presence and abundance in Los Angeles County, California</a>
   <p class="pub-authors">Hill M., Wilke A. B. B., Fuller D. O., Kummer A. G., Ventura P. C., 
     Beier J. C., Kluh S., Vetrone S., Litvinova M., Ajelli M.</p>
-  <p class="pub-journal">Preprint available at <em>Research Square</em> (2023)</p>
+  <p class="pub-journal">Preprint available on <em>Research Square</em> (2023)</p>
 </div>
 
 <div class="pub-entry">
@@ -873,7 +873,7 @@ permalink: /publications/
     SARS-CoV-2 herd immunity threshold in populations with individual contact pattern variations</a>
   <p class="pub-authors">Lu D., Aleta A., Ajelli M., Pastor-Satorras R., Vespignani A., 
     Moreno Y.</p>
-  <p class="pub-journal">Preprint available at <em>medRxiv</em> (2021)</p>
+  <p class="pub-journal">Preprint available on <em>medRxiv</em> (2021)</p>
 </div>
 
 <div class="pub-entry">
@@ -1040,7 +1040,7 @@ permalink: /publications/
     Bella A., Andrianou X., Del Manso M., Fabiani M., Bellino S., Boros S., 
     Mateo Urdiales A., Vescio M. F., Brusaferro S., Rezza G., Pezzotti P., Ajelli M., 
     Merler S., Vineis P., Pedreschi D.</p>
-  <p class="pub-journal">Preprint available at <em>arXiv</em> (2020)</p>
+  <p class="pub-journal">Preprint available on <em>arXiv</em> (2020)</p>
 </div>
 
 <div class="pub-entry">
