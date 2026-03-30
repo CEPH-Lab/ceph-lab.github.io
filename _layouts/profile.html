@@ -6,16 +6,17 @@ layout: default
   .profile-banner {
     display: flex;
     width: 100vw;
-    height: 400px;
+    /* REMOVED: height: 400px; so the image decides the height */
     margin-left: calc(-50vw + 50%);
     margin-top: -30px;
     margin-bottom: 60px;
+    align-items: stretch;
   }
 
   .banner-text {
     width: 60%;           /* Changed from 50% */
     flex: 0 0 60%;        /* Changed from 50% */
-    background-color: #508c96;
+    background-color: #468b94;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -52,12 +53,18 @@ layout: default
 
   /* The Photo Side */
   .banner-photo {
-    width: 40%;           /* Changed from 50% */
-    flex: 0 0 40%;        /* Changed from 50% */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    width: 40%;
+    flex: 0 0 40%;
     background-color: #ffffff;
+  }
+
+  /* The Profile Image */
+  .banner-photo img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    object-position: top center;
   }
 
   /* --- Bio & Contact Section --- */
@@ -171,7 +178,7 @@ layout: default
     .banner-photo {
       width: 100%;
       flex: none;
-      height: 400px;
+      /* REMOVED height: 400px here too! */
     }
     .profile-body {
       flex-direction: column;
@@ -189,7 +196,9 @@ layout: default
     <h1>{{ page.title }}</h1>
     <div class="banner-role">{{ page.role }}</div>
   </div>
-  <div class="banner-photo" style="background-image: url('{{ page.image | relative_url }}');"></div>
+  <div class="banner-photo">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+  </div>
 </div>
 
 <div class="profile-body">
