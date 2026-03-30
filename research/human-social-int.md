@@ -81,9 +81,9 @@ permalink: /research/human-social-behavior/
 </div>
 
 <div class="project-body">
-  <!--
-  <img src="/images/research/human-social-beh/Fig01.png" alt="Social Contacts" class="figure-right">
-  -->
+ 
+  <img src="/images/research/human-social-int/Fig01.png" alt="Social Contacts" class="figure-right">
+  
 
   <h3 style="color: #508c96">Why Human Social Behavior?</h3>
   <p>Transmission is not just a biological event; it is a social one. Whether a respiratory pathogen spreads or

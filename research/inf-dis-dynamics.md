@@ -81,6 +81,9 @@ permalink: /research/infectious-disease-dynamics/
 </div>
 
 <div class="project-body">
+
+  <img src="/images/research/inf-dis-dynamics/Fig01.png" alt="Seasonality" class="figure-right">
+
 <h3 style="color: #508c96">Why Infectious Disease Dynamics?</h3>
   <p>Understanding infectious disease dynamics requires disentangling the biological and social processes that drive
     spread. By investigating how individual-level factors (e.g., viral replication and clinical progression, social

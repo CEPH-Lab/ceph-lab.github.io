@@ -81,9 +81,9 @@ permalink: /research/mosquito-ecology-and-behavior/
 </div>
 
 <div class="project-body">
-<!--
-  <img src="/images/research/human-social-beh/Fig01.png" alt="Social Contacts" class="figure-right">
-  -->
+
+  <img src="/images/research/mosq-proj/Fig01.png" alt="West Nile Virus in Maricopa, AZ" class="figure-right">
+  
 
   <h3 style="color: #508c96">Why Mosquito Ecology and Behavior?</h3>
   <p>Pathogen transmission does not occur in a vacuum; it is the result of a complex interplay between humans,
