@@ -59,16 +59,18 @@ permalink: /people/
   
   /* One Font Size for everyone */
   .profile-card h4 {
-    margin: 0 0 5px 0;
-    color: #508c96;
-    font-size: 2em; 
+    margin: 0 0 4px 0; 
+    color: #2b2b2b; 
+    font-size: 1.3em; 
+    font-weight: 600; 
   }
 
   .profile-card p {
     margin: 0;
-    font-size: 1.5em;
-    color: #555;
+    font-size: 0.95em; 
+    color: #666666; 
     line-height: 1.4;
+    font-weight: 400;
   }
 
   /* Alumni Section */
