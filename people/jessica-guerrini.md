@@ -4,7 +4,7 @@ title: Jessica Guerrini
 role: Graduate Research Assistant
 email: jessguerrini24@gmail.com
 scholar: https://scholar.google.com/citations?user=Y_9slWsAAAAJ&hl=en&oi=ao
-image: /images/people/jessica-guerrini.jpg
+image: /images/people/jessica-guerrini.png
 permalink: /people/jessica-guerrini/
 ---
 

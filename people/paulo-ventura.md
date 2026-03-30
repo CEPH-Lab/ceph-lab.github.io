@@ -4,7 +4,7 @@ title: Paulo C. Ventura
 role: Postdoctoral Researcher
 email: pventura@iu.edu
 scholar: https://scholar.google.com/citations?user=LNQ26BcAAAAJ&hl
-image: /images/people/paulo-ventura.jpg
+image: /images/people/paulo-ventura.png
 permalink: /people/paulo-ventura/
 ---
 

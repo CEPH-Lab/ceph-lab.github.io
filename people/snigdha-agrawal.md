@@ -3,7 +3,7 @@ layout: profile
 title: Snigdha Agrawal
 role: Graduate Research Assistant
 email: snagrawa@iu.edu
-image: /images/people/snigdha-agrawal.jpg
+image: /images/people/snigdha-agrawal.png
 permalink: /people/snigdha-agrawal/
 ---
 

@@ -3,7 +3,7 @@ layout: profile
 title: Katie Pletz
 role: Graduate Research Assistant
 email: pletzkatie@gmail.com
-image: /images/people/katie-pletz.jpg
+image: /images/people/katie-pletz.png
 permalink: /people/katie-pletz/
 ---
 

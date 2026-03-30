@@ -5,80 +5,90 @@ permalink: /people/
 ---
 
 <style>
-  /* Style for the PI at the top */
-  .pi-profile {
-    display: flex;
-    align-items: center;
-    margin-bottom: 50px;
-    margin-top: 30px;
+  /* Main Grid Container */
+  .people-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Forces 3 profiles per row on desktop */
+    gap: 50px 30px; 
+    margin-top: 40px;
   }
   
-  .pi-profile a {
-    display: block; 
-    margin-right: 30px;
-    transition: transform 0.3s ease; /* Smooth hover animation on the image */
+  /* Tablet View: Drops to 2 per row */
+  @media screen and (max-width: 900px) {
+    .people-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .alumni-list {
+      grid-template-columns: repeat(2, 1fr); /* Keeps alumni list from squishing */
+    }
   }
 
-  .pi-profile a:hover {
-    transform: translateY(-5px); /* Lifts the photo slightly when hovered */
+  /* Mobile Phone View: Drops to 1 per row */
+  @media screen and (max-width: 600px) {
+    .people-grid, .alumni-list {
+      grid-template-columns: 1fr;
+    }
   }
 
-  .pi-profile img {
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
-    object-fit: cover; 
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
-    display: block;
-  }
-
-  .pi-profile h2 {
-    margin-top: 0; 
-    border-bottom: none;
-    color: #2b2b2b;
-  }
-  
-  /* Style for the grid of team members */
-  .team-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 40px;
-    justify-content: flex-start;
-  }
-  
-  .team-member {
+  /* Individual Profile */
+  .profile-card {
     text-align: center;
-    width: 180px;
+    width: 100%; 
   }
 
-  .team-member a {
+  .profile-card a {
     display: inline-block;
     transition: transform 0.3s ease;
+    width: 100%;
+    text-decoration: none;
   }
 
-  .team-member a:hover {
+  .profile-card a:hover {
     transform: translateY(-5px);
   }
 
-  .team-member img {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
+  .profile-card img {
+    border-radius: 4px;
+    width: 100%;
+    aspect-ratio: 5 / 4; 
     object-fit: cover;
     margin-bottom: 15px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     display: block;
   }
   
-  .team-member h4 {
+  /* One Font Size for everyone */
+  .profile-card h4 {
     margin: 0 0 5px 0;
-    color: #2b2b2b;
+    color: #508c96;
+    font-size: 2em; 
   }
 
-  .team-member p {
+  .profile-card p {
     margin: 0;
-    font-size: 0.9em;
+    font-size: 1.5em;
     color: #555;
+    line-height: 1.4;
+  }
+
+  /* Alumni Section */
+  .alumni-section {
+    margin-top: 70px;
+  }
+  
+  .alumni-section h2 {
+    border-bottom: 2px solid #508c96;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+
+  .alumni-list {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 16px;
+    line-height: 1.8;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Makes alumni 3-cols on desktop */
   }
 </style>
 
@@ -89,69 +99,67 @@ permalink: /people/
   <div class="banner-right"></div>
 </div>
 
-<div class="pi-profile">
-  <a href="{{ '/people/marco-ajelli/' | relative_url }}">
-    <img src="/images/people/marco-ajelli.jpg" alt="Marco Ajelli">
-  </a>
-  <div>
-    <h2>Marco Ajelli</h2>
-    <p><strong>Professor</strong></p>
+<div class="people-grid">
+
+  <div class="profile-card">
+    <a href="{{ '/people/marco-ajelli/' | relative_url }}">
+      <img src="/images/people/marco-ajelli.png" alt="Marco Ajelli">
+    </a>
+    <h4>Marco Ajelli</h4>
+    <p>Professor</p>
   </div>
-</div>
 
-<div class="team-grid">
-
-  <div class="team-member">
+  <div class="profile-card">
     <a href="{{ '/people/paulo-ventura/' | relative_url }}">
-      <img src="/images/people/paulo-ventura.jpg" alt="Paulo Ventura">
+      <img src="/images/people/paulo-ventura.png" alt="Paulo Ventura">
     </a>
     <h4>Paulo Ventura</h4>
     <p>Postdoctoral Researcher</p>
   </div>
   
-  <div class="team-member">
+  <div class="profile-card">
     <a href="{{ '/people/allisandra-kummer/' | relative_url }}">
-      <img src="/images/people/allisandra-kummer.jpg" alt="Allisandra G. Kummer">
+      <img src="/images/people/allisandra-kummer.png" alt="Allisandra G. Kummer">
     </a>
     <h4>Allisandra G. Kummer</h4>
     <p>Postdoctoral Researcher</p>
   </div>
   
-  <div class="team-member">
+  <div class="profile-card">
     <a href="{{ '/people/shreeya-mhade/' | relative_url }}">
-      <img src="/images/people/shreeya-mhade.jpg" alt="Shreeya Mhade">
+      <img src="/images/people/shreeya-mhade.png" alt="Shreeya Mhade">
     </a>
     <h4>Shreeya Mhade</h4>
     <p>PhD Candidate</p>
   </div>
 
-  <div class="team-member">
+  <div class="profile-card">
     <a href="{{ '/people/utkarsh-bhosekar/' | relative_url }}">
-      <img src="/images/people/utkarsh-bhosekar.jpg" alt="Utkarsh Bhosekar">
+      <img src="/images/people/utkarsh-bhosekar.png" alt="Utkarsh Bhosekar">
     </a>
     <h4>Utkarsh Bhosekar</h4>
     <p>Data Analyst</p>
   </div>
 
-  <div class="team-member">
+  <div class="profile-card">
     <a href="{{ '/people/jessica-guerrini/' | relative_url }}">
-      <img src="/images/people/jessica-guerrini.jpg" alt="Jessica Guerrini">
+      <img src="/images/people/jessica-guerrini.png" alt="Jessica Guerrini">
     </a>
     <h4>Jessica Guerrini</h4>
     <p>Graduate Research Assistant</p>
   </div>
 
-  <div class="team-member">
+  <div class="profile-card">
     <a href="{{ '/people/katie-pletz/' | relative_url }}">
-      <img src="/images/people/katie-pletz.jpg" alt="Katie Pletz">
+      <img src="/images/people/katie-pletz.png" alt="Katie Pletz">
     </a>
     <h4>Katie Pletz</h4>
     <p>Graduate Research Assistant</p>
   </div>
 
-  <div class="team-member">
+  <div class="profile-card">
     <a href="{{ '/people/snigdha-agrawal/' | relative_url }}">
-      <img src="/images/people/snigdha-agrawal.jpg" alt="Snigdha Agrawal">
+      <img src="/images/people/snigdha-agrawal.png" alt="Snigdha Agrawal">
     </a>
     <h4>Snigdha Agrawal</h4>
     <p>Graduate Research Assistant</p>
@@ -159,10 +167,9 @@ permalink: /people/
 
 </div>
 
-<div style="margin-top: 70px;">
-  <h2 style="border-bottom: 2px solid #508c96; padding-bottom: 10px; margin-bottom: 20px;">Lab Alumni</h2>
-  
-  <ul style="list-style-type: none; padding-left: 0; font-size: 16px; line-height: 1.8;">
+<div class="alumni-section">
+  <h2>Lab Alumni</h2>
+  <ul class="alumni-list">
     <li>Luling Zou</li>
     <li>Megan Hill</li>
     <li>Anna Koebcke</li>

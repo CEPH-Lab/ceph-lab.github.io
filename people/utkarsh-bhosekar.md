@@ -4,7 +4,7 @@ title: Utkarsh Bhosekar
 role: Data Analyst
 email: utkarsh0708@gmail.com
 scholar: https://scholar.google.com/citations?user=frrQLDgAAAAJ&hl=en&oi=ao
-image: /images/people/utkarsh-bhosekar.jpg
+image: /images/people/utkarsh-bhosekar.png
 permalink: /people/utkarsh-bhosekar/
 ---
 

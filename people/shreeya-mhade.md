@@ -4,7 +4,7 @@ title: Shreeya Mhade
 role: PhD Candidate
 email: shreeya.mhade@gmail.com
 scholar: https://scholar.google.com/citations?user=hGt2mCAAAAAJ&hl=en
-image: /images/people/shreeya-mhade.jpg
+image: /images/people/shreeya-mhade.png
 permalink: /people/shreeya-mhade/
 ---
 

@@ -4,7 +4,7 @@ title: Allisandra G. Kummer
 role: Postdoctoral Researcher
 email: allisandra.potts@gmail.com
 scholar: https://scholar.google.com/citations?user=fKdkcYgAAAAJ&hl=en&oi=ao
-image: /images/people/allisandra-kummer.jpg
+image: /images/people/allisandra-kummer.png
 permalink: /people/allisandra-kummer/
 ---
 
