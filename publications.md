@@ -391,16 +391,20 @@ permalink: /publications/
   <a href="https://doi.org/10.1038/s41467-024-50601-9" target="_blank" class="pub-title">Evaluation of FluSight
     influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza 
     hospitalizations</a>
-  <p class="pub-authors">Mathis S. M., Webber A. E., León T. M., Murray E. L., Sun M., 
-    White L. A., Brooks L. C., Green A., Hu A. J., Rosenfeld R., Shemetov D., 
-    Tibshirani R. J., McDonald D. J., Kandula S., Pei S., Yaari R., Yamana T. K., 
-    Shaman J., Agarwal P., Balusu S., Gururajan G., Kamarthi H., 
-    Prakash B. A., Raman R., Zhao Z., Rodríguez A., Meiyappan A., Omar S., 
-    Baccam P., Gurung H. L., Suchoski B. T., Stage S. A., Ajelli M., Kummer A. G., 
-    Litvinova M., Ventura P. C., Wadsworth S., Niemi J., Carcelen E., Hill A. L., 
-    Loo S. L., McKee C. D., Sato K., Smith C., Truelove S., Jung S.-m., Lemaitre J. C., 
-    Lessler J., McAndrew T., Ye W., Bosse N., Hlavacek W. S., Lin Y. T., Mallela A., 
-    Gibson G. C., Chen Y., Lamm S. M., Lee J., Posner R. G.</p>
+  <p class="pub-authors">Mathis S. M., Webber A. E., León T. M., Murray E. L., Sun M., White L. A., Brooks L. C.,
+    Green A., Hu A. J., Rosenfeld R., Shemetov D., Tibshirani R. J., McDonald D. J., Kandula S., Pei S., Yaari R.,
+    Yamana T. K., Shaman J., Agarwal P., Balusu S., Gururajan G., Kamarthi H., Prakash B. A., Raman R., Zhao Z.,
+    Rodríguez A., Meiyappan A., Omar S., Baccam P., Gurung H. L., Suchoski B. T., Stage S. A., Ajelli M.,
+    Kummer A. G., Litvinova M., Ventura P. C., Wadsworth S., Niemi J., Carcelen E., Hill A. L., Loo S. L.,
+    McKee C. D., Sato K., Smith C., Truelove S., Jung S. M., Lemaitre J. C., Lessler J., McAndrew T., Ye W.,
+    Bosse N., Hlavacek W. S., Lin Y. T., Mallela A., Gibson G. C., Chen Y., Lamm S. M., Lee J., Posner R. G.,
+    Perofsky A. C., Viboud C., Clemente L., Lu F., Meyer A. G., Santillana M., Chinazzi M., Davis J. T., Mu K.,
+    Pastore Y Piontti A., Vespignani A., Xiong X., Ben-Nun M., Riley P., Turtle J., Hulme-Lowe C., Jessa S.,
+    Nagraj V. P., Turner S. D., Williams D., Basu A., Drake J. M., Fox S. J., Suez E., Cojocaru M. G.,
+    Thommes E. W., Cramer E. Y., Gerding A., Stark A., Ray E. L., Reich N. G., Shandross L., Wattanachit N.,
+    Wang Y., Zorn M. W., Aawar M. A., Srivastava A., Meyers L. A., Adiga A., Hurt B., Kaur G., Lewis B. L.,
+    Marathe M., Venkatramanan S., Butler P., Farabow A., Ramakrishnan N., Muralidhar N., Reed C., Biggerstaff M.,
+    Borchering R. K.</p>
   <p class="pub-journal"><em>Nature Communications</em> 15, 6289 (2024)</p>
 </div>
 
