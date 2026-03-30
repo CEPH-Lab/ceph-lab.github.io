@@ -146,17 +146,17 @@ permalink: /research/situational-awareness/
     <li>
       <div class="citation-box">
         <p style="margin: 0; padding-bottom: 5px;">Mathis SM, Webber AE, León TM, Murray EL, Sun M, White LA,
-        Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, Tibshirani RJ, McDonald DJ, Kandula S, Pei S,
-        Yaari R, Yamana TK, Shaman J, Agarwal P, Balusu S, Gururajan G, Kamarthi H, Prakash BA, Raman R, Zhao Z,
-        Rodríguez A, Meiyappan A, Omar S, Baccam P, Gurung HL, Suchoski BT, Stage SA, Ajelli M, Kummer AG,
-        Litvinova M, Ventura PC, Wadsworth S, Niemi J, Carcelen E, Hill AL, Loo SL, McKee CD, Sato K,
-        Smith C, Truelove S, Jung S mok, Lemaitre JC, Lessler J, McAndrew T, Ye W, Bosse N, Hlavacek WS, Lin YT,
-        Mallela A, Gibson GC, Chen Y, Lamm SM, Lee J, Posner RG, Perofsky AC, Viboud C, Clemente L, Lu F, Meyer AG,
-        Santillana M, Chinazzi M, Davis JT, Mu K, Pastore Y Piontti A, Vespignani A, Xiong X, Ben-Nun M, Riley P,
-        Turtle J, Hulme-Lowe C, Jessa S, Nagraj VP, Turner SD, Williams D, Basu A, Drake JM, Fox SJ, Suez E,
-        Cojocaru MG, Thommes EW, Cramer EY, Gerding A, Stark A, Ray EL, Reich NG, Shandross L, Wattanachit N,
-        Wang Y, Zorn MW, Aawar MA, Srivastava A, Meyers LA, Adiga A, Hurt B, Kaur G, Lewis BL, Marathe M,
-        Venkatramanan S, Butler P, Farabow A, Ramakrishnan N, Muralidhar N, Reed C, Biggerstaff M, Borchering RK.</p>
+        Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, Tibshirani RJ, McDonald DJ, Kandula S, Pei S, Yaari R,
+        Yamana TK, Shaman J, Agarwal P, Balusu S, Gururajan G, Kamarthi H, Prakash BA, Raman R, Zhao Z, Rodríguez A,
+        Meiyappan A, Omar S, Baccam P, Gurung HL, Suchoski BT, Stage SA, Ajelli M, Kummer AG, Litvinova M, Ventura PC,
+        Wadsworth S, Niemi J, Carcelen E, Hill AL, Loo SL, McKee CD, Sato K, Smith C, Truelove S, Jung S mok,
+        Lemaitre JC, Lessler J, McAndrew T, Ye W, Bosse N, Hlavacek WS, Lin YT, Mallela A, Gibson GC, Chen Y, Lamm SM,
+        Lee J, Posner RG, Perofsky AC, Viboud C, Clemente L, Lu F, Meyer AG, Santillana M, Chinazzi M, Davis JT, Mu K,
+        Pastore Y Piontti A, Vespignani A, Xiong X, Ben-Nun M, Riley P, Turtle J, Hulme-Lowe C, Jessa S, Nagraj VP,
+        Turner SD, Williams D, Basu A, Drake JM, Fox SJ, Suez E, Cojocaru MG, Thommes EW, Cramer EY, Gerding A,
+        Stark A, Ray EL, Reich NG, Shandross L, Wattanachit N, Wang Y, Zorn MW, Aawar MA, Srivastava A, Meyers LA,
+        Adiga A, Hurt B, Kaur G, Lewis BL, Marathe M, Venkatramanan S, Butler P, Farabow A, Ramakrishnan N,
+        Muralidhar N, Reed C, Biggerstaff M, Borchering RK.</p>
         <p style="margin: 0;"><em><a href="https://doi.org/10.1038/s41467-024-50601-9" style="color: #508c96">
         Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target 
         laboratory-confirmed influenza hospitalizations.</a></em> Nat Commun. 2024;15(1):6289</p>
