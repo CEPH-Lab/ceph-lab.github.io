@@ -30,7 +30,7 @@ permalink: /people/
     }
     
     .alumni-list {
-      grid-template-columns: 1fr;
+      grid-template-columns: none;
     }
   }
 
