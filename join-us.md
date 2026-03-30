@@ -187,7 +187,7 @@ permalink: /join-us/
 <div class="opportunity-card">
   <h3 class="opportunity-title">Graduate Research</h3>
   <div class="opportunity-content">
-    <p class="opportunity-text">Current IU graduate students (MPH and MS) looking to conduct research, 
+    <p class="opportunity-text">Current IU graduate students (e.g., MS, MA, MPH) looking to conduct research, 
     complete an independent reading/research course, thesis opportunity, or fulfill practicum requirements 
     are encouraged to reach out. 
     Opportunities often involve working with statistical and/or mathematical models, data cleaning/preprocessing, and
@@ -203,7 +203,7 @@ permalink: /join-us/
   <div class="opportunity-content">
     <p class="opportunity-text">Undergraduates seeking research opportunities and internships are encouraged to 
     reach out. We also provide the opportunity to gain credits through, for example, 
-    <strong>SPH-E 493: Independent Study in Epidemiology</strong> (1-3 credits). Undergraduate students 
+    SPH-E 493: Independent Study in Epidemiology (1-3 credits). Undergraduate students 
     assist with ongoing data analysis, literature reviews, and foundational modeling projects to build 
     quantitative skills for future careers in academia and public health.</p>
     <p class="opportunity-text"><em>For inquiries regarding the internship, please get in touch with Dr. Ajelli.</em></p>
