@@ -81,9 +81,9 @@ permalink: /research/public-health-planning/
 </div>
 
 <div class="project-body">
-<!--
-  <img src="/images/research/ph-planning/Fig01.png" alt="VIBES Framework" class="figure-right">
--->
+
+  <img src="/images/research/ph-planning/Fig01.png" alt="Ebola cases and averted cases" class="figure-right">
+
 
   <h3 style="color: #508c96">Why Public Health Planning?</h3>
   <p>Whether responding to an emerging epidemic or managing endemic diseases, policymakers often grapple with
