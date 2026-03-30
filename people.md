@@ -25,7 +25,11 @@ permalink: /people/
 
   /* Mobile Phone View: Drops to 1 per row */
   @media screen and (max-width: 600px) {
-    .people-grid, .alumni-list {
+    .people-grid {
+      grid-template-columns: 1fr;
+    }
+    
+    .alumni-list {
       grid-template-columns: 1fr;
     }
   }
