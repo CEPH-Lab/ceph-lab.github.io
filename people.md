@@ -94,7 +94,7 @@ permalink: /people/
     font-size: 16px;
     line-height: 1.8;
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Makes alumni 3-cols on desktop */
+    grid-template-columns: none; /* Makes alumni 3-cols on desktop */
   }
 </style>
 
