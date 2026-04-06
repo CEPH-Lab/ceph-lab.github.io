@@ -84,6 +84,14 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="https://doi.org/10.1101/2025.10.01.679884" target="_blank" class="pub-title">Spatiotemporal Dynamics
+    of <em>Aedes aegypti</em> and <em>Culex quinquefasciatus</em> populations in Miami-Dade County, Florida</a>
+  <p class="pub-authors">Vasquez C., Multini L. C., Mutebi J.-P., SeRine E., Hill M. D., 
+    Litvinova M., Ajelli M., Wilke A. B. B.</p>
+  <p class="pub-journal"><em>PLoS One</em>, In press (2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.1101/2025.11.05.686816" target="_blank" class="pub-title">IRIS, a modeling tool for the
     in-silico evaluation of mosquito control trial designs based on inundative releases</a>
   <p class="pub-authors">Chitturi J., Ventura P. C., Kummer A. G., Vasquez C., SeRine E., 
@@ -166,7 +174,7 @@ permalink: /publications/
     Python package for epidemic modeling with integrated approximate Bayesian calibration</a>
   <p class="pub-authors">Gozzi N., Chinazzi M., Davis J. T., Gioannini C., Rossi L., Ajelli M., 
     Perra N., Vespignani A.</p>
-  <p class="pub-journal"><em>PLOS Computational Biology</em> 21 (11), e1013735 (2025)</p>
+  <p class="pub-journal"><em>PLoS Computational Biology</em> 21 (11), e1013735 (2025)</p>
 </div>
 
 <div class="pub-entry">
@@ -177,14 +185,6 @@ permalink: /publications/
     Guerrini J., Zou L., Koebcke A., Kummer A. G., Ventura P. C., Del Valle S. Y., 
     Chinazzi M., Litvinova M., Vespignani A., Ajelli M.</p>
   <p class="pub-journal">Preprint available on <em>SSRN</em> (2025)</p>
-</div>
-
-<div class="pub-entry">
-  <a href="https://doi.org/10.1101/2025.10.01.679884" target="_blank" class="pub-title">Spatiotemporal Dynamics
-    of <em>Aedes aegypti</em> and <em>Culex quinquefasciatus</em> populations in Miami-Dade County, Florida</a>
-  <p class="pub-authors">Vasquez C., Multini L. C., Mutebi J.-P., SeRine E., Hill M. D., 
-    Litvinova M., Ajelli M., Wilke A. B. B.</p>
-  <p class="pub-journal">Preprint available on <em>bioRxiv</em> (2025)</p>
 </div>
 
 <div class="pub-entry">
@@ -681,7 +681,7 @@ permalink: /publications/
     six months of COVID-19 vaccination campaign in Italy</a>
   <p class="pub-authors">Gozzi N., Chinazzi M., Davis J. T., Mu K., Pastore y Piontti A., 
     Ajelli M., Perra N., Vespignani A.</p>
-  <p class="pub-journal"><em>PLOS Computational Biology</em> 18 (5), e1010146 (2022)</p>
+  <p class="pub-journal"><em>PLoS Computational Biology</em> 18 (5), e1010146 (2022)</p>
 </div>
 
 <div class="pub-entry">
@@ -971,7 +971,7 @@ permalink: /publications/
     Sichuan, China: Epidemiology and impact of interventions</a>
   <p class="pub-authors">Liu Q.-H., Bento A. I., Yang K., Zhang H., Yang X., Merler S., 
     Vespignani A., Lv J., Yu H., Zhang W., Zhou T., Ajelli M.</p>
-  <p class="pub-journal"><em>Plos Computational Biology</em> 16 (12), e1008467 (2020)</p>
+  <p class="pub-journal"><em>PLoS Computational Biology</em> 16 (12), e1008467 (2020)</p>
 </div>
 
 <div class="pub-entry">
@@ -1070,7 +1070,7 @@ permalink: /publications/
     slowing down in high-dimensional epidemiological systems</a>
   <p class="pub-authors">Brett T., Ajelli M., Liu Q.-H., Krauland M. G., Grefenstette J. J., 
     van Panhuis W. G., Vespignani A., Drake J. M., Rohani P.</p>
-  <p class="pub-journal"><em>Plos Computational Biology</em> 16 (3), e1007679 (2020)</p>
+  <p class="pub-journal"><em>PLoS Computational Biology</em> 16 (3), e1007679 (2020)</p>
 </div>
 
 <div class="pub-entry">
