@@ -84,6 +84,15 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="https://doi.org/10.64898/2026.04.03.26350141" target="_blank" class="pub-title">Host Factors Modulate
+    Nirmatrelvir–Ritonavir Efficacy in COVID-19 Patients: A Viral Dynamics Modeling Study</a>
+  <p class="pub-authors">Liao Y., Wang Y., Wang Y., Ai J., Law B. K., Lim D., Zhou J., Wang H., Wu Y., Chia P. Y.,
+    Chua H. K., Chan C. E. Z., Schiffer J. T., Owens K., Esmaeili S., Cowling B. J., Cove M. E., Saito H., Wee L. E.,
+    Young B. E., Ng T. M., Chan E. C. Y., Ajelli M., Zhang W., Yu H., Ejima K.</p>
+  <p class="pub-journal">Preprint available on <em>medRxiv</em> (2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.1101/2025.10.01.679884" target="_blank" class="pub-title">Spatiotemporal Dynamics
     of <em>Aedes aegypti</em> and <em>Culex quinquefasciatus</em> populations in Miami-Dade County, Florida</a>
   <p class="pub-authors">Vasquez C., Multini L. C., Mutebi J.-P., SeRine E., Hill M. D., 
