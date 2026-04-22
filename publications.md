@@ -118,11 +118,11 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
-  <a href="https://doi.org/10.20944/preprints202410.1054.v1" target="_blank" class="pub-title">Mosquito‐Borne 
+  <a href="https://doi.org/10.1007/s10340-026-02042-0" target="_blank" class="pub-title">Mosquito‐Borne 
     Disease among Individuals Experiencing Homelessness in the United States: A Literature Review</a>
   <p class="pub-authors">Wilke A. B. B., Hill M., Kummer A., Vasquez C., Mutebi J.-P., Huo X., 
     Li H., Chen J., Ruan S., Beier J., Litvinova M., Byrne T., Ajelli M.</p>
-  <p class="pub-journal"><em>Journal of Pest Science</em>, In press (2026)</p>
+  <p class="pub-journal"><em>Journal of Pest Science</em> 99, 69 (2026)</p>
 </div>
 
 <div class="pub-entry">
