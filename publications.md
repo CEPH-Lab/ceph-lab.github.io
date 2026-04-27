@@ -93,11 +93,11 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
-  <a href="https://doi.org/10.1101/2025.10.01.679884" target="_blank" class="pub-title">Spatiotemporal Dynamics
+  <a href="https://doi.org/10.1371/journal.pone.0334586" target="_blank" class="pub-title">Spatiotemporal Dynamics
     of <em>Aedes aegypti</em> and <em>Culex quinquefasciatus</em> populations in Miami-Dade County, Florida</a>
   <p class="pub-authors">Vasquez C., Multini L. C., Mutebi J.-P., SeRine E., Hill M. D., 
     Litvinova M., Ajelli M., Wilke A. B. B.</p>
-  <p class="pub-journal"><em>PLoS One</em>, In press (2026)</p>
+  <p class="pub-journal"><em>PLoS One</em> 21(4), e0334586 (2026)</p>
 </div>
 
 <div class="pub-entry">
