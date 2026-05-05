@@ -135,7 +135,7 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
-  <a href="https://doi.org/10.48550/arXiv.2412.18549" target="_blank" class="pub-title"> Implications for distancing
+  <a href="https://doi.org/10.1038/s43856-026-01543-4" target="_blank" class="pub-title"> Implications for distancing
     measures on in-person school and work attendance from Italian post-pandemic social contact data</a>
   <p class="pub-authors">Lucchini L., Marziano V., Trentini F., Chiavenna C., 
     D’Agnese E., Offeddu V., Manica M., Poletti P., Balsamo D., Guzzetta G., 
