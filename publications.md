@@ -84,6 +84,14 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="" target="_blank" class="pub-title">Global source-sink dynamics of dengue viruses and epidemic
+    establishment in areas on the fringe of endemic transmission</a>
+  <p class="pub-authors">Chen Z., Giovanetti M., Madewell Z. J., Sun A. W., Li C., Yu H., Sun J., Jiang L.,
+    Qin P., Wu X., Ajelli M., Yu H.</p>
+  <p class="pub-journal"><em>National Science Review</em>, In press (2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.64898/2026.04.03.26350141" target="_blank" class="pub-title">Host Factors Modulate
     Nirmatrelvir–Ritonavir Efficacy in COVID-19 Patients: A Viral Dynamics Modeling Study</a>
   <p class="pub-authors">Liao Y., Wang Y., Wang Y., Ai J., Law B. K., Lim D., Zhou J., Wang H., Wu Y., Chia P. Y.,
