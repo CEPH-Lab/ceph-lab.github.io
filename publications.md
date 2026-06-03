@@ -84,6 +84,17 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="https://dx.doi.org/10.2139/ssrn.5736584" target="_blank" class="pub-title">Mapping the Landscape of 
+    Individual-Based Models for Respiratory Pathogen Transmission in the Pandemic and Post-Pandemic Era
+    (2020-2024): A Systematic Review</a>
+  <p class="pub-authors">Mhade S., Bhosekar U., Hill M. D., Sinclair S., Agrawal S., 
+    Guerrini J., Pletz K., Zou L., Koebcke A., Kummer A. G., Ventura P. C., Del Valle S. Y., 
+    Chinazzi M., Litvinova M., Vespignani A., Ajelli M.</p>
+  <p class="pub-journal"><em>Epidemics</em>, In press (2026)</p>
+</div>
+
+
+<div class="pub-entry">
   <a href="" target="_blank" class="pub-title">Global source-sink dynamics of dengue viruses and epidemic
     establishment in areas on the fringe of endemic transmission</a>
   <p class="pub-authors">Chen Z., Giovanetti M., Madewell Z. J., Sun A. W., Li C., Yu H., Sun J., Jiang L.,
@@ -192,16 +203,6 @@ permalink: /publications/
   <p class="pub-authors">Gozzi N., Chinazzi M., Davis J. T., Gioannini C., Rossi L., Ajelli M., 
     Perra N., Vespignani A.</p>
   <p class="pub-journal"><em>PLoS Computational Biology</em> 21 (11), e1013735 (2025)</p>
-</div>
-
-<div class="pub-entry">
-  <a href="https://dx.doi.org/10.2139/ssrn.5736584" target="_blank" class="pub-title">Mapping the Landscape of 
-    Individual-Based Models for Respiratory Pathogen Transmission in the Pandemic and Post-Pandemic Era
-    (2020-2024): A Systematic Review</a>
-  <p class="pub-authors">Mhade S., Bhosekar U., Hill M. D., Sinclair S., Agrawal S., 
-    Guerrini J., Zou L., Koebcke A., Kummer A. G., Ventura P. C., Del Valle S. Y., 
-    Chinazzi M., Litvinova M., Vespignani A., Ajelli M.</p>
-  <p class="pub-journal">Preprint available on <em>SSRN</em> (2025)</p>
 </div>
 
 <div class="pub-entry">
