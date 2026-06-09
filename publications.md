@@ -84,7 +84,7 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
-  <a href="https://dx.doi.org/10.2139/ssrn.5736584" target="_blank" class="pub-title">Mapping the Landscape of 
+  <a href="https://doi.org/10.1016/j.epidem.2026.100924" target="_blank" class="pub-title">Mapping the Landscape of 
     Individual-Based Models for Respiratory Pathogen Transmission in the Pandemic and Post-Pandemic Era
     (2020-2024): A Systematic Review</a>
   <p class="pub-authors">Mhade S., Bhosekar U., Hill M. D., Sinclair S., Agrawal S., 
