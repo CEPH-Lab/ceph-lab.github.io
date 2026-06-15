@@ -84,6 +84,14 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="https://doi.org/10.1101/2025.11.20.25340662" target="_blank" class="pub-title">Epistorm-Mix: Mapping
+    Social Contact Patterns for Respiratory Pathogen Spread in the Post-Pandemic United States</a>
+  <p class="pub-authors">Litvinova M., Sinclair S., Kummer A. G., Ventura P. C., Foster T., 
+    Shioda K., Halloran M. E., Vespignani A., Ajelli M.</p>
+  <p class="pub-journal"><em>Nature Health </em>, In press (2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.1016/j.epidem.2026.100924" target="_blank" class="pub-title">Mapping the Landscape of 
     Individual-Based Models for Respiratory Pathogen Transmission in the Pandemic and Post-Pandemic Era
     (2020-2024): A Systematic Review</a>
@@ -92,7 +100,6 @@ permalink: /publications/
     Chinazzi M., Litvinova M., Vespignani A., Ajelli M.</p>
   <p class="pub-journal"><em>Epidemics</em>, In press (2026)</p>
 </div>
-
 
 <div class="pub-entry">
   <a href="" target="_blank" class="pub-title">Global source-sink dynamics of dengue viruses and epidemic
@@ -133,7 +140,7 @@ permalink: /publications/
     Wastewater-Based and Case-Based Rt Estimates of SARS-CoV-2 Transmission in Georgia Using Generalized Linear
     Mixed Models</a>
   <p class="pub-authors">Edmunds S. H., Landsittel D., Ajelli M., Litvinova M.</p>
-  <p class="pub-journal"><em>Epidemiology & Infection</em>, In press (2026)</p>
+  <p class="pub-journal"><em>Epidemiology & Infection</em>, 154, e63 (2026)</p>
 </div>
 
 <div class="pub-entry">
@@ -159,7 +166,7 @@ permalink: /publications/
   <p class="pub-authors">Lucchini L., Marziano V., Trentini F., Chiavenna C., 
     D’Agnese E., Offeddu V., Manica M., Poletti P., Balsamo D., Guzzetta G., 
     Ajelli M., Melegaro A., Merler S.</p>
-  <p class="pub-journal"><em>Communications Medicine</em>, In press (2026)</p>
+  <p class="pub-journal"><em>Communications Medicine</em> (2026)</p>
 </div>
 
 <div class="pub-entry">
@@ -187,14 +194,6 @@ permalink: /publications/
     Ajelli M., Yu H.</p>
   <p class="pub-journal"><em>Proceedings of the National Academy of Sciences of the United States of 
     America</em> 122 (48), e2514157122 (2025)</p>
-</div>
-
-<div class="pub-entry">
-  <a href="https://doi.org/10.1101/2025.11.20.25340662" target="_blank" class="pub-title">Epistorm-Mix: Mapping
-    Social Contact Patterns for Respiratory Pathogen Spread in the Post-Pandemic United States</a>
-  <p class="pub-authors">Litvinova M., Sinclair S., Kummer A. G., Ventura P. C., Foster T., 
-    Shioda K., Halloran M. E., Vespignani A., Ajelli M.</p>
-  <p class="pub-journal">Preprint available on <em>medRxiv</em> (2025)</p>
 </div>
 
 <div class="pub-entry">
