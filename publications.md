@@ -98,7 +98,7 @@ permalink: /publications/
   <p class="pub-authors">Mhade S., Bhosekar U., Hill M. D., Sinclair S., Agrawal S., 
     Guerrini J., Pletz K., Zou L., Koebcke A., Kummer A. G., Ventura P. C., Del Valle S. Y., 
     Chinazzi M., Litvinova M., Vespignani A., Ajelli M.</p>
-  <p class="pub-journal"><em>Epidemics</em>, In press (2026)</p>
+  <p class="pub-journal"><em>Epidemics</em>, 56, 100924 (2026)</p>
 </div>
 
 <div class="pub-entry">
