@@ -98,7 +98,7 @@ permalink: /publications/
   <p class="pub-authors">Mhade S., Bhosekar U., Hill M. D., Sinclair S., Agrawal S., 
     Guerrini J., Pletz K., Zou L., Koebcke A., Kummer A. G., Ventura P. C., Del Valle S. Y., 
     Chinazzi M., Litvinova M., Vespignani A., Ajelli M.</p>
-  <p class="pub-journal"><em>Epidemics</em>, 56, 100924 (2026)</p>
+  <p class="pub-journal"><em>Epidemics</em> 56, 100924 (2026)</p>
 </div>
 
 <div class="pub-entry">
@@ -140,7 +140,7 @@ permalink: /publications/
     Wastewater-Based and Case-Based Rt Estimates of SARS-CoV-2 Transmission in Georgia Using Generalized Linear
     Mixed Models</a>
   <p class="pub-authors">Edmunds S. H., Landsittel D., Ajelli M., Litvinova M.</p>
-  <p class="pub-journal"><em>Epidemiology & Infection</em>, 154, e63 (2026)</p>
+  <p class="pub-journal"><em>Epidemiology & Infection</em> 154, e63 (2026)</p>
 </div>
 
 <div class="pub-entry">
@@ -175,7 +175,7 @@ permalink: /publications/
   <p class="pub-authors">Hua X., Alexander L. W., Claro I. M., Shao Y., de Jesus R., 
     de Lima S. T. S., Ventura P. C., Kato R. B., Ajelli M., Wilke A. B. B., 
     Suchard M. A., Faria N. R., Proenca-Modena J. L., Dickson L. B., Bento A. I., de Souza W. M.</p>
-  <p class="pub-journal"><em>Nature Health</em> (2026)</p>
+  <p class="pub-journal"><em>Nature Health</em> 1, 487–496 (2026)</p>
 </div>
 
 <div class="pub-entry">
