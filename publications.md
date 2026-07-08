@@ -84,6 +84,14 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href=" https://doi.org/10.64898/2026.07.03.736030" target="_blank" class="pub-title">Short-term forecasts of <i>Aedes
+    aegypti</i> relative abundance to enhance mosquito control situational awareness</a>
+  <p class="pub-authors">Bhosekar U., Ventura P. C., Hill M. D., Kummer A. G., Mhade S., Chitturi J., Vasquez C.,
+    Mutebi J., Townsend J., Litvinova M., Wilke A. B. B., Ajelli M.</p>
+  <p class="pub-journal">Preprint available on <em>bioRxiv</em> (2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.1101/2025.11.20.25340662" target="_blank" class="pub-title">Epistorm-Mix: Mapping
     Social Contact Patterns for Respiratory Pathogen Spread in the Post-Pandemic United States</a>
   <p class="pub-authors">Litvinova M., Sinclair S., Kummer A. G., Ventura P. C., Foster T., 
@@ -102,11 +110,11 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
-  <a href="" target="_blank" class="pub-title">Global source-sink dynamics of dengue viruses and epidemic
-    establishment in areas on the fringe of endemic transmission</a>
+  <a href="https://doi.org/10.1093/nsr/nwag372" target="_blank" class="pub-title">Global source-sink dynamics of dengue
+    viruses and epidemic establishment in areas on the fringe of endemic transmission</a>
   <p class="pub-authors">Chen Z., Giovanetti M., Madewell Z. J., Sun A. W., Li C., Yu H., Sun J., Jiang L.,
     Qin P., Wu X., Ajelli M., Yu H.</p>
-  <p class="pub-journal"><em>National Science Review</em>, In press (2026)</p>
+  <p class="pub-journal"><em>National Science Review</em> nwag372 (2026)</p>
 </div>
 
 <div class="pub-entry">
