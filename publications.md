@@ -84,7 +84,15 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
-  <a href=" https://doi.org/10.64898/2026.07.03.736030" target="_blank" class="pub-title">Short-term forecasts of <i>Aedes
+  <a href="https://doi.org/10.64898/2026.07.13.738234" target="_blank" class="pub-title">Temporal Variation in Mosquito
+    Vector Population Dynamics in Urban Areas</a>
+  <p class="pub-authors">Wang S., Carruth S. G., Vasquez C., Townsend J., Raman V., Mutebi J., Ajelli M., 
+    Wilke A. B. B.</p>
+  <p class="pub-journal">Preprint available on <em>bioRxiv</em> (2026)</p>
+</div>
+
+<div class="pub-entry">
+  <a href="https://doi.org/10.64898/2026.07.03.736030" target="_blank" class="pub-title">Short-term forecasts of <i>Aedes
     aegypti</i> relative abundance to enhance mosquito control situational awareness</a>
   <p class="pub-authors">Bhosekar U., Ventura P. C., Hill M. D., Kummer A. G., Mhade S., Chitturi J., Vasquez C.,
     Mutebi J., Townsend J., Litvinova M., Wilke A. B. B., Ajelli M.</p>
