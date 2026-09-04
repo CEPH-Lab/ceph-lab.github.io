@@ -116,18 +116,18 @@ permalink: /people/
   </div>
 
   <div class="profile-card">
-    <a href="{{ '/people/paulo-ventura/' | relative_url }}">
-      <img src="/images/people/paulo-ventura.png" alt="Paulo Ventura">
+    <a href="">
+      <img src="/images/people/pablo-valganon.png" alt="Pablo Valgañón">
     </a>
-    <h4>Paulo Ventura</h4>
+    <h4>Pablo Valgañón</h4>
     <p>Postdoctoral Researcher</p>
   </div>
-  
+
   <div class="profile-card">
-    <a href="{{ '/people/allisandra-kummer/' | relative_url }}">
-      <img src="/images/people/allisandra-kummer.png" alt="Allisandra G. Kummer">
+    <a href="">
+      <img src="/images/people/claudio-ascione.png" alt="Claudio Ascione">
     </a>
-    <h4>Allisandra G. Kummer</h4>
+    <h4>Claudio Ascione</h4>
     <p>Postdoctoral Researcher</p>
   </div>
   
@@ -137,6 +137,14 @@ permalink: /people/
     </a>
     <h4>Shreeya Mhade</h4>
     <p>PhD Candidate</p>
+  </div>
+
+  <div class="profile-card">
+    <a href="">
+      <img src="/images/people/cheng-cheng.png" alt="Cheng Cheng">
+    </a>
+    <h4>Cheng Cheng</h4>
+    <p>PhD Student</p>
   </div>
 
   <div class="profile-card">
@@ -164,11 +172,27 @@ permalink: /people/
   </div>
 
   <div class="profile-card">
-    <a href="{{ '/people/snigdha-agrawal/' | relative_url }}">
-      <img src="/images/people/snigdha-agrawal.png" alt="Snigdha Agrawal">
+    <a href="">
+      <img src="/images/people/todd-darmabal.png" alt="Todd Darmabal">
     </a>
-    <h4>Snigdha Agrawal</h4>
-    <p>Graduate Research Assistant</p>
+    <h4>Todd Darmabal</h4>
+    <p>Undergraduate Research Assistant</p>
+  </div>
+
+  <div class="profile-card">
+    <a href="">
+      <img src="/images/people/zeynep-amac.png" alt="Zeynep Amac">
+    </a>
+    <h4>Zeynep Amac</h4>
+    <p>Undergraduate Research Assistant</p>
+  </div>
+
+  <div class="profile-card">
+    <a href="{{ '/people/paulo-ventura/' | relative_url }}">
+      <img src="/images/people/paulo-ventura.png" alt="Paulo Ventura">
+    </a>
+    <h4>Paulo Ventura</h4>
+    <p>Consultant</p>
   </div>
 
 </div>
@@ -176,6 +200,8 @@ permalink: /people/
 <div class="alumni-section">
   <h2>Lab Alumni</h2>
   <ul class="alumni-list">
+    <li><a href="{{ '/people/allisandra-kummer/' | relative_url }}">Allisandra G. Kummer</a></li>
+    <li><a href="{{ '/people/snigdha-agrawal/' | relative_url }}">Snigdha Agrawal</a></li>
     <li>Luling Zou</li>
     <li>Megan Hill</li>
     <li>Anna Koebcke</li>
