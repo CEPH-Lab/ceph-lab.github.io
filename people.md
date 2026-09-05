@@ -200,6 +200,8 @@ permalink: /people/
 <div class="alumni-section">
   <h2>Lab Alumni</h2>
   <ul class="alumni-list">
+    <li>Dulani Deeshani Gangodagama Arachchige</li>
+    <li>Mia Bellan</li>
     <li><a href="{{ '/people/allisandra-kummer/' | relative_url }}">Allisandra G. Kummer</a></li>
     <li><a href="{{ '/people/snigdha-agrawal/' | relative_url }}">Snigdha Agrawal</a></li>
     <li>Luling Zou</li>
