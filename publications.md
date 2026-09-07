@@ -84,6 +84,24 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="https://doi.org/10.64898/2026.08.31.26361843" target="_blank" class="pub-title">Multi-season evaluation and
+    analysis of categorical trend forecasts of influenza hospital admissions in the United States</a>
+  <p class="pub-authors">Davis J. T., Kaur G., Hines A., Ben-Nun M., Venkatramanan S., Brooks L., Mathis S., Ajelli M., 
+    Litvinova M., Kummer A. G., Ventura P. C., Mhade S., Weber D., Shemetov D., DeFries N., McDonald D. J., 
+    Yamana T., Zepeda-Tello R., Shaman J., Yaari R., Pei S., Webber A., Shandross L., Ray E., Wadsworth S., 
+    Niemi J., Redman W. T., Mullany L., Posner R., Mallela A., Lin Y. T., Hlavacek W. S., Smart A., Gill A. A., 
+    Drennan A., Fiebiger B. J., Miller E. F., Lee J., Mihaljevic J. R., Geist K. A., Baltz M., Bernik O., 
+    Truong Y. B., Chen Y., Grosvenor C. J., Santillana M., Djorno C., Lu J., Yang S., Lu F., Clemente L., 
+    Meyer A. G., Bay C., Urbinati A., Gozzi N., Chinazzi M., Ueda M., Moghaddas N., LeWinter R., Venturini S., 
+    Fiandrino S., Vespignani A., Fox S. J., Suez E., Salcedo M., Prabhakar R., Case B. K. M., Perofsky A., 
+    Viboud C., Turtle J., Nagraj V. P., Benefield A., Williams D., Gibson G. C., Meyers L., Thommes E., 
+    van Bommel C., Loster R., Longaou B. B., Cojocaru M., Yue P., Rodríguez A., Li R., Potnis S., Reich N. G., 
+    Robacker T., Lemaitre J., Adiga A., Lewis B., Marathe M., Mandal N. C., Turner S. D., Ramakrishnan N., 
+    Su Y., Johansson M., Biggerstaff M., Borchering R. K.</p>
+  <p class="pub-journal">Preprint available on <em>medRxiv</em> (2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.64898/2026.07.13.738234" target="_blank" class="pub-title">Temporal Variation in Mosquito
     Vector Population Dynamics in Urban Areas</a>
   <p class="pub-authors">Wang S., Carruth S. G., Vasquez C., Townsend J., Raman V., Mutebi J., Ajelli M., 
