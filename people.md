@@ -173,6 +173,14 @@ permalink: /people/
 
   <div class="profile-card">
     <a href="">
+      <img src="/images/people/zongman-cai.png" alt="Zongman Cai">
+    </a>
+    <h4>Zongman Cai</h4>
+    <p>Graduate Research Assistant</p>
+  </div>
+
+  <div class="profile-card">
+    <a href="">
       <img src="/images/people/todd-darmabal.png" alt="Todd Darmabal">
     </a>
     <h4>Todd Darmabal</h4>

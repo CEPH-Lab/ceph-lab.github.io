@@ -84,6 +84,14 @@ permalink: /publications/
 
 <h2 id="2026" class="year-section">2026</h2>
 <div class="pub-entry">
+  <a href="https://doi.org/10.21203/rs.3.rs-11154983/v1" target="_blank" class="pub-title">The impact of the 
+    distributions of the latent and infectious periods on epidemic dynamics</a>
+  <p class="pub-authors">Ventura P. C., Kummer A. G., Jeong Y.-D., Mhade S., Iwami S., Merler S., Yu H., Ejima K.,
+    Litvinova M., Ajelli M.</p>
+  <p class="pub-journal">Preprint available on <em>Research Square</em> (2026)</p>
+</div>
+
+<div class="pub-entry">
   <a href="https://doi.org/10.64898/2026.08.31.26361843" target="_blank" class="pub-title">Multi-season evaluation and
     analysis of categorical trend forecasts of influenza hospital admissions in the United States</a>
   <p class="pub-authors">Davis J. T., Kaur G., Hines A., Ben-Nun M., Venkatramanan S., Brooks L., Mathis S., Ajelli M., 
