@@ -196,6 +196,14 @@ permalink: /people/
   </div>
 
   <div class="profile-card">
+    <a href="">
+      <img src="/images/people/tanaz-bari.png" alt="Tanaz Bari">
+    </a>
+    <h4>Tanaz Bari</h4>
+    <p>Undergraduate Research Assistant</p>
+  </div>
+
+  <div class="profile-card">
     <a href="{{ '/people/paulo-ventura/' | relative_url }}">
       <img src="/images/people/paulo-ventura.png" alt="Paulo Ventura">
     </a>
